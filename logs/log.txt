@@ -1,0 +1,1499 @@
+
+=========================================
+WEB
+Message: timeout: Timed out receiving message from renderer: 298.684
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00D06463+2188387]
+	Ordinal0 [0x00C9E461+1762401]
+	Ordinal0 [0x00BB3D78+802168]
+	Ordinal0 [0x00BA5E3A+745018]
+	Ordinal0 [0x00BA4C28+740392]
+	Ordinal0 [0x00BA5228+741928]
+	Ordinal0 [0x00BAEF2F+782127]
+	Ordinal0 [0x00BB9FBB+827323]
+	Ordinal0 [0x00BBD310+840464]
+	Ordinal0 [0x00BA54F6+742646]
+	Ordinal0 [0x00BB9E05+826885]
+	Ordinal0 [0x00C0CF6D+1167213]
+	Ordinal0 [0x00BFC5F6+1099254]
+	Ordinal0 [0x00BD6BE0+945120]
+	Ordinal0 [0x00BD7AD6+948950]
+	GetHandleVerifier [0x00FA71F2+2712546]
+	GetHandleVerifier [0x00F9886D+2652765]
+	GetHandleVerifier [0x00D9002A+520730]
+	GetHandleVerifier [0x00D8EE06+516086]
+	Ordinal0 [0x00CA468B+1787531]
+	Ordinal0 [0x00CA8E88+1805960]
+	Ordinal0 [0x00CA8F75+1806197]
+	Ordinal0 [0x00CB1DF1+1842673]
+	BaseThreadInitThunk [0x7601FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F17A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F17A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: timeout: Timed out receiving message from renderer: 298.533
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00D06463+2188387]
+	Ordinal0 [0x00C9E461+1762401]
+	Ordinal0 [0x00BB3D78+802168]
+	Ordinal0 [0x00BA5E3A+745018]
+	Ordinal0 [0x00BA4C28+740392]
+	Ordinal0 [0x00BA5228+741928]
+	Ordinal0 [0x00BAEF2F+782127]
+	Ordinal0 [0x00BB9FBB+827323]
+	Ordinal0 [0x00BBD310+840464]
+	Ordinal0 [0x00BA54F6+742646]
+	Ordinal0 [0x00BB9E05+826885]
+	Ordinal0 [0x00C0CF6D+1167213]
+	Ordinal0 [0x00BFC5F6+1099254]
+	Ordinal0 [0x00BD6BE0+945120]
+	Ordinal0 [0x00BD7AD6+948950]
+	GetHandleVerifier [0x00FA71F2+2712546]
+	GetHandleVerifier [0x00F9886D+2652765]
+	GetHandleVerifier [0x00D9002A+520730]
+	GetHandleVerifier [0x00D8EE06+516086]
+	Ordinal0 [0x00CA468B+1787531]
+	Ordinal0 [0x00CA8E88+1805960]
+	Ordinal0 [0x00CA8F75+1806197]
+	Ordinal0 [0x00CB1DF1+1842673]
+	BaseThreadInitThunk [0x7601FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F17A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F17A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/section[1]/div[2]/div[3]/article[1]/div/div"}
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00D06463+2188387]
+	Ordinal0 [0x00C9E461+1762401]
+	Ordinal0 [0x00BB3D78+802168]
+	Ordinal0 [0x00BE1880+989312]
+	Ordinal0 [0x00BE1B1B+989979]
+	Ordinal0 [0x00C0E912+1173778]
+	Ordinal0 [0x00BFC824+1099812]
+	Ordinal0 [0x00C0CC22+1166370]
+	Ordinal0 [0x00BFC5F6+1099254]
+	Ordinal0 [0x00BD6BE0+945120]
+	Ordinal0 [0x00BD7AD6+948950]
+	GetHandleVerifier [0x00FA71F2+2712546]
+	GetHandleVerifier [0x00F9886D+2652765]
+	GetHandleVerifier [0x00D9002A+520730]
+	GetHandleVerifier [0x00D8EE06+516086]
+	Ordinal0 [0x00CA468B+1787531]
+	Ordinal0 [0x00CA8E88+1805960]
+	Ordinal0 [0x00CA8F75+1806197]
+	Ordinal0 [0x00CB1DF1+1842673]
+	BaseThreadInitThunk [0x7601FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F17A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F17A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: timeout: Timed out receiving message from renderer: 298.860
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00D06463+2188387]
+	Ordinal0 [0x00C9E461+1762401]
+	Ordinal0 [0x00BB3D78+802168]
+	Ordinal0 [0x00BA5E3A+745018]
+	Ordinal0 [0x00BA4C28+740392]
+	Ordinal0 [0x00BA5228+741928]
+	Ordinal0 [0x00BAEF2F+782127]
+	Ordinal0 [0x00BB9FBB+827323]
+	Ordinal0 [0x00BBD310+840464]
+	Ordinal0 [0x00BA54F6+742646]
+	Ordinal0 [0x00BB9E05+826885]
+	Ordinal0 [0x00C0CF6D+1167213]
+	Ordinal0 [0x00BFC5F6+1099254]
+	Ordinal0 [0x00BD6BE0+945120]
+	Ordinal0 [0x00BD7AD6+948950]
+	GetHandleVerifier [0x00FA71F2+2712546]
+	GetHandleVerifier [0x00F9886D+2652765]
+	GetHandleVerifier [0x00D9002A+520730]
+	GetHandleVerifier [0x00D8EE06+516086]
+	Ordinal0 [0x00CA468B+1787531]
+	Ordinal0 [0x00CA8E88+1805960]
+	Ordinal0 [0x00CA8F75+1806197]
+	Ordinal0 [0x00CB1DF1+1842673]
+	BaseThreadInitThunk [0x7601FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F17A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F17A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: timeout: Timed out receiving message from renderer: 299.054
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00D06463+2188387]
+	Ordinal0 [0x00C9E461+1762401]
+	Ordinal0 [0x00BB3D78+802168]
+	Ordinal0 [0x00BA5E3A+745018]
+	Ordinal0 [0x00BA4C28+740392]
+	Ordinal0 [0x00BA5228+741928]
+	Ordinal0 [0x00BAEF2F+782127]
+	Ordinal0 [0x00BB9FBB+827323]
+	Ordinal0 [0x00BBD310+840464]
+	Ordinal0 [0x00BA54F6+742646]
+	Ordinal0 [0x00BB9E05+826885]
+	Ordinal0 [0x00C0CF6D+1167213]
+	Ordinal0 [0x00BFC5F6+1099254]
+	Ordinal0 [0x00BD6BE0+945120]
+	Ordinal0 [0x00BD7AD6+948950]
+	GetHandleVerifier [0x00FA71F2+2712546]
+	GetHandleVerifier [0x00F9886D+2652765]
+	GetHandleVerifier [0x00D9002A+520730]
+	GetHandleVerifier [0x00D8EE06+516086]
+	Ordinal0 [0x00CA468B+1787531]
+	Ordinal0 [0x00CA8E88+1805960]
+	Ordinal0 [0x00CA8F75+1806197]
+	Ordinal0 [0x00CB1DF1+1842673]
+	BaseThreadInitThunk [0x7601FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F17A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F17A6E+238]
+
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ECB09D89D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001ECA2620160>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+Message: timeout: Timed out receiving message from renderer: 298.955
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00BA6463+2188387]
+	Ordinal0 [0x00B3E461+1762401]
+	Ordinal0 [0x00A53D78+802168]
+	Ordinal0 [0x00A45E3A+745018]
+	Ordinal0 [0x00A44C28+740392]
+	Ordinal0 [0x00A45228+741928]
+	Ordinal0 [0x00A4EF2F+782127]
+	Ordinal0 [0x00A59FBB+827323]
+	Ordinal0 [0x00A5D310+840464]
+	Ordinal0 [0x00A454F6+742646]
+	Ordinal0 [0x00A59E05+826885]
+	Ordinal0 [0x00AACF6D+1167213]
+	Ordinal0 [0x00A9C5F6+1099254]
+	Ordinal0 [0x00A76BE0+945120]
+	Ordinal0 [0x00A77AD6+948950]
+	GetHandleVerifier [0x00E471F2+2712546]
+	GetHandleVerifier [0x00E3886D+2652765]
+	GetHandleVerifier [0x00C3002A+520730]
+	GetHandleVerifier [0x00C2EE06+516086]
+	Ordinal0 [0x00B4468B+1787531]
+	Ordinal0 [0x00B48E88+1805960]
+	Ordinal0 [0x00B48F75+1806197]
+	Ordinal0 [0x00B51DF1+1842673]
+	BaseThreadInitThunk [0x7609FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76FD7A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x76FD7A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00C76463+2188387]
+	Ordinal0 [0x00C0E461+1762401]
+	Ordinal0 [0x00B23D78+802168]
+	Ordinal0 [0x00B15E3A+745018]
+	Ordinal0 [0x00B14C28+740392]
+	Ordinal0 [0x00B15228+741928]
+	Ordinal0 [0x00B1EF2F+782127]
+	Ordinal0 [0x00B29FBB+827323]
+	Ordinal0 [0x00B2D310+840464]
+	Ordinal0 [0x00B154F6+742646]
+	Ordinal0 [0x00B29E05+826885]
+	Ordinal0 [0x00B7CB47+1166151]
+	Ordinal0 [0x00B6C5F6+1099254]
+	Ordinal0 [0x00B46BE0+945120]
+	Ordinal0 [0x00B47AD6+948950]
+	GetHandleVerifier [0x00F171F2+2712546]
+	GetHandleVerifier [0x00F0886D+2652765]
+	GetHandleVerifier [0x00D0002A+520730]
+	GetHandleVerifier [0x00CFEE06+516086]
+	Ordinal0 [0x00C1468B+1787531]
+	Ordinal0 [0x00C18E88+1805960]
+	Ordinal0 [0x00C18F75+1806197]
+	Ordinal0 [0x00C21DF1+1842673]
+	BaseThreadInitThunk [0x7765FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77C77A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77C77A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00C76463+2188387]
+	Ordinal0 [0x00C0E461+1762401]
+	Ordinal0 [0x00B23D78+802168]
+	Ordinal0 [0x00B15E3A+745018]
+	Ordinal0 [0x00B14C28+740392]
+	Ordinal0 [0x00B15228+741928]
+	Ordinal0 [0x00B1EF2F+782127]
+	Ordinal0 [0x00B29FBB+827323]
+	Ordinal0 [0x00B2D310+840464]
+	Ordinal0 [0x00B154F6+742646]
+	Ordinal0 [0x00B29E05+826885]
+	Ordinal0 [0x00B7CB47+1166151]
+	Ordinal0 [0x00B6C5F6+1099254]
+	Ordinal0 [0x00B46BE0+945120]
+	Ordinal0 [0x00B47AD6+948950]
+	GetHandleVerifier [0x00F171F2+2712546]
+	GetHandleVerifier [0x00F0886D+2652765]
+	GetHandleVerifier [0x00D0002A+520730]
+	GetHandleVerifier [0x00CFEE06+516086]
+	Ordinal0 [0x00C1468B+1787531]
+	Ordinal0 [0x00C18E88+1805960]
+	Ordinal0 [0x00C18F75+1806197]
+	Ordinal0 [0x00C21DF1+1842673]
+	BaseThreadInitThunk [0x7765FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77C77A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77C77A6E+238]
+
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002BEF9CA4430>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002BEF9CCE0A0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[4]/div[4]/main/div[2]/div/div/div[1]/div[2]/div/a"}
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00C76463+2188387]
+	Ordinal0 [0x00C0E461+1762401]
+	Ordinal0 [0x00B23D78+802168]
+	Ordinal0 [0x00B51880+989312]
+	Ordinal0 [0x00B51B1B+989979]
+	Ordinal0 [0x00B7E912+1173778]
+	Ordinal0 [0x00B6C824+1099812]
+	Ordinal0 [0x00B7CC22+1166370]
+	Ordinal0 [0x00B6C5F6+1099254]
+	Ordinal0 [0x00B46BE0+945120]
+	Ordinal0 [0x00B47AD6+948950]
+	GetHandleVerifier [0x00F171F2+2712546]
+	GetHandleVerifier [0x00F0886D+2652765]
+	GetHandleVerifier [0x00D0002A+520730]
+	GetHandleVerifier [0x00CFEE06+516086]
+	Ordinal0 [0x00C1468B+1787531]
+	Ordinal0 [0x00C18E88+1805960]
+	Ordinal0 [0x00C18F75+1806197]
+	Ordinal0 [0x00C21DF1+1842673]
+	BaseThreadInitThunk [0x7765FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77C77A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77C77A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[4]/div[4]/main/div[2]/div/div/div[1]/div[2]/div/a"}
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00C76463+2188387]
+	Ordinal0 [0x00C0E461+1762401]
+	Ordinal0 [0x00B23D78+802168]
+	Ordinal0 [0x00B51880+989312]
+	Ordinal0 [0x00B51B1B+989979]
+	Ordinal0 [0x00B7E912+1173778]
+	Ordinal0 [0x00B6C824+1099812]
+	Ordinal0 [0x00B7CC22+1166370]
+	Ordinal0 [0x00B6C5F6+1099254]
+	Ordinal0 [0x00B46BE0+945120]
+	Ordinal0 [0x00B47AD6+948950]
+	GetHandleVerifier [0x00F171F2+2712546]
+	GetHandleVerifier [0x00F0886D+2652765]
+	GetHandleVerifier [0x00D0002A+520730]
+	GetHandleVerifier [0x00CFEE06+516086]
+	Ordinal0 [0x00C1468B+1787531]
+	Ordinal0 [0x00C18E88+1805960]
+	Ordinal0 [0x00C18F75+1806197]
+	Ordinal0 [0x00C21DF1+1842673]
+	BaseThreadInitThunk [0x7765FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77C77A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77C77A6E+238]
+
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002BEF9B37460>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002BEF998F3A0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002BEF830ECD0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002BEF854CB80>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002BEF9BFF910>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002BEEF494100>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002BEF9C58940>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002BEF98D2610>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002BEF9D96A30>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002BEF9AC14F0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002BEF9F036A0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+Message: unknown error: net::ERR_CONNECTION_CLOSED
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00C76463+2188387]
+	Ordinal0 [0x00C0E461+1762401]
+	Ordinal0 [0x00B23D78+802168]
+	Ordinal0 [0x00B204E8+787688]
+	Ordinal0 [0x00B1654D+746829]
+	Ordinal0 [0x00B1710A+749834]
+	Ordinal0 [0x00B1675A+747354]
+	Ordinal0 [0x00B15D3F+744767]
+	Ordinal0 [0x00B14C28+740392]
+	Ordinal0 [0x00B150FD+741629]
+	Ordinal0 [0x00B25544+808260]
+	Ordinal0 [0x00B7D2DD+1168093]
+	Ordinal0 [0x00B6C7DC+1099740]
+	Ordinal0 [0x00B7CC22+1166370]
+	Ordinal0 [0x00B6C5F6+1099254]
+	Ordinal0 [0x00B46BE0+945120]
+	Ordinal0 [0x00B47AD6+948950]
+	GetHandleVerifier [0x00F171F2+2712546]
+	GetHandleVerifier [0x00F0886D+2652765]
+	GetHandleVerifier [0x00D0002A+520730]
+	GetHandleVerifier [0x00CFEE06+516086]
+	Ordinal0 [0x00C1468B+1787531]
+	Ordinal0 [0x00C18E88+1805960]
+	Ordinal0 [0x00C18F75+1806197]
+	Ordinal0 [0x00C21DF1+1842673]
+	BaseThreadInitThunk [0x7765FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77C77A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77C77A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/section[1]/div[2]/div[3]/article[1]/div/div"}
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00C76463+2188387]
+	Ordinal0 [0x00C0E461+1762401]
+	Ordinal0 [0x00B23D78+802168]
+	Ordinal0 [0x00B51880+989312]
+	Ordinal0 [0x00B51B1B+989979]
+	Ordinal0 [0x00B7E912+1173778]
+	Ordinal0 [0x00B6C824+1099812]
+	Ordinal0 [0x00B7CC22+1166370]
+	Ordinal0 [0x00B6C5F6+1099254]
+	Ordinal0 [0x00B46BE0+945120]
+	Ordinal0 [0x00B47AD6+948950]
+	GetHandleVerifier [0x00F171F2+2712546]
+	GetHandleVerifier [0x00F0886D+2652765]
+	GetHandleVerifier [0x00D0002A+520730]
+	GetHandleVerifier [0x00CFEE06+516086]
+	Ordinal0 [0x00C1468B+1787531]
+	Ordinal0 [0x00C18E88+1805960]
+	Ordinal0 [0x00C18F75+1806197]
+	Ordinal0 [0x00C21DF1+1842673]
+	BaseThreadInitThunk [0x7765FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77C77A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77C77A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/section[1]/div[2]/div[3]/article[1]/div/div"}
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00C76463+2188387]
+	Ordinal0 [0x00C0E461+1762401]
+	Ordinal0 [0x00B23D78+802168]
+	Ordinal0 [0x00B51880+989312]
+	Ordinal0 [0x00B51B1B+989979]
+	Ordinal0 [0x00B7E912+1173778]
+	Ordinal0 [0x00B6C824+1099812]
+	Ordinal0 [0x00B7CC22+1166370]
+	Ordinal0 [0x00B6C5F6+1099254]
+	Ordinal0 [0x00B46BE0+945120]
+	Ordinal0 [0x00B47AD6+948950]
+	GetHandleVerifier [0x00F171F2+2712546]
+	GetHandleVerifier [0x00F0886D+2652765]
+	GetHandleVerifier [0x00D0002A+520730]
+	GetHandleVerifier [0x00CFEE06+516086]
+	Ordinal0 [0x00C1468B+1787531]
+	Ordinal0 [0x00C18E88+1805960]
+	Ordinal0 [0x00C18F75+1806197]
+	Ordinal0 [0x00C21DF1+1842673]
+	BaseThreadInitThunk [0x7765FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77C77A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77C77A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: timeout: Timed out receiving message from renderer: 297.429
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00C76463+2188387]
+	Ordinal0 [0x00C0E461+1762401]
+	Ordinal0 [0x00B23D78+802168]
+	Ordinal0 [0x00B15E3A+745018]
+	Ordinal0 [0x00B14C28+740392]
+	Ordinal0 [0x00B15228+741928]
+	Ordinal0 [0x00B1EF2F+782127]
+	Ordinal0 [0x00B29FBB+827323]
+	Ordinal0 [0x00B2D310+840464]
+	Ordinal0 [0x00B154F6+742646]
+	Ordinal0 [0x00B29E05+826885]
+	Ordinal0 [0x00B7CF6D+1167213]
+	Ordinal0 [0x00B6C5F6+1099254]
+	Ordinal0 [0x00B46BE0+945120]
+	Ordinal0 [0x00B47AD6+948950]
+	GetHandleVerifier [0x00F171F2+2712546]
+	GetHandleVerifier [0x00F0886D+2652765]
+	GetHandleVerifier [0x00D0002A+520730]
+	GetHandleVerifier [0x00CFEE06+516086]
+	Ordinal0 [0x00C1468B+1787531]
+	Ordinal0 [0x00C18E88+1805960]
+	Ordinal0 [0x00C18F75+1806197]
+	Ordinal0 [0x00C21DF1+1842673]
+	BaseThreadInitThunk [0x7765FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77C77A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77C77A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[4]/div[4]/main/div[2]/div/div/div[1]/div[2]/div/a"}
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00C76463+2188387]
+	Ordinal0 [0x00C0E461+1762401]
+	Ordinal0 [0x00B23D78+802168]
+	Ordinal0 [0x00B51880+989312]
+	Ordinal0 [0x00B51B1B+989979]
+	Ordinal0 [0x00B7E912+1173778]
+	Ordinal0 [0x00B6C824+1099812]
+	Ordinal0 [0x00B7CC22+1166370]
+	Ordinal0 [0x00B6C5F6+1099254]
+	Ordinal0 [0x00B46BE0+945120]
+	Ordinal0 [0x00B47AD6+948950]
+	GetHandleVerifier [0x00F171F2+2712546]
+	GetHandleVerifier [0x00F0886D+2652765]
+	GetHandleVerifier [0x00D0002A+520730]
+	GetHandleVerifier [0x00CFEE06+516086]
+	Ordinal0 [0x00C1468B+1787531]
+	Ordinal0 [0x00C18E88+1805960]
+	Ordinal0 [0x00C18F75+1806197]
+	Ordinal0 [0x00C21DF1+1842673]
+	BaseThreadInitThunk [0x7765FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77C77A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77C77A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/section[1]/div[2]/div[3]/article[1]/div/div"}
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00876463+2188387]
+	Ordinal0 [0x0080E461+1762401]
+	Ordinal0 [0x00723D78+802168]
+	Ordinal0 [0x00751880+989312]
+	Ordinal0 [0x00751B1B+989979]
+	Ordinal0 [0x0077E912+1173778]
+	Ordinal0 [0x0076C824+1099812]
+	Ordinal0 [0x0077CC22+1166370]
+	Ordinal0 [0x0076C5F6+1099254]
+	Ordinal0 [0x00746BE0+945120]
+	Ordinal0 [0x00747AD6+948950]
+	GetHandleVerifier [0x00B171F2+2712546]
+	GetHandleVerifier [0x00B0886D+2652765]
+	GetHandleVerifier [0x0090002A+520730]
+	GetHandleVerifier [0x008FEE06+516086]
+	Ordinal0 [0x0081468B+1787531]
+	Ordinal0 [0x00818E88+1805960]
+	Ordinal0 [0x00818F75+1806197]
+	Ordinal0 [0x00821DF1+1842673]
+	BaseThreadInitThunk [0x757FFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77977A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77977A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: timeout: Timed out receiving message from renderer: 299.075
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x01196463+2188387]
+	Ordinal0 [0x0112E461+1762401]
+	Ordinal0 [0x01043D78+802168]
+	Ordinal0 [0x01035E3A+745018]
+	Ordinal0 [0x01034C28+740392]
+	Ordinal0 [0x01035228+741928]
+	Ordinal0 [0x0103EF2F+782127]
+	Ordinal0 [0x01049FBB+827323]
+	Ordinal0 [0x0104D310+840464]
+	Ordinal0 [0x010354F6+742646]
+	Ordinal0 [0x01049E05+826885]
+	Ordinal0 [0x0109CF6D+1167213]
+	Ordinal0 [0x0108C5F6+1099254]
+	Ordinal0 [0x01066BE0+945120]
+	Ordinal0 [0x01067AD6+948950]
+	GetHandleVerifier [0x014371F2+2712546]
+	GetHandleVerifier [0x0142886D+2652765]
+	GetHandleVerifier [0x0122002A+520730]
+	GetHandleVerifier [0x0121EE06+516086]
+	Ordinal0 [0x0113468B+1787531]
+	Ordinal0 [0x01138E88+1805960]
+	Ordinal0 [0x01138F75+1806197]
+	Ordinal0 [0x01141DF1+1842673]
+	BaseThreadInitThunk [0x7731FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77B27A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B27A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[4]/div[4]/main/div[2]/div[1]/div/div[1]/div/div/a"}
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x01196463+2188387]
+	Ordinal0 [0x0112E461+1762401]
+	Ordinal0 [0x01043D78+802168]
+	Ordinal0 [0x01071880+989312]
+	Ordinal0 [0x01071B1B+989979]
+	Ordinal0 [0x0109E912+1173778]
+	Ordinal0 [0x0108C824+1099812]
+	Ordinal0 [0x0109CC22+1166370]
+	Ordinal0 [0x0108C5F6+1099254]
+	Ordinal0 [0x01066BE0+945120]
+	Ordinal0 [0x01067AD6+948950]
+	GetHandleVerifier [0x014371F2+2712546]
+	GetHandleVerifier [0x0142886D+2652765]
+	GetHandleVerifier [0x0122002A+520730]
+	GetHandleVerifier [0x0121EE06+516086]
+	Ordinal0 [0x0113468B+1787531]
+	Ordinal0 [0x01138E88+1805960]
+	Ordinal0 [0x01138F75+1806197]
+	Ordinal0 [0x01141DF1+1842673]
+	BaseThreadInitThunk [0x7731FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77B27A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B27A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: timeout: Timed out receiving message from renderer: 298.359
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x01196463+2188387]
+	Ordinal0 [0x0112E461+1762401]
+	Ordinal0 [0x01043D78+802168]
+	Ordinal0 [0x01035E3A+745018]
+	Ordinal0 [0x01034C28+740392]
+	Ordinal0 [0x01035228+741928]
+	Ordinal0 [0x0103EF2F+782127]
+	Ordinal0 [0x01049FBB+827323]
+	Ordinal0 [0x0104D310+840464]
+	Ordinal0 [0x010354F6+742646]
+	Ordinal0 [0x01049E05+826885]
+	Ordinal0 [0x0109CF6D+1167213]
+	Ordinal0 [0x0108C5F6+1099254]
+	Ordinal0 [0x01066BE0+945120]
+	Ordinal0 [0x01067AD6+948950]
+	GetHandleVerifier [0x014371F2+2712546]
+	GetHandleVerifier [0x0142886D+2652765]
+	GetHandleVerifier [0x0122002A+520730]
+	GetHandleVerifier [0x0121EE06+516086]
+	Ordinal0 [0x0113468B+1787531]
+	Ordinal0 [0x01138E88+1805960]
+	Ordinal0 [0x01138F75+1806197]
+	Ordinal0 [0x01141DF1+1842673]
+	BaseThreadInitThunk [0x7731FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77B27A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B27A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: timeout: Timed out receiving message from renderer: 298.433
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x01196463+2188387]
+	Ordinal0 [0x0112E461+1762401]
+	Ordinal0 [0x01043D78+802168]
+	Ordinal0 [0x01035E3A+745018]
+	Ordinal0 [0x01034C28+740392]
+	Ordinal0 [0x01035228+741928]
+	Ordinal0 [0x0103EF2F+782127]
+	Ordinal0 [0x01049FBB+827323]
+	Ordinal0 [0x0104D310+840464]
+	Ordinal0 [0x010354F6+742646]
+	Ordinal0 [0x01049E05+826885]
+	Ordinal0 [0x0109CF6D+1167213]
+	Ordinal0 [0x0108C5F6+1099254]
+	Ordinal0 [0x01066BE0+945120]
+	Ordinal0 [0x01067AD6+948950]
+	GetHandleVerifier [0x014371F2+2712546]
+	GetHandleVerifier [0x0142886D+2652765]
+	GetHandleVerifier [0x0122002A+520730]
+	GetHandleVerifier [0x0121EE06+516086]
+	Ordinal0 [0x0113468B+1787531]
+	Ordinal0 [0x01138E88+1805960]
+	Ordinal0 [0x01138F75+1806197]
+	Ordinal0 [0x01141DF1+1842673]
+	BaseThreadInitThunk [0x7731FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77B27A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B27A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: unknown error: net::ERR_CONNECTION_TIMED_OUT
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x01196463+2188387]
+	Ordinal0 [0x0112E461+1762401]
+	Ordinal0 [0x01043D78+802168]
+	Ordinal0 [0x010404E8+787688]
+	Ordinal0 [0x0103654D+746829]
+	Ordinal0 [0x0103710A+749834]
+	Ordinal0 [0x0103675A+747354]
+	Ordinal0 [0x01035D3F+744767]
+	Ordinal0 [0x01034C28+740392]
+	Ordinal0 [0x010350FD+741629]
+	Ordinal0 [0x01045544+808260]
+	Ordinal0 [0x0109D2DD+1168093]
+	Ordinal0 [0x0108C7DC+1099740]
+	Ordinal0 [0x0109CC22+1166370]
+	Ordinal0 [0x0108C5F6+1099254]
+	Ordinal0 [0x01066BE0+945120]
+	Ordinal0 [0x01067AD6+948950]
+	GetHandleVerifier [0x014371F2+2712546]
+	GetHandleVerifier [0x0142886D+2652765]
+	GetHandleVerifier [0x0122002A+520730]
+	GetHandleVerifier [0x0121EE06+516086]
+	Ordinal0 [0x0113468B+1787531]
+	Ordinal0 [0x01138E88+1805960]
+	Ordinal0 [0x01138F75+1806197]
+	Ordinal0 [0x01141DF1+1842673]
+	BaseThreadInitThunk [0x7731FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77B27A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B27A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: unknown error: net::ERR_CONNECTION_TIMED_OUT
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x01196463+2188387]
+	Ordinal0 [0x0112E461+1762401]
+	Ordinal0 [0x01043D78+802168]
+	Ordinal0 [0x010404E8+787688]
+	Ordinal0 [0x0103654D+746829]
+	Ordinal0 [0x0103710A+749834]
+	Ordinal0 [0x0103675A+747354]
+	Ordinal0 [0x01035D3F+744767]
+	Ordinal0 [0x01034C28+740392]
+	Ordinal0 [0x010350FD+741629]
+	Ordinal0 [0x01045544+808260]
+	Ordinal0 [0x0109D2DD+1168093]
+	Ordinal0 [0x0108C7DC+1099740]
+	Ordinal0 [0x0109CC22+1166370]
+	Ordinal0 [0x0108C5F6+1099254]
+	Ordinal0 [0x01066BE0+945120]
+	Ordinal0 [0x01067AD6+948950]
+	GetHandleVerifier [0x014371F2+2712546]
+	GetHandleVerifier [0x0142886D+2652765]
+	GetHandleVerifier [0x0122002A+520730]
+	GetHandleVerifier [0x0121EE06+516086]
+	Ordinal0 [0x0113468B+1787531]
+	Ordinal0 [0x01138E88+1805960]
+	Ordinal0 [0x01138F75+1806197]
+	Ordinal0 [0x01141DF1+1842673]
+	BaseThreadInitThunk [0x7731FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77B27A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B27A6E+238]
+
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002CB12F686A0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002CB12F68DC0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+Message: unknown error: net::ERR_CONNECTION_TIMED_OUT
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x01196463+2188387]
+	Ordinal0 [0x0112E461+1762401]
+	Ordinal0 [0x01043D78+802168]
+	Ordinal0 [0x010404E8+787688]
+	Ordinal0 [0x0103654D+746829]
+	Ordinal0 [0x0103710A+749834]
+	Ordinal0 [0x0103675A+747354]
+	Ordinal0 [0x01035D3F+744767]
+	Ordinal0 [0x01034C28+740392]
+	Ordinal0 [0x010350FD+741629]
+	Ordinal0 [0x01045544+808260]
+	Ordinal0 [0x0109D2DD+1168093]
+	Ordinal0 [0x0108C7DC+1099740]
+	Ordinal0 [0x0109CC22+1166370]
+	Ordinal0 [0x0108C5F6+1099254]
+	Ordinal0 [0x01066BE0+945120]
+	Ordinal0 [0x01067AD6+948950]
+	GetHandleVerifier [0x014371F2+2712546]
+	GetHandleVerifier [0x0142886D+2652765]
+	GetHandleVerifier [0x0122002A+520730]
+	GetHandleVerifier [0x0121EE06+516086]
+	Ordinal0 [0x0113468B+1787531]
+	Ordinal0 [0x01138E88+1805960]
+	Ordinal0 [0x01138F75+1806197]
+	Ordinal0 [0x01141DF1+1842673]
+	BaseThreadInitThunk [0x7731FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77B27A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B27A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: unknown error: net::ERR_CONNECTION_TIMED_OUT
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x01196463+2188387]
+	Ordinal0 [0x0112E461+1762401]
+	Ordinal0 [0x01043D78+802168]
+	Ordinal0 [0x010404E8+787688]
+	Ordinal0 [0x0103654D+746829]
+	Ordinal0 [0x0103710A+749834]
+	Ordinal0 [0x0103675A+747354]
+	Ordinal0 [0x01035D3F+744767]
+	Ordinal0 [0x01034C28+740392]
+	Ordinal0 [0x010350FD+741629]
+	Ordinal0 [0x01045544+808260]
+	Ordinal0 [0x0109D2DD+1168093]
+	Ordinal0 [0x0108C7DC+1099740]
+	Ordinal0 [0x0109CC22+1166370]
+	Ordinal0 [0x0108C5F6+1099254]
+	Ordinal0 [0x01066BE0+945120]
+	Ordinal0 [0x01067AD6+948950]
+	GetHandleVerifier [0x014371F2+2712546]
+	GetHandleVerifier [0x0142886D+2652765]
+	GetHandleVerifier [0x0122002A+520730]
+	GetHandleVerifier [0x0121EE06+516086]
+	Ordinal0 [0x0113468B+1787531]
+	Ordinal0 [0x01138E88+1805960]
+	Ordinal0 [0x01138F75+1806197]
+	Ordinal0 [0x01141DF1+1842673]
+	BaseThreadInitThunk [0x7731FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77B27A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B27A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: unknown error: net::ERR_CONNECTION_TIMED_OUT
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x01196463+2188387]
+	Ordinal0 [0x0112E461+1762401]
+	Ordinal0 [0x01043D78+802168]
+	Ordinal0 [0x010404E8+787688]
+	Ordinal0 [0x0103654D+746829]
+	Ordinal0 [0x0103710A+749834]
+	Ordinal0 [0x0103675A+747354]
+	Ordinal0 [0x01035D3F+744767]
+	Ordinal0 [0x01034C28+740392]
+	Ordinal0 [0x010350FD+741629]
+	Ordinal0 [0x01045544+808260]
+	Ordinal0 [0x0109D2DD+1168093]
+	Ordinal0 [0x0108C7DC+1099740]
+	Ordinal0 [0x0109CC22+1166370]
+	Ordinal0 [0x0108C5F6+1099254]
+	Ordinal0 [0x01066BE0+945120]
+	Ordinal0 [0x01067AD6+948950]
+	GetHandleVerifier [0x014371F2+2712546]
+	GetHandleVerifier [0x0142886D+2652765]
+	GetHandleVerifier [0x0122002A+520730]
+	GetHandleVerifier [0x0121EE06+516086]
+	Ordinal0 [0x0113468B+1787531]
+	Ordinal0 [0x01138E88+1805960]
+	Ordinal0 [0x01138F75+1806197]
+	Ordinal0 [0x01141DF1+1842673]
+	BaseThreadInitThunk [0x7731FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77B27A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B27A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: unknown error: net::ERR_CONNECTION_TIMED_OUT
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x01196463+2188387]
+	Ordinal0 [0x0112E461+1762401]
+	Ordinal0 [0x01043D78+802168]
+	Ordinal0 [0x010404E8+787688]
+	Ordinal0 [0x0103654D+746829]
+	Ordinal0 [0x0103710A+749834]
+	Ordinal0 [0x0103675A+747354]
+	Ordinal0 [0x01035D3F+744767]
+	Ordinal0 [0x01034C28+740392]
+	Ordinal0 [0x010350FD+741629]
+	Ordinal0 [0x01045544+808260]
+	Ordinal0 [0x0109D2DD+1168093]
+	Ordinal0 [0x0108C7DC+1099740]
+	Ordinal0 [0x0109CC22+1166370]
+	Ordinal0 [0x0108C5F6+1099254]
+	Ordinal0 [0x01066BE0+945120]
+	Ordinal0 [0x01067AD6+948950]
+	GetHandleVerifier [0x014371F2+2712546]
+	GetHandleVerifier [0x0142886D+2652765]
+	GetHandleVerifier [0x0122002A+520730]
+	GetHandleVerifier [0x0121EE06+516086]
+	Ordinal0 [0x0113468B+1787531]
+	Ordinal0 [0x01138E88+1805960]
+	Ordinal0 [0x01138F75+1806197]
+	Ordinal0 [0x01141DF1+1842673]
+	BaseThreadInitThunk [0x7731FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77B27A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B27A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: unknown error: net::ERR_CONNECTION_TIMED_OUT
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x01196463+2188387]
+	Ordinal0 [0x0112E461+1762401]
+	Ordinal0 [0x01043D78+802168]
+	Ordinal0 [0x010404E8+787688]
+	Ordinal0 [0x0103654D+746829]
+	Ordinal0 [0x0103710A+749834]
+	Ordinal0 [0x0103675A+747354]
+	Ordinal0 [0x01035D3F+744767]
+	Ordinal0 [0x01034C28+740392]
+	Ordinal0 [0x010350FD+741629]
+	Ordinal0 [0x01045544+808260]
+	Ordinal0 [0x0109D2DD+1168093]
+	Ordinal0 [0x0108C7DC+1099740]
+	Ordinal0 [0x0109CC22+1166370]
+	Ordinal0 [0x0108C5F6+1099254]
+	Ordinal0 [0x01066BE0+945120]
+	Ordinal0 [0x01067AD6+948950]
+	GetHandleVerifier [0x014371F2+2712546]
+	GetHandleVerifier [0x0142886D+2652765]
+	GetHandleVerifier [0x0122002A+520730]
+	GetHandleVerifier [0x0121EE06+516086]
+	Ordinal0 [0x0113468B+1787531]
+	Ordinal0 [0x01138E88+1805960]
+	Ordinal0 [0x01138F75+1806197]
+	Ordinal0 [0x01141DF1+1842673]
+	BaseThreadInitThunk [0x7731FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77B27A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B27A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: unknown error: net::ERR_CONNECTION_TIMED_OUT
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x01196463+2188387]
+	Ordinal0 [0x0112E461+1762401]
+	Ordinal0 [0x01043D78+802168]
+	Ordinal0 [0x010404E8+787688]
+	Ordinal0 [0x0103654D+746829]
+	Ordinal0 [0x0103710A+749834]
+	Ordinal0 [0x0103675A+747354]
+	Ordinal0 [0x01035D3F+744767]
+	Ordinal0 [0x01034C28+740392]
+	Ordinal0 [0x010350FD+741629]
+	Ordinal0 [0x01045544+808260]
+	Ordinal0 [0x0109D2DD+1168093]
+	Ordinal0 [0x0108C7DC+1099740]
+	Ordinal0 [0x0109CC22+1166370]
+	Ordinal0 [0x0108C5F6+1099254]
+	Ordinal0 [0x01066BE0+945120]
+	Ordinal0 [0x01067AD6+948950]
+	GetHandleVerifier [0x014371F2+2712546]
+	GetHandleVerifier [0x0142886D+2652765]
+	GetHandleVerifier [0x0122002A+520730]
+	GetHandleVerifier [0x0121EE06+516086]
+	Ordinal0 [0x0113468B+1787531]
+	Ordinal0 [0x01138E88+1805960]
+	Ordinal0 [0x01138F75+1806197]
+	Ordinal0 [0x01141DF1+1842673]
+	BaseThreadInitThunk [0x7731FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77B27A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B27A6E+238]
+
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002CB11D95F40>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002CB11C3BDC0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002CB11F74F10>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+Titter All - EXEPTION:
+Topic quota exceeded.
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\tweitter\venv\lib\site-packages\firebase_admin\messaging.py", line 348, in send
+    resp = self._client.body(
+  File "C:\Users\Deadvin\PycharmProjects\tweitter\venv\lib\site-packages\firebase_admin\_http_client.py", line 131, in body
+    resp = self.request(method, url, **kwargs)
+  File "C:\Users\Deadvin\PycharmProjects\tweitter\venv\lib\site-packages\firebase_admin\_http_client.py", line 119, in request
+    resp.raise_for_status()
+  File "C:\Users\Deadvin\PycharmProjects\tweitter\venv\lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://fcm.googleapis.com/v1/projects/fir-f7caf/messages:send
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\tweitter\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\tweitter\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\scraper\twitter_all.py", line 261, in on_status
+    fcm.sendPush_twitter("Tweet from " + status.user.screen_name, text, "https://twitter.com/twitter/statuses/" + str(status.id), "t10m")
+  File "C:\Users\Deadvin\PycharmProjects\scraper\Manager.py", line 33, in sendPush_twitter
+    response = messaging.send(message)
+  File "C:\Users\Deadvin\PycharmProjects\tweitter\venv\lib\site-packages\firebase_admin\messaging.py", line 116, in send
+    return _get_messaging_service(app).send(message, dry_run)
+  File "C:\Users\Deadvin\PycharmProjects\tweitter\venv\lib\site-packages\firebase_admin\messaging.py", line 355, in send
+    raise self._handle_fcm_error(error)
+firebase_admin._messaging_utils.QuotaExceededError: Topic quota exceeded.
+
+=========================================
+=========================================
+WEB
+Message: unknown error: net::ERR_CONNECTION_TIMED_OUT
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00B76463+2188387]
+	Ordinal0 [0x00B0E461+1762401]
+	Ordinal0 [0x00A23D78+802168]
+	Ordinal0 [0x00A204E8+787688]
+	Ordinal0 [0x00A1654D+746829]
+	Ordinal0 [0x00A1710A+749834]
+	Ordinal0 [0x00A1675A+747354]
+	Ordinal0 [0x00A15D3F+744767]
+	Ordinal0 [0x00A14C28+740392]
+	Ordinal0 [0x00A150FD+741629]
+	Ordinal0 [0x00A25544+808260]
+	Ordinal0 [0x00A7D2DD+1168093]
+	Ordinal0 [0x00A6C7DC+1099740]
+	Ordinal0 [0x00A7CC22+1166370]
+	Ordinal0 [0x00A6C5F6+1099254]
+	Ordinal0 [0x00A46BE0+945120]
+	Ordinal0 [0x00A47AD6+948950]
+	GetHandleVerifier [0x00E171F2+2712546]
+	GetHandleVerifier [0x00E0886D+2652765]
+	GetHandleVerifier [0x00C0002A+520730]
+	GetHandleVerifier [0x00BFEE06+516086]
+	Ordinal0 [0x00B1468B+1787531]
+	Ordinal0 [0x00B18E88+1805960]
+	Ordinal0 [0x00B18F75+1806197]
+	Ordinal0 [0x00B21DF1+1842673]
+	BaseThreadInitThunk [0x7763FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77BF7A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77BF7A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: unknown error: net::ERR_CONNECTION_TIMED_OUT
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00B76463+2188387]
+	Ordinal0 [0x00B0E461+1762401]
+	Ordinal0 [0x00A23D78+802168]
+	Ordinal0 [0x00A204E8+787688]
+	Ordinal0 [0x00A1654D+746829]
+	Ordinal0 [0x00A1710A+749834]
+	Ordinal0 [0x00A1675A+747354]
+	Ordinal0 [0x00A15D3F+744767]
+	Ordinal0 [0x00A14C28+740392]
+	Ordinal0 [0x00A150FD+741629]
+	Ordinal0 [0x00A25544+808260]
+	Ordinal0 [0x00A7D2DD+1168093]
+	Ordinal0 [0x00A6C7DC+1099740]
+	Ordinal0 [0x00A7CC22+1166370]
+	Ordinal0 [0x00A6C5F6+1099254]
+	Ordinal0 [0x00A46BE0+945120]
+	Ordinal0 [0x00A47AD6+948950]
+	GetHandleVerifier [0x00E171F2+2712546]
+	GetHandleVerifier [0x00E0886D+2652765]
+	GetHandleVerifier [0x00C0002A+520730]
+	GetHandleVerifier [0x00BFEE06+516086]
+	Ordinal0 [0x00B1468B+1787531]
+	Ordinal0 [0x00B18E88+1805960]
+	Ordinal0 [0x00B18F75+1806197]
+	Ordinal0 [0x00B21DF1+1842673]
+	BaseThreadInitThunk [0x7763FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77BF7A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77BF7A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: unknown error: net::ERR_CONNECTION_TIMED_OUT
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00B76463+2188387]
+	Ordinal0 [0x00B0E461+1762401]
+	Ordinal0 [0x00A23D78+802168]
+	Ordinal0 [0x00A204E8+787688]
+	Ordinal0 [0x00A1654D+746829]
+	Ordinal0 [0x00A1710A+749834]
+	Ordinal0 [0x00A1675A+747354]
+	Ordinal0 [0x00A15D3F+744767]
+	Ordinal0 [0x00A14C28+740392]
+	Ordinal0 [0x00A150FD+741629]
+	Ordinal0 [0x00A25544+808260]
+	Ordinal0 [0x00A7D2DD+1168093]
+	Ordinal0 [0x00A6C7DC+1099740]
+	Ordinal0 [0x00A7CC22+1166370]
+	Ordinal0 [0x00A6C5F6+1099254]
+	Ordinal0 [0x00A46BE0+945120]
+	Ordinal0 [0x00A47AD6+948950]
+	GetHandleVerifier [0x00E171F2+2712546]
+	GetHandleVerifier [0x00E0886D+2652765]
+	GetHandleVerifier [0x00C0002A+520730]
+	GetHandleVerifier [0x00BFEE06+516086]
+	Ordinal0 [0x00B1468B+1787531]
+	Ordinal0 [0x00B18E88+1805960]
+	Ordinal0 [0x00B18F75+1806197]
+	Ordinal0 [0x00B21DF1+1842673]
+	BaseThreadInitThunk [0x7763FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77BF7A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77BF7A6E+238]
+
+=========================================
+=========================================
+WEB
+Topic quota exceeded.
+=========================================
+=========================================
+WEB
+Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00B76463+2188387]
+	Ordinal0 [0x00B0E461+1762401]
+	Ordinal0 [0x00A23D78+802168]
+	Ordinal0 [0x00A15E3A+745018]
+	Ordinal0 [0x00A14C28+740392]
+	Ordinal0 [0x00A15228+741928]
+	Ordinal0 [0x00A1EF2F+782127]
+	Ordinal0 [0x00A29FBB+827323]
+	Ordinal0 [0x00A2D310+840464]
+	Ordinal0 [0x00A154F6+742646]
+	Ordinal0 [0x00A29E05+826885]
+	Ordinal0 [0x00A7CB47+1166151]
+	Ordinal0 [0x00A6C5F6+1099254]
+	Ordinal0 [0x00A46BE0+945120]
+	Ordinal0 [0x00A47AD6+948950]
+	GetHandleVerifier [0x00E171F2+2712546]
+	GetHandleVerifier [0x00E0886D+2652765]
+	GetHandleVerifier [0x00C0002A+520730]
+	GetHandleVerifier [0x00BFEE06+516086]
+	Ordinal0 [0x00B1468B+1787531]
+	Ordinal0 [0x00B18E88+1805960]
+	Ordinal0 [0x00B18F75+1806197]
+	Ordinal0 [0x00B21DF1+1842673]
+	BaseThreadInitThunk [0x7763FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77BF7A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77BF7A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: timeout: Timed out receiving message from renderer: 298.799
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00B76463+2188387]
+	Ordinal0 [0x00B0E461+1762401]
+	Ordinal0 [0x00A23D78+802168]
+	Ordinal0 [0x00A15E3A+745018]
+	Ordinal0 [0x00A14C28+740392]
+	Ordinal0 [0x00A15228+741928]
+	Ordinal0 [0x00A1EF2F+782127]
+	Ordinal0 [0x00A29FBB+827323]
+	Ordinal0 [0x00A2D310+840464]
+	Ordinal0 [0x00A154F6+742646]
+	Ordinal0 [0x00A29E05+826885]
+	Ordinal0 [0x00A7CF6D+1167213]
+	Ordinal0 [0x00A6C5F6+1099254]
+	Ordinal0 [0x00A46BE0+945120]
+	Ordinal0 [0x00A47AD6+948950]
+	GetHandleVerifier [0x00E171F2+2712546]
+	GetHandleVerifier [0x00E0886D+2652765]
+	GetHandleVerifier [0x00C0002A+520730]
+	GetHandleVerifier [0x00BFEE06+516086]
+	Ordinal0 [0x00B1468B+1787531]
+	Ordinal0 [0x00B18E88+1805960]
+	Ordinal0 [0x00B18F75+1806197]
+	Ordinal0 [0x00B21DF1+1842673]
+	BaseThreadInitThunk [0x7763FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77BF7A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77BF7A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[4]/div[4]/main/div[2]/div/div/div[1]/div[2]/div/a"}
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00B76463+2188387]
+	Ordinal0 [0x00B0E461+1762401]
+	Ordinal0 [0x00A23D78+802168]
+	Ordinal0 [0x00A51880+989312]
+	Ordinal0 [0x00A51B1B+989979]
+	Ordinal0 [0x00A7E912+1173778]
+	Ordinal0 [0x00A6C824+1099812]
+	Ordinal0 [0x00A7CC22+1166370]
+	Ordinal0 [0x00A6C5F6+1099254]
+	Ordinal0 [0x00A46BE0+945120]
+	Ordinal0 [0x00A47AD6+948950]
+	GetHandleVerifier [0x00E171F2+2712546]
+	GetHandleVerifier [0x00E0886D+2652765]
+	GetHandleVerifier [0x00C0002A+520730]
+	GetHandleVerifier [0x00BFEE06+516086]
+	Ordinal0 [0x00B1468B+1787531]
+	Ordinal0 [0x00B18E88+1805960]
+	Ordinal0 [0x00B18F75+1806197]
+	Ordinal0 [0x00B21DF1+1842673]
+	BaseThreadInitThunk [0x7763FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77BF7A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77BF7A6E+238]
+
+=========================================
+=========================================
+Titter Acc - EXEPTION:
+Topic quota exceeded.
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\tweitter\venv\lib\site-packages\firebase_admin\messaging.py", line 348, in send
+    resp = self._client.body(
+  File "C:\Users\Deadvin\PycharmProjects\tweitter\venv\lib\site-packages\firebase_admin\_http_client.py", line 131, in body
+    resp = self.request(method, url, **kwargs)
+  File "C:\Users\Deadvin\PycharmProjects\tweitter\venv\lib\site-packages\firebase_admin\_http_client.py", line 119, in request
+    resp.raise_for_status()
+  File "C:\Users\Deadvin\PycharmProjects\tweitter\venv\lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://fcm.googleapis.com/v1/projects/fir-f7caf/messages:send
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\tweitter\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\tweitter\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\scraper\twitter_acc.py", line 171, in on_status
+    fcm.sendPush_twitter("Breaking News: ", text,
+  File "C:\Users\Deadvin\PycharmProjects\scraper\Manager.py", line 33, in sendPush_twitter
+    response = messaging.send(message)
+  File "C:\Users\Deadvin\PycharmProjects\tweitter\venv\lib\site-packages\firebase_admin\messaging.py", line 116, in send
+    return _get_messaging_service(app).send(message, dry_run)
+  File "C:\Users\Deadvin\PycharmProjects\tweitter\venv\lib\site-packages\firebase_admin\messaging.py", line 355, in send
+    raise self._handle_fcm_error(error)
+firebase_admin._messaging_utils.QuotaExceededError: Topic quota exceeded.
+
+=========================================
+=========================================
+WEB
+Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x01166463+2188387]
+	Ordinal0 [0x010FE461+1762401]
+	Ordinal0 [0x01013D78+802168]
+	Ordinal0 [0x010104E8+787688]
+	Ordinal0 [0x0100654D+746829]
+	Ordinal0 [0x0100710A+749834]
+	Ordinal0 [0x0100675A+747354]
+	Ordinal0 [0x01005D3F+744767]
+	Ordinal0 [0x01004C28+740392]
+	Ordinal0 [0x010050FD+741629]
+	Ordinal0 [0x01015544+808260]
+	Ordinal0 [0x0106D2DD+1168093]
+	Ordinal0 [0x0105C7DC+1099740]
+	Ordinal0 [0x0106CC22+1166370]
+	Ordinal0 [0x0105C5F6+1099254]
+	Ordinal0 [0x01036BE0+945120]
+	Ordinal0 [0x01037AD6+948950]
+	GetHandleVerifier [0x014071F2+2712546]
+	GetHandleVerifier [0x013F886D+2652765]
+	GetHandleVerifier [0x011F002A+520730]
+	GetHandleVerifier [0x011EEE06+516086]
+	Ordinal0 [0x0110468B+1787531]
+	Ordinal0 [0x01108E88+1805960]
+	Ordinal0 [0x01108F75+1806197]
+	Ordinal0 [0x01111DF1+1842673]
+	BaseThreadInitThunk [0x76E4FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A67A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A67A6E+238]
+
+=========================================
+=========================================
+WEB
+Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x01166463+2188387]
+	Ordinal0 [0x010FE461+1762401]
+	Ordinal0 [0x01013D78+802168]
+	Ordinal0 [0x010104E8+787688]
+	Ordinal0 [0x0100654D+746829]
+	Ordinal0 [0x0100710A+749834]
+	Ordinal0 [0x0100675A+747354]
+	Ordinal0 [0x01005D3F+744767]
+	Ordinal0 [0x01004C28+740392]
+	Ordinal0 [0x010050FD+741629]
+	Ordinal0 [0x01015544+808260]
+	Ordinal0 [0x0106D2DD+1168093]
+	Ordinal0 [0x0105C7DC+1099740]
+	Ordinal0 [0x0106CC22+1166370]
+	Ordinal0 [0x0105C5F6+1099254]
+	Ordinal0 [0x01036BE0+945120]
+	Ordinal0 [0x01037AD6+948950]
+	GetHandleVerifier [0x014071F2+2712546]
+	GetHandleVerifier [0x013F886D+2652765]
+	GetHandleVerifier [0x011F002A+520730]
+	GetHandleVerifier [0x011EEE06+516086]
+	Ordinal0 [0x0110468B+1787531]
+	Ordinal0 [0x01108E88+1805960]
+	Ordinal0 [0x01108F75+1806197]
+	Ordinal0 [0x01111DF1+1842673]
+	BaseThreadInitThunk [0x76E4FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A67A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A67A6E+238]
+
+=========================================
+=========================================
+Titter All - EXEPTION:
+Topic quota exceeded.
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\tweitter\venv\lib\site-packages\firebase_admin\messaging.py", line 348, in send
+    resp = self._client.body(
+  File "C:\Users\Deadvin\PycharmProjects\tweitter\venv\lib\site-packages\firebase_admin\_http_client.py", line 131, in body
+    resp = self.request(method, url, **kwargs)
+  File "C:\Users\Deadvin\PycharmProjects\tweitter\venv\lib\site-packages\firebase_admin\_http_client.py", line 119, in request
+    resp.raise_for_status()
+  File "C:\Users\Deadvin\PycharmProjects\tweitter\venv\lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://fcm.googleapis.com/v1/projects/fir-f7caf/messages:send
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\tweitter\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\tweitter\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\scraper\twitter_all.py", line 261, in on_status
+    fcm.sendPush_twitter("Tweet from " + status.user.screen_name, text, "https://twitter.com/twitter/statuses/" + str(status.id), "t10m")
+  File "C:\Users\Deadvin\PycharmProjects\scraper\Manager.py", line 33, in sendPush_twitter
+    response = messaging.send(message)
+  File "C:\Users\Deadvin\PycharmProjects\tweitter\venv\lib\site-packages\firebase_admin\messaging.py", line 116, in send
+    return _get_messaging_service(app).send(message, dry_run)
+  File "C:\Users\Deadvin\PycharmProjects\tweitter\venv\lib\site-packages\firebase_admin\messaging.py", line 355, in send
+    raise self._handle_fcm_error(error)
+firebase_admin._messaging_utils.QuotaExceededError: Topic quota exceeded.
+
+=========================================
+=========================================
+WEB
+Message: timeout: Timed out receiving message from renderer: 299.157
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x01156463+2188387]
+	Ordinal0 [0x010EE461+1762401]
+	Ordinal0 [0x01003D78+802168]
+	Ordinal0 [0x00FF5E3A+745018]
+	Ordinal0 [0x00FF4C28+740392]
+	Ordinal0 [0x00FF5228+741928]
+	Ordinal0 [0x00FFEF2F+782127]
+	Ordinal0 [0x01009FBB+827323]
+	Ordinal0 [0x0100D310+840464]
+	Ordinal0 [0x00FF54F6+742646]
+	Ordinal0 [0x01009E05+826885]
+	Ordinal0 [0x0105CF6D+1167213]
+	Ordinal0 [0x0104C5F6+1099254]
+	Ordinal0 [0x01026BE0+945120]
+	Ordinal0 [0x01027AD6+948950]
+	GetHandleVerifier [0x013F71F2+2712546]
+	GetHandleVerifier [0x013E886D+2652765]
+	GetHandleVerifier [0x011E002A+520730]
+	GetHandleVerifier [0x011DEE06+516086]
+	Ordinal0 [0x010F468B+1787531]
+	Ordinal0 [0x010F8E88+1805960]
+	Ordinal0 [0x010F8F75+1806197]
+	Ordinal0 [0x01101DF1+1842673]
+	BaseThreadInitThunk [0x7763FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77E87B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x77E87B2E+238]
+
+=========================================
+=========================================
+WEB
+Message: timeout: Timed out receiving message from renderer: 290.518
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00716463+2188387]
+	Ordinal0 [0x006AE461+1762401]
+	Ordinal0 [0x005C3D78+802168]
+	Ordinal0 [0x005B5E3A+745018]
+	Ordinal0 [0x005B4C28+740392]
+	Ordinal0 [0x005B5228+741928]
+	Ordinal0 [0x005BEF2F+782127]
+	Ordinal0 [0x005C9FBB+827323]
+	Ordinal0 [0x005CD310+840464]
+	Ordinal0 [0x005B54F6+742646]
+	Ordinal0 [0x005C9E05+826885]
+	Ordinal0 [0x0061CF6D+1167213]
+	Ordinal0 [0x0060C5F6+1099254]
+	Ordinal0 [0x005E6BE0+945120]
+	Ordinal0 [0x005E7AD6+948950]
+	GetHandleVerifier [0x009B71F2+2712546]
+	GetHandleVerifier [0x009A886D+2652765]
+	GetHandleVerifier [0x007A002A+520730]
+	GetHandleVerifier [0x0079EE06+516086]
+	Ordinal0 [0x006B468B+1787531]
+	Ordinal0 [0x006B8E88+1805960]
+	Ordinal0 [0x006B8F75+1806197]
+	Ordinal0 [0x006C1DF1+1842673]
+	BaseThreadInitThunk [0x7763FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77E87B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x77E87B2E+238]
+
+=========================================
+=========================================
+WEB
+Message: timeout: Timed out receiving message from renderer: 298.512
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00C86463+2188387]
+	Ordinal0 [0x00C1E461+1762401]
+	Ordinal0 [0x00B33D78+802168]
+	Ordinal0 [0x00B25E3A+745018]
+	Ordinal0 [0x00B24C28+740392]
+	Ordinal0 [0x00B25228+741928]
+	Ordinal0 [0x00B2EF2F+782127]
+	Ordinal0 [0x00B39FBB+827323]
+	Ordinal0 [0x00B3D310+840464]
+	Ordinal0 [0x00B254F6+742646]
+	Ordinal0 [0x00B39E05+826885]
+	Ordinal0 [0x00B8CF6D+1167213]
+	Ordinal0 [0x00B7C5F6+1099254]
+	Ordinal0 [0x00B56BE0+945120]
+	Ordinal0 [0x00B57AD6+948950]
+	GetHandleVerifier [0x00F271F2+2712546]
+	GetHandleVerifier [0x00F1886D+2652765]
+	GetHandleVerifier [0x00D1002A+520730]
+	GetHandleVerifier [0x00D0EE06+516086]
+	Ordinal0 [0x00C2468B+1787531]
+	Ordinal0 [0x00C28E88+1805960]
+	Ordinal0 [0x00C28F75+1806197]
+	Ordinal0 [0x00C31DF1+1842673]
+	BaseThreadInitThunk [0x75A7FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77647B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x77647B2E+238]
+
+=========================================
