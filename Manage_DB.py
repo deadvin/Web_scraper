@@ -349,7 +349,6 @@ def check_for_trending_tweets():
         cursor_average = db_average.find()
 
         for c in cursor:
-
             try:
                 lenght = len(c.get("likes"))
                 if lenght < 60:
@@ -460,7 +459,6 @@ def pinned_tweets():
             myfile.write('\n' + str(traceback.format_exc()))
             myfile.write('\n' + "=========================================")
 
-
 def run():
 
     print("ONLINE MANAGE DB")
@@ -493,21 +491,3 @@ def run():
                 myfile.write('\n' + str(e))
                 myfile.write('\n' + str(traceback.format_exc()))
                 myfile.write('\n' + "=========================================")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

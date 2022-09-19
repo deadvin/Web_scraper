@@ -8855,3 +8855,75 @@ Traceback (most recent call last):
 requests.exceptions.ConnectionError: HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_div_1m (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000172C73FB8E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
 
 =========================================
+=========================================
+BINANCE - EXEPTION:
+HTTPSConnectionPool(host='api.binance.com', port=443): Read timed out. (read timeout=60)
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\urllib3\connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\urllib3\connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\Deadvin\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1345, in getresponse
+    response.begin()
+  File "C:\Users\Deadvin\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\Deadvin\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\Deadvin\AppData\Local\Programs\Python\Python39\lib\socket.py", line 704, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\Deadvin\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\Deadvin\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\urllib3\util\retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\urllib3\packages\six.py", line 770, in reraise
+    raise value
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\urllib3\connectionpool.py", line 451, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\urllib3\connectionpool.py", line 340, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.binance.com', port=443): Read timed out. (read timeout=60)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Binance_script.py", line 161, in run
+    klines = client.get_historical_klines(alt.get('name') + "USDT", time_frame, petiod)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\binance\client.py", line 934, in get_historical_klines
+    return self._historical_klines(
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\binance\client.py", line 984, in _historical_klines
+    temp_data = self._klines(
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\binance\client.py", line 883, in _klines
+    return self.get_klines(**params)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\binance\client.py", line 868, in get_klines
+    return self._get('klines', data=params, version=self.PRIVATE_API_VERSION)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\binance\client.py", line 371, in _get
+    return self._request_api('get', path, signed, version, **kwargs)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\binance\client.py", line 334, in _request_api
+    return self._request(method, uri, signed, **kwargs)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\binance\client.py", line 314, in _request
+    self.response = getattr(self.session, method)(uri, **kwargs)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\requests\sessions.py", line 600, in get
+    return self.request("GET", url, **kwargs)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\requests\adapters.py", line 578, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.binance.com', port=443): Read timed out. (read timeout=60)
+
+=========================================

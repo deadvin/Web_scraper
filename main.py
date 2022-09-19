@@ -7,44 +7,50 @@ import Scraper_news_events as Scraper_news_events
 import threading
 
 
-def twitter_all_f():
+def twitter_all():
     twitter_stream_all_v1.main()
 
-def twitter_acc_f():
+def twitter_acc():
     Twitter_stream_acc.main()
 
-def screapers_f():
+def videos():
     Scraper_videos.main()
 
-def web_f():
+def web_news_events():
     Scraper_news_events.main()
 
-def manage():
+def manage_db():
     Manage_DB.run()
 
-def price():
+def binance_scripts():
     Binance_script.run()
+
+def main():
+
+    t1 = threading.Thread(target=twitter_all)
+    t1.start()
+
+    t2 = threading.Thread(target=twitter_acc)
+    t2.start()
+
+    t3 = threading.Thread(target=videos)
+    t3.start()
+
+    t4 = threading.Thread(target=web_news_events)
+    t4.start()
+
+    t5 = threading.Thread(target=manage_db)
+    t5.start()
+
+    t6 = threading.Thread(target=binance_scripts)
+    t6.start()
 
 
 if __name__ == "__main__":
 
-    t1 = threading.Thread(target=twitter_all_f)
-    t1.start()
+    main()
 
-    t2 = threading.Thread(target=twitter_acc_f)
-    t2.start()
 
-    t3 = threading.Thread(target=screapers_f)
-    t3.start()
-
-    t4 = threading.Thread(target=web_f)
-    t4.start()
-
-    t5 = threading.Thread(target=manage)
-    t5.start()
-
-    t6 = threading.Thread(target=price)
-    t6.start()
 
 
 

@@ -22219,3 +22219,737 @@ Traceback (most recent call last):
 ZeroDivisionError: division by zero
 
 =========================================
+=========================================
+Manage DB Update - EXEPTION:
+503 Service Unavailable
+Service Unavailable
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 252, in update_tweets
+    tweets = client_tweepy.get_tweets(ids=tweet_IDs, tweet_fields=["public_metrics"])
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\client.py", line 1803, in get_tweets
+    return self._make_request(
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\client.py", line 126, in _make_request
+    response = self.request(method, route, params=request_params,
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\client.py", line 116, in request
+    raise TwitterServerError(response)
+tweepy.errors.TwitterServerError: 503 Service Unavailable
+Service Unavailable
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'ankr
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 325, in update_trend_av_del_above_500_trend_a
+    {'$set': {'trend_vol_av': int(sum(trend_vol) / len(trend_vol))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'mana
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 325, in update_trend_av_del_above_500_trend_a
+    {'$set': {'trend_vol_av': int(sum(trend_vol) / len(trend_vol))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'gala
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 325, in update_trend_av_del_above_500_trend_a
+    {'$set': {'trend_vol_av': int(sum(trend_vol) / len(trend_vol))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'atom
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 325, in update_trend_av_del_above_500_trend_a
+    {'$set': {'trend_vol_av': int(sum(trend_vol) / len(trend_vol))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'inj
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 323, in update_trend_av_del_above_500_trend_a
+    db_trend.update_one({'name': c.get("name")}, {'$set': {'trend_av': int(sum(trend) / len(trend))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'coti
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 323, in update_trend_av_del_above_500_trend_a
+    db_trend.update_one({'name': c.get("name")}, {'$set': {'trend_av': int(sum(trend) / len(trend))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'etc
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 325, in update_trend_av_del_above_500_trend_a
+    {'$set': {'trend_vol_av': int(sum(trend_vol) / len(trend_vol))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'xrp
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 323, in update_trend_av_del_above_500_trend_a
+    db_trend.update_one({'name': c.get("name")}, {'$set': {'trend_av': int(sum(trend) / len(trend))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'ftm
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 325, in update_trend_av_del_above_500_trend_a
+    {'$set': {'trend_vol_av': int(sum(trend_vol) / len(trend_vol))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'algo
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 323, in update_trend_av_del_above_500_trend_a
+    db_trend.update_one({'name': c.get("name")}, {'$set': {'trend_av': int(sum(trend) / len(trend))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'ankr
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 325, in update_trend_av_del_above_500_trend_a
+    {'$set': {'trend_vol_av': int(sum(trend_vol) / len(trend_vol))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'mana
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 325, in update_trend_av_del_above_500_trend_a
+    {'$set': {'trend_vol_av': int(sum(trend_vol) / len(trend_vol))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'gala
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 325, in update_trend_av_del_above_500_trend_a
+    {'$set': {'trend_vol_av': int(sum(trend_vol) / len(trend_vol))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'atom
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 325, in update_trend_av_del_above_500_trend_a
+    {'$set': {'trend_vol_av': int(sum(trend_vol) / len(trend_vol))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'inj
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 323, in update_trend_av_del_above_500_trend_a
+    db_trend.update_one({'name': c.get("name")}, {'$set': {'trend_av': int(sum(trend) / len(trend))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'coti
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 323, in update_trend_av_del_above_500_trend_a
+    db_trend.update_one({'name': c.get("name")}, {'$set': {'trend_av': int(sum(trend) / len(trend))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'etc
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 325, in update_trend_av_del_above_500_trend_a
+    {'$set': {'trend_vol_av': int(sum(trend_vol) / len(trend_vol))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'xrp
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 323, in update_trend_av_del_above_500_trend_a
+    db_trend.update_one({'name': c.get("name")}, {'$set': {'trend_av': int(sum(trend) / len(trend))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'ftm
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 325, in update_trend_av_del_above_500_trend_a
+    {'$set': {'trend_vol_av': int(sum(trend_vol) / len(trend_vol))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'algo
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 323, in update_trend_av_del_above_500_trend_a
+    db_trend.update_one({'name': c.get("name")}, {'$set': {'trend_av': int(sum(trend) / len(trend))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB Update - EXEPTION:
+503 Service Unavailable
+Service Unavailable
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 252, in update_tweets
+    tweets = client_tweepy.get_tweets(ids=tweet_IDs, tweet_fields=["public_metrics"])
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\client.py", line 1803, in get_tweets
+    return self._make_request(
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\client.py", line 126, in _make_request
+    response = self.request(method, route, params=request_params,
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\client.py", line 116, in request
+    raise TwitterServerError(response)
+tweepy.errors.TwitterServerError: 503 Service Unavailable
+Service Unavailable
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+    {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'ankr
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 325, in update_trend_av_del_above_500_trend_a
+    {'$set': {'trend_vol_av': int(sum(trend_vol) / len(trend_vol))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'mana
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 325, in update_trend_av_del_above_500_trend_a
+    {'$set': {'trend_vol_av': int(sum(trend_vol) / len(trend_vol))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'gala
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 325, in update_trend_av_del_above_500_trend_a
+    {'$set': {'trend_vol_av': int(sum(trend_vol) / len(trend_vol))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'atom
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 325, in update_trend_av_del_above_500_trend_a
+    {'$set': {'trend_vol_av': int(sum(trend_vol) / len(trend_vol))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'inj
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 323, in update_trend_av_del_above_500_trend_a
+    db_trend.update_one({'name': c.get("name")}, {'$set': {'trend_av': int(sum(trend) / len(trend))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'coti
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 323, in update_trend_av_del_above_500_trend_a
+    db_trend.update_one({'name': c.get("name")}, {'$set': {'trend_av': int(sum(trend) / len(trend))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'etc
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 325, in update_trend_av_del_above_500_trend_a
+    {'$set': {'trend_vol_av': int(sum(trend_vol) / len(trend_vol))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'xrp
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 323, in update_trend_av_del_above_500_trend_a
+    db_trend.update_one({'name': c.get("name")}, {'$set': {'trend_av': int(sum(trend) / len(trend))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'ftm
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 325, in update_trend_av_del_above_500_trend_a
+    {'$set': {'trend_vol_av': int(sum(trend_vol) / len(trend_vol))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB PINNED TWEETS - EXEPTION:
+unsupported operand type(s) for +: 'int' and 'NoneType'algo
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 323, in update_trend_av_del_above_500_trend_a
+    db_trend.update_one({'name': c.get("name")}, {'$set': {'trend_av': int(sum(trend) / len(trend))}})
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+ZeroDivisionError: division by zero
+
+=========================================
+=========================================
+Manage DB TRENDING TWEETS - EXEPTION:
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Manage_DB.py", line 361, in check_for_trending_tweets
+ZeroDivisionError: division by zero
+
+=========================================

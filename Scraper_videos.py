@@ -59,9 +59,9 @@ def youtube():
             body = driver.find_element(by=By.XPATH, value='//*[@id="video-title"]').text
             link = driver.find_element(by=By.XPATH, value='//*[@id="video-title"]')
             name = driver.find_element(by=By.CLASS_NAME, value='style-scope ytd-channel-name').text
-            exsist = tube_db.find_one({'text': body})
+            exists = tube_db.find_one({'text': body})
 
-            if not exsist:
+            if not exists:
 
                 tube_db.insert_one({
                     "name": name,
