@@ -223,3 +223,2274 @@ Backtrace:
 	RtlGetAppContainerNamedObjectPath [0x774F7B2E+238]
 
 =========================================
+=========================================
+WEB
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[4]/div[4]/main/div[2]/div/div/div[1]/div[2]/div/a"}
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00E76463+2188387]
+	Ordinal0 [0x00E0E461+1762401]
+	Ordinal0 [0x00D23D78+802168]
+	Ordinal0 [0x00D51880+989312]
+	Ordinal0 [0x00D51B1B+989979]
+	Ordinal0 [0x00D7E912+1173778]
+	Ordinal0 [0x00D6C824+1099812]
+	Ordinal0 [0x00D7CC22+1166370]
+	Ordinal0 [0x00D6C5F6+1099254]
+	Ordinal0 [0x00D46BE0+945120]
+	Ordinal0 [0x00D47AD6+948950]
+	GetHandleVerifier [0x011171F2+2712546]
+	GetHandleVerifier [0x0110886D+2652765]
+	GetHandleVerifier [0x00F0002A+520730]
+	GetHandleVerifier [0x00EFEE06+516086]
+	Ordinal0 [0x00E1468B+1787531]
+	Ordinal0 [0x00E18E88+1805960]
+	Ordinal0 [0x00E18F75+1806197]
+	Ordinal0 [0x00E21DF1+1842673]
+	BaseThreadInitThunk [0x7679FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77697B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x77697B2E+238]
+
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000158F4846040>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00E36463+2188387]
+	Ordinal0 [0x00DCE461+1762401]
+	Ordinal0 [0x00CE3D78+802168]
+	Ordinal0 [0x00CE04E8+787688]
+	Ordinal0 [0x00CD654D+746829]
+	Ordinal0 [0x00CD710A+749834]
+	Ordinal0 [0x00CD675A+747354]
+	Ordinal0 [0x00CD5D3F+744767]
+	Ordinal0 [0x00CD4C28+740392]
+	Ordinal0 [0x00CD50FD+741629]
+	Ordinal0 [0x00CE5544+808260]
+	Ordinal0 [0x00D3D2DD+1168093]
+	Ordinal0 [0x00D2C7DC+1099740]
+	Ordinal0 [0x00D3CC22+1166370]
+	Ordinal0 [0x00D2C5F6+1099254]
+	Ordinal0 [0x00D06BE0+945120]
+	Ordinal0 [0x00D07AD6+948950]
+	GetHandleVerifier [0x010D71F2+2712546]
+	GetHandleVerifier [0x010C886D+2652765]
+	GetHandleVerifier [0x00EC002A+520730]
+	GetHandleVerifier [0x00EBEE06+516086]
+	Ordinal0 [0x00DD468B+1787531]
+	Ordinal0 [0x00DD8E88+1805960]
+	Ordinal0 [0x00DD8F75+1806197]
+	Ordinal0 [0x00DE1DF1+1842673]
+	BaseThreadInitThunk [0x7679FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77697B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x77697B2E+238]
+
+=========================================
+=========================================
+WEB
+Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00E36463+2188387]
+	Ordinal0 [0x00DCE461+1762401]
+	Ordinal0 [0x00CE3D78+802168]
+	Ordinal0 [0x00CE04E8+787688]
+	Ordinal0 [0x00CD654D+746829]
+	Ordinal0 [0x00CD710A+749834]
+	Ordinal0 [0x00CD675A+747354]
+	Ordinal0 [0x00CD5D3F+744767]
+	Ordinal0 [0x00CD4C28+740392]
+	Ordinal0 [0x00CD50FD+741629]
+	Ordinal0 [0x00CE5544+808260]
+	Ordinal0 [0x00D3D2DD+1168093]
+	Ordinal0 [0x00D2C7DC+1099740]
+	Ordinal0 [0x00D3CC22+1166370]
+	Ordinal0 [0x00D2C5F6+1099254]
+	Ordinal0 [0x00D06BE0+945120]
+	Ordinal0 [0x00D07AD6+948950]
+	GetHandleVerifier [0x010D71F2+2712546]
+	GetHandleVerifier [0x010C886D+2652765]
+	GetHandleVerifier [0x00EC002A+520730]
+	GetHandleVerifier [0x00EBEE06+516086]
+	Ordinal0 [0x00DD468B+1787531]
+	Ordinal0 [0x00DD8E88+1805960]
+	Ordinal0 [0x00DD8F75+1806197]
+	Ordinal0 [0x00DE1DF1+1842673]
+	BaseThreadInitThunk [0x7679FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77697B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x77697B2E+238]
+
+=========================================
+=========================================
+WEB
+Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: headless chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00E36463+2188387]
+	Ordinal0 [0x00DCE461+1762401]
+	Ordinal0 [0x00CE3D78+802168]
+	Ordinal0 [0x00CE04E8+787688]
+	Ordinal0 [0x00CD654D+746829]
+	Ordinal0 [0x00CD710A+749834]
+	Ordinal0 [0x00CD675A+747354]
+	Ordinal0 [0x00CD5D3F+744767]
+	Ordinal0 [0x00CD4C28+740392]
+	Ordinal0 [0x00CD50FD+741629]
+	Ordinal0 [0x00CE5544+808260]
+	Ordinal0 [0x00D3D2DD+1168093]
+	Ordinal0 [0x00D2C7DC+1099740]
+	Ordinal0 [0x00D3CC22+1166370]
+	Ordinal0 [0x00D2C5F6+1099254]
+	Ordinal0 [0x00D06BE0+945120]
+	Ordinal0 [0x00D07AD6+948950]
+	GetHandleVerifier [0x010D71F2+2712546]
+	GetHandleVerifier [0x010C886D+2652765]
+	GetHandleVerifier [0x00EC002A+520730]
+	GetHandleVerifier [0x00EBEE06+516086]
+	Ordinal0 [0x00DD468B+1787531]
+	Ordinal0 [0x00DD8E88+1805960]
+	Ordinal0 [0x00DD8F75+1806197]
+	Ordinal0 [0x00DE1DF1+1842673]
+	BaseThreadInitThunk [0x7679FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77697B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x77697B2E+238]
+
+=========================================
+=========================================
+WEB
+cluster0-shard-00-02.uclia.mongodb.net:27017: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+=========================================
+=========================================
+WEB
+No replica set members match selector "Primary()", Timeout: 30s, Topology Description: <TopologyDescription id: 634265cf03b30d05f74ca2a3, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('cluster0-shard-00-00.uclia.mongodb.net', 27017) server_type: RSSecondary, rtt: 0.032606818935734166>, <ServerDescription ('cluster0-shard-00-01.uclia.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('cluster0-shard-00-01.uclia.mongodb.net:27017: timed out')>, <ServerDescription ('cluster0-shard-00-02.uclia.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('cluster0-shard-00-02.uclia.mongodb.net:27017: timed out')>]>
+=========================================
+=========================================
+Titter All - EXEPTION:
+No primary available for writes, Timeout: 30s, Topology Description: <TopologyDescription id: 634265c903b30d05f74ca29f, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('cluster0-shard-00-00.uclia.mongodb.net', 27017) server_type: RSSecondary, rtt: 0.040640119389538404>, <ServerDescription ('cluster0-shard-00-01.uclia.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('cluster0-shard-00-01.uclia.mongodb.net:27017: timed out')>, <ServerDescription ('cluster0-shard-00-02.uclia.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('cluster0-shard-00-02.uclia.mongodb.net:27017: timed out')>]>
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\twitter_stream_all_v1.py", line 211, in on_status
+    db_100.insert_one({
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pymongo\collection.py", line 621, in insert_one
+    self._insert_one(
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pymongo\collection.py", line 562, in _insert_one
+    self.__database.client._retryable_write(acknowledged, _insert_command, session)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pymongo\mongo_client.py", line 1448, in _retryable_write
+    return self._retry_with_session(retryable, func, s, None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pymongo\mongo_client.py", line 1321, in _retry_with_session
+    return self._retry_internal(retryable, func, session, bulk)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pymongo\_csot.py", line 105, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pymongo\mongo_client.py", line 1349, in _retry_internal
+    server = self._select_server(writable_server_selector, session)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pymongo\mongo_client.py", line 1229, in _select_server
+    server = topology.select_server(server_selector)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pymongo\topology.py", line 272, in select_server
+    server = self._select_server(selector, server_selection_timeout, address)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pymongo\topology.py", line 261, in _select_server
+    servers = self.select_servers(selector, server_selection_timeout, address)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pymongo\topology.py", line 223, in select_servers
+    server_descriptions = self._select_servers_loop(selector, server_timeout, address)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pymongo\topology.py", line 238, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: No primary available for writes, Timeout: 30s, Topology Description: <TopologyDescription id: 634265c903b30d05f74ca29f, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('cluster0-shard-00-00.uclia.mongodb.net', 27017) server_type: RSSecondary, rtt: 0.040640119389538404>, <ServerDescription ('cluster0-shard-00-01.uclia.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('cluster0-shard-00-01.uclia.mongodb.net:27017: timed out')>, <ServerDescription ('cluster0-shard-00-02.uclia.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('cluster0-shard-00-02.uclia.mongodb.net:27017: timed out')>]>
+
+=========================================
+=========================================
+WEB
+Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x010F1ED3+2236115]
+	Ordinal0 [0x010892F1+1807089]
+	Ordinal0 [0x00F966FD+812797]
+	Ordinal0 [0x00F89449+758857]
+	Ordinal0 [0x00F892C1+758465]
+	Ordinal0 [0x00F88113+753939]
+	Ordinal0 [0x00F88748+755528]
+	Ordinal0 [0x00F915D2+792018]
+	Ordinal0 [0x00F9CB15+838421]
+	Ordinal0 [0x00F9FEB0+851632]
+	Ordinal0 [0x00F88ADC+756444]
+	Ordinal0 [0x00F9C94F+837967]
+	Ordinal0 [0x00FF590A+1202442]
+	Ordinal0 [0x00FE18A6+1120422]
+	Ordinal0 [0x00FBA73D+960317]
+	Ordinal0 [0x00FBB71F+964383]
+	GetHandleVerifier [0x0139E7E2+2743074]
+	GetHandleVerifier [0x013908D4+2685972]
+	GetHandleVerifier [0x01182BAA+532202]
+	GetHandleVerifier [0x01181990+527568]
+	Ordinal0 [0x0109080C+1837068]
+	Ordinal0 [0x01094CD8+1854680]
+	Ordinal0 [0x01094DC5+1854917]
+	Ordinal0 [0x0109ED64+1895780]
+	BaseThreadInitThunk [0x7764FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77797BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77797B8E+238]
+
+=========================================
+=========================================
+WEB
+Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x010F1ED3+2236115]
+	Ordinal0 [0x010892F1+1807089]
+	Ordinal0 [0x00F966FD+812797]
+	Ordinal0 [0x00F89449+758857]
+	Ordinal0 [0x00F892C1+758465]
+	Ordinal0 [0x00F88113+753939]
+	Ordinal0 [0x00F88748+755528]
+	Ordinal0 [0x00F915D2+792018]
+	Ordinal0 [0x00F9CB15+838421]
+	Ordinal0 [0x00F9FEB0+851632]
+	Ordinal0 [0x00F88ADC+756444]
+	Ordinal0 [0x00F9C94F+837967]
+	Ordinal0 [0x00FF590A+1202442]
+	Ordinal0 [0x00FE18A6+1120422]
+	Ordinal0 [0x00FBA73D+960317]
+	Ordinal0 [0x00FBB71F+964383]
+	GetHandleVerifier [0x0139E7E2+2743074]
+	GetHandleVerifier [0x013908D4+2685972]
+	GetHandleVerifier [0x01182BAA+532202]
+	GetHandleVerifier [0x01181990+527568]
+	Ordinal0 [0x0109080C+1837068]
+	Ordinal0 [0x01094CD8+1854680]
+	Ordinal0 [0x01094DC5+1854917]
+	Ordinal0 [0x0109ED64+1895780]
+	BaseThreadInitThunk [0x7764FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77797BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77797B8E+238]
+
+=========================================
+=========================================
+WEB
+Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x010F1ED3+2236115]
+	Ordinal0 [0x010892F1+1807089]
+	Ordinal0 [0x00F966FD+812797]
+	Ordinal0 [0x00F89449+758857]
+	Ordinal0 [0x00F892C1+758465]
+	Ordinal0 [0x00F88113+753939]
+	Ordinal0 [0x00F88748+755528]
+	Ordinal0 [0x00F915D2+792018]
+	Ordinal0 [0x00F9CB15+838421]
+	Ordinal0 [0x00F9FEB0+851632]
+	Ordinal0 [0x00F88ADC+756444]
+	Ordinal0 [0x00F9C94F+837967]
+	Ordinal0 [0x00FF590A+1202442]
+	Ordinal0 [0x00FE18A6+1120422]
+	Ordinal0 [0x00FBA73D+960317]
+	Ordinal0 [0x00FBB71F+964383]
+	GetHandleVerifier [0x0139E7E2+2743074]
+	GetHandleVerifier [0x013908D4+2685972]
+	GetHandleVerifier [0x01182BAA+532202]
+	GetHandleVerifier [0x01181990+527568]
+	Ordinal0 [0x0109080C+1837068]
+	Ordinal0 [0x01094CD8+1854680]
+	Ordinal0 [0x01094DC5+1854917]
+	Ordinal0 [0x0109ED64+1895780]
+	BaseThreadInitThunk [0x7764FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77797BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77797B8E+238]
+
+=========================================
+=========================================
+WEB
+Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x010F1ED3+2236115]
+	Ordinal0 [0x010892F1+1807089]
+	Ordinal0 [0x00F966FD+812797]
+	Ordinal0 [0x00F89449+758857]
+	Ordinal0 [0x00F892C1+758465]
+	Ordinal0 [0x00F88113+753939]
+	Ordinal0 [0x00F88748+755528]
+	Ordinal0 [0x00F915D2+792018]
+	Ordinal0 [0x00F9CB15+838421]
+	Ordinal0 [0x00F9FEB0+851632]
+	Ordinal0 [0x00F88ADC+756444]
+	Ordinal0 [0x00F9C94F+837967]
+	Ordinal0 [0x00FF590A+1202442]
+	Ordinal0 [0x00FE18A6+1120422]
+	Ordinal0 [0x00FBA73D+960317]
+	Ordinal0 [0x00FBB71F+964383]
+	GetHandleVerifier [0x0139E7E2+2743074]
+	GetHandleVerifier [0x013908D4+2685972]
+	GetHandleVerifier [0x01182BAA+532202]
+	GetHandleVerifier [0x01181990+527568]
+	Ordinal0 [0x0109080C+1837068]
+	Ordinal0 [0x01094CD8+1854680]
+	Ordinal0 [0x01094DC5+1854917]
+	Ordinal0 [0x0109ED64+1895780]
+	BaseThreadInitThunk [0x7764FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77797BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77797B8E+238]
+
+=========================================
+=========================================
+WEB
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/section[1]/div[2]/div[3]/article[1]/div/div"}
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x010F1ED3+2236115]
+	Ordinal0 [0x010892F1+1807089]
+	Ordinal0 [0x00F966FD+812797]
+	Ordinal0 [0x00FC55DF+1005023]
+	Ordinal0 [0x00FC57CB+1005515]
+	Ordinal0 [0x00FF7632+1209906]
+	Ordinal0 [0x00FE1AD4+1120980]
+	Ordinal0 [0x00FF59E2+1202658]
+	Ordinal0 [0x00FE18A6+1120422]
+	Ordinal0 [0x00FBA73D+960317]
+	Ordinal0 [0x00FBB71F+964383]
+	GetHandleVerifier [0x0139E7E2+2743074]
+	GetHandleVerifier [0x013908D4+2685972]
+	GetHandleVerifier [0x01182BAA+532202]
+	GetHandleVerifier [0x01181990+527568]
+	Ordinal0 [0x0109080C+1837068]
+	Ordinal0 [0x01094CD8+1854680]
+	Ordinal0 [0x01094DC5+1854917]
+	Ordinal0 [0x0109ED64+1895780]
+	BaseThreadInitThunk [0x7764FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77797BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77797B8E+238]
+
+=========================================
+=========================================
+WEB
+Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x010F1ED3+2236115]
+	Ordinal0 [0x010892F1+1807089]
+	Ordinal0 [0x00F966FD+812797]
+	Ordinal0 [0x00F89449+758857]
+	Ordinal0 [0x00F892C1+758465]
+	Ordinal0 [0x00F88113+753939]
+	Ordinal0 [0x00F88748+755528]
+	Ordinal0 [0x00F915D2+792018]
+	Ordinal0 [0x00F9CB15+838421]
+	Ordinal0 [0x00F9FEB0+851632]
+	Ordinal0 [0x00F88ADC+756444]
+	Ordinal0 [0x00F9C94F+837967]
+	Ordinal0 [0x00FF590A+1202442]
+	Ordinal0 [0x00FE18A6+1120422]
+	Ordinal0 [0x00FBA73D+960317]
+	Ordinal0 [0x00FBB71F+964383]
+	GetHandleVerifier [0x0139E7E2+2743074]
+	GetHandleVerifier [0x013908D4+2685972]
+	GetHandleVerifier [0x01182BAA+532202]
+	GetHandleVerifier [0x01181990+527568]
+	Ordinal0 [0x0109080C+1837068]
+	Ordinal0 [0x01094CD8+1854680]
+	Ordinal0 [0x01094DC5+1854917]
+	Ordinal0 [0x0109ED64+1895780]
+	BaseThreadInitThunk [0x7764FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77797BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77797B8E+238]
+
+=========================================
+=========================================
+WEB
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/section[1]/div[2]/div[3]/article[1]/div/div"}
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x010F1ED3+2236115]
+	Ordinal0 [0x010892F1+1807089]
+	Ordinal0 [0x00F966FD+812797]
+	Ordinal0 [0x00FC55DF+1005023]
+	Ordinal0 [0x00FC57CB+1005515]
+	Ordinal0 [0x00FF7632+1209906]
+	Ordinal0 [0x00FE1AD4+1120980]
+	Ordinal0 [0x00FF59E2+1202658]
+	Ordinal0 [0x00FE18A6+1120422]
+	Ordinal0 [0x00FBA73D+960317]
+	Ordinal0 [0x00FBB71F+964383]
+	GetHandleVerifier [0x0139E7E2+2743074]
+	GetHandleVerifier [0x013908D4+2685972]
+	GetHandleVerifier [0x01182BAA+532202]
+	GetHandleVerifier [0x01181990+527568]
+	Ordinal0 [0x0109080C+1837068]
+	Ordinal0 [0x01094CD8+1854680]
+	Ordinal0 [0x01094DC5+1854917]
+	Ordinal0 [0x0109ED64+1895780]
+	BaseThreadInitThunk [0x7764FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77797BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77797B8E+238]
+
+=========================================
+=========================================
+WEB
+Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x010F1ED3+2236115]
+	Ordinal0 [0x010892F1+1807089]
+	Ordinal0 [0x00F966FD+812797]
+	Ordinal0 [0x00F89449+758857]
+	Ordinal0 [0x00F892C1+758465]
+	Ordinal0 [0x00F88113+753939]
+	Ordinal0 [0x00F88748+755528]
+	Ordinal0 [0x00F915D2+792018]
+	Ordinal0 [0x00F9CB15+838421]
+	Ordinal0 [0x00F9FEB0+851632]
+	Ordinal0 [0x00F88ADC+756444]
+	Ordinal0 [0x00F9C94F+837967]
+	Ordinal0 [0x00FF590A+1202442]
+	Ordinal0 [0x00FE18A6+1120422]
+	Ordinal0 [0x00FBA73D+960317]
+	Ordinal0 [0x00FBB71F+964383]
+	GetHandleVerifier [0x0139E7E2+2743074]
+	GetHandleVerifier [0x013908D4+2685972]
+	GetHandleVerifier [0x01182BAA+532202]
+	GetHandleVerifier [0x01181990+527568]
+	Ordinal0 [0x0109080C+1837068]
+	Ordinal0 [0x01094CD8+1854680]
+	Ordinal0 [0x01094DC5+1854917]
+	Ordinal0 [0x0109ED64+1895780]
+	BaseThreadInitThunk [0x7764FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77797BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77797B8E+238]
+
+=========================================
+=========================================
+WEB
+Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x010F1ED3+2236115]
+	Ordinal0 [0x010892F1+1807089]
+	Ordinal0 [0x00F966FD+812797]
+	Ordinal0 [0x00F89449+758857]
+	Ordinal0 [0x00F892C1+758465]
+	Ordinal0 [0x00F88113+753939]
+	Ordinal0 [0x00F88748+755528]
+	Ordinal0 [0x00F915D2+792018]
+	Ordinal0 [0x00F9CB15+838421]
+	Ordinal0 [0x00F9FEB0+851632]
+	Ordinal0 [0x00F88ADC+756444]
+	Ordinal0 [0x00F9C94F+837967]
+	Ordinal0 [0x00FF590A+1202442]
+	Ordinal0 [0x00FE18A6+1120422]
+	Ordinal0 [0x00FBA73D+960317]
+	Ordinal0 [0x00FBB71F+964383]
+	GetHandleVerifier [0x0139E7E2+2743074]
+	GetHandleVerifier [0x013908D4+2685972]
+	GetHandleVerifier [0x01182BAA+532202]
+	GetHandleVerifier [0x01181990+527568]
+	Ordinal0 [0x0109080C+1837068]
+	Ordinal0 [0x01094CD8+1854680]
+	Ordinal0 [0x01094DC5+1854917]
+	Ordinal0 [0x0109ED64+1895780]
+	BaseThreadInitThunk [0x7764FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77797BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77797B8E+238]
+
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8FB53F40>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8FC9C700>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8FB74730>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8FB61B20>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8E8F7A00>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8FC2AAC0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8E84EA30>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8E8F7850>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8E7B7460>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8FC2ADC0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8FB85BE0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8E6EAA30>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F85D04B50>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8E7695E0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8FB85790>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8E7B7F10>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8FB85A60>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8E879070>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8E873850>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8E9B3580>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8FBBBE20>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8E9C2B80>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8EB08C40>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8E9F7AC0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8E745670>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8E9DCE50>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8FD5BEB0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8E9B1BB0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8E7C0B80>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000018F8E86FCD0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B129DD400>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B126B9BE0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1271F520>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B128DA8E0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13ACEAC0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12629E50>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13AB56D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13ACEB50>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13ADA220>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12830520>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B128305E0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13BA4B20>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B128B6EB0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13BA4DF0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13BA4340>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13DFE2E0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13DFE490>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12A43160>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B128B6610>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B7DC70>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B4DFA0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B126C1190>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B83970>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B4FE20>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B83D90>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B126B9040>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1293BAF0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B129CDF10>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B128DA6A0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12A08C10>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B126C1460>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B239A0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B127D9F40>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B128F7A30>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12A631C0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1276A2B0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B129CD310>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12830D00>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12598A00>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1271F940>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B125FFF10>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12725220>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13CFC970>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12739B50>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B128F7940>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13AB5DF0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13E405E0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13CE39D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12A63100>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B125F6A60>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12A759D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B7D910>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13AB59D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B129DD550>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13E7DD90>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B848B0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B126B9AC0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12A326D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12725310>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B52400>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B01C10>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13AB51F0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12A32730>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1295E910>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12A63160>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13C3E2E0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13ACE4C0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13AB5BB0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B129DD7C0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1299C6A0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13CD8700>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12853C40>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13E436A0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12830790>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1269AAF0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13AB5F70>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13ADAE80>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B50C70>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B126B3BE0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B128B63D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B126B6FA0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12895DC0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1276A370>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B83B20>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B129DD790>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1271F430>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13BBF610>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B129CD670>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13C0B070>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12629310>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1269A730>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13BB73D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12A63D90>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13ADAFA0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B128F78E0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B126C18B0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B126C1BB0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B128DA6D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B531F0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1269A160>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1276A130>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13D12CA0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12A43A90>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B126B9D60>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13AB5490>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B23400>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1276A820>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+Titter Acc - EXEPTION:
+local variable 'time2' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 178, in on_status
+    "time": time2,
+UnboundLocalError: local variable 'time2' referenced before assignment
+
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B83BE0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13C41E20>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1276A100>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B125FFC70>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13CD5790>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B128DA280>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12A43730>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1276A430>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B126B6DC0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B125F6B20>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1299C4F0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B09B84100>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1269A7C0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B23760>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B403A0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B126B3610>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13AB5FD0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B23FD0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B05B3C0A0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B128B6700>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B01CA0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B128F7EE0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1293BA90>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1269A0A0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B83580>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B126C1220>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B7DC40>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13BBF3A0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12725400>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12A63CD0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13BA46D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1276AE80>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12A75F70>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B126C1A00>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12739700>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B05B3B340>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13BA4B20>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12895850>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13ACEBE0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12A63BB0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B126C10D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13ADA1F0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12725DC0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12895850>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13BBF790>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B125F6E50>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B538B0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13C68520>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13BA4A30>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12853EB0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B125DE550>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13ADAE20>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12A43DF0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1276A9D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1269A6D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13ADA9A0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13CCAFD0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B010D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B129DDB50>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B128F7490>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12A327F0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12895100>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12A75D90>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13BBF4C0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B23B50>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13AB52B0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12598CD0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B129DDEB0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B129CD610>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B128C0790>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B128F7730>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13CCAF40>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B09752E50>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B23C10>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B018B0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13BA4BE0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B83B50>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B126B6580>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B129DD670>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12739040>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13C686D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B128C0D30>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12895970>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1293BEE0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12853040>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12830EB0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12A75370>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B83370>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B128F7280>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B097618E0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12A75BE0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12725B20>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B23A00>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B531F0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B129CD640>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B126E4C40>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B129DD910>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13B01EE0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B128B6F10>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B128F7B20>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B126C19A0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13BA4400>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13BA4400>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1293B550>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1276AFA0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13ACE490>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B13ACEA60>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B129DDFD0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1271F0A0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1260F430>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B125CF9A0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B12A439D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2251026A0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B224E48CD0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B21A441280>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2250261F0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2251E6940>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2232C7280>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2251E61C0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2251A6AC0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B224EDF3D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2233F15B0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B225026430>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2251A6DF0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B224E48040>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2251022B0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B224EDFFD0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B223458E50>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2233F35E0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B22522FEB0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2233ED550>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2250DF910>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B224EBA160>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B223552FA0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B22520D070>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B225102FA0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B21A453A00>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B224F24220>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B224E48340>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B22357BC10>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B225102910>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B224E85E80>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/section[1]/div[2]/div[3]/article[1]/div/div"}
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CB1ED3+2236115]
+	Ordinal0 [0x00C492F1+1807089]
+	Ordinal0 [0x00B566FD+812797]
+	Ordinal0 [0x00B855DF+1005023]
+	Ordinal0 [0x00B857CB+1005515]
+	Ordinal0 [0x00BB7632+1209906]
+	Ordinal0 [0x00BA1AD4+1120980]
+	Ordinal0 [0x00BB59E2+1202658]
+	Ordinal0 [0x00BA18A6+1120422]
+	Ordinal0 [0x00B7A73D+960317]
+	Ordinal0 [0x00B7B71F+964383]
+	GetHandleVerifier [0x00F5E7E2+2743074]
+	GetHandleVerifier [0x00F508D4+2685972]
+	GetHandleVerifier [0x00D42BAA+532202]
+	GetHandleVerifier [0x00D41990+527568]
+	Ordinal0 [0x00C5080C+1837068]
+	Ordinal0 [0x00C54CD8+1854680]
+	Ordinal0 [0x00C54DC5+1854917]
+	Ordinal0 [0x00C5ED64+1895780]
+	BaseThreadInitThunk [0x75A1FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77607BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77607B8E+238]
+
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B225161490>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2250ED760>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2237140D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B224F63C10>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2233ED670>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B224F63B50>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2232F90D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B22341E610>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B224EA8520>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B22509D4C0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B224ED2280>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2236CE070>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B224E487C0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B224E851C0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B223714F40>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2251022B0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2251616A0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2250264C0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CB1ED3+2236115]
+	Ordinal0 [0x00C492F1+1807089]
+	Ordinal0 [0x00B565C0+812480]
+	Ordinal0 [0x00B4A370+762736]
+	Ordinal0 [0x00B49E33+761395]
+	Ordinal0 [0x00B49350+758608]
+	Ordinal0 [0x00B492C1+758465]
+	Ordinal0 [0x00B48113+753939]
+	Ordinal0 [0x00B48748+755528]
+	Ordinal0 [0x00B515D2+792018]
+	Ordinal0 [0x00B5CB15+838421]
+	Ordinal0 [0x00B5FEB0+851632]
+	Ordinal0 [0x00B48ADC+756444]
+	Ordinal0 [0x00B5C79D+837533]
+	Ordinal0 [0x00BB5D71+1203569]
+	Ordinal0 [0x00BA18A6+1120422]
+	Ordinal0 [0x00B7A73D+960317]
+	Ordinal0 [0x00B7B71F+964383]
+	GetHandleVerifier [0x00F5E7E2+2743074]
+	GetHandleVerifier [0x00F508D4+2685972]
+	GetHandleVerifier [0x00D42BAA+532202]
+	GetHandleVerifier [0x00D41990+527568]
+	Ordinal0 [0x00C5080C+1837068]
+	Ordinal0 [0x00C54CD8+1854680]
+	Ordinal0 [0x00C54DC5+1854917]
+	Ordinal0 [0x00C5ED64+1895780]
+	BaseThreadInitThunk [0x75A1FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77607BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77607B8E+238]
+
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B225006E20>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B225102F40>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B224ECD880>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B224F80F70>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2251E6700>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2250EC430>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B224E858E0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2233BE970>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2233F1D30>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B224E85B20>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B225006700>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B224FA9820>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2232E8580>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B224EDFA00>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B224EB2070>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2232C7AC0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2232BA280>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B224FA9FA0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2167E7F70>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B225161A00>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B22341E640>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2250DF3A0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B225161B50>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B22341E550>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B224C34F40>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B21A4531F0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B21A453340>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B223458970>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B225071B80>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2232D9C40>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B224F63D60>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B224E48E80>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B224F63AC0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B22341E4F0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news_f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B224ED2DC0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2251022B0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CB1ED3+2236115]
+	Ordinal0 [0x00C492F1+1807089]
+	Ordinal0 [0x00B565C0+812480]
+	Ordinal0 [0x00B4A370+762736]
+	Ordinal0 [0x00B49E33+761395]
+	Ordinal0 [0x00B49350+758608]
+	Ordinal0 [0x00B492C1+758465]
+	Ordinal0 [0x00B48113+753939]
+	Ordinal0 [0x00B48748+755528]
+	Ordinal0 [0x00B515D2+792018]
+	Ordinal0 [0x00B5CB15+838421]
+	Ordinal0 [0x00B5FEB0+851632]
+	Ordinal0 [0x00B48ADC+756444]
+	Ordinal0 [0x00B5C79D+837533]
+	Ordinal0 [0x00BB5D71+1203569]
+	Ordinal0 [0x00BA18A6+1120422]
+	Ordinal0 [0x00B7A73D+960317]
+	Ordinal0 [0x00B7B71F+964383]
+	GetHandleVerifier [0x00F5E7E2+2743074]
+	GetHandleVerifier [0x00F508D4+2685972]
+	GetHandleVerifier [0x00D42BAA+532202]
+	GetHandleVerifier [0x00D41990+527568]
+	Ordinal0 [0x00C5080C+1837068]
+	Ordinal0 [0x00C54CD8+1854680]
+	Ordinal0 [0x00C54DC5+1854917]
+	Ordinal0 [0x00C5ED64+1895780]
+	BaseThreadInitThunk [0x75A1FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77607BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77607B8E+238]
+
+=========================================
+=========================================
+WEB
+HTTPSConnectionPool(host='restapiforapp.herokuapp.com', port=443): Max retries exceeded with url: /ren_news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2251CBD60>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
+=========================================
+=========================================
+WEB
+Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CC1ED3+2236115]
+	Ordinal0 [0x00C592F1+1807089]
+	Ordinal0 [0x00B666FD+812797]
+	Ordinal0 [0x00B59449+758857]
+	Ordinal0 [0x00B592C1+758465]
+	Ordinal0 [0x00B58113+753939]
+	Ordinal0 [0x00B58748+755528]
+	Ordinal0 [0x00B615D2+792018]
+	Ordinal0 [0x00B6CB15+838421]
+	Ordinal0 [0x00B6FEB0+851632]
+	Ordinal0 [0x00B58ADC+756444]
+	Ordinal0 [0x00B6C94F+837967]
+	Ordinal0 [0x00BC590A+1202442]
+	Ordinal0 [0x00BB18A6+1120422]
+	Ordinal0 [0x00B8A73D+960317]
+	Ordinal0 [0x00B8B71F+964383]
+	GetHandleVerifier [0x00F6E7E2+2743074]
+	GetHandleVerifier [0x00F608D4+2685972]
+	GetHandleVerifier [0x00D52BAA+532202]
+	GetHandleVerifier [0x00D51990+527568]
+	Ordinal0 [0x00C6080C+1837068]
+	Ordinal0 [0x00C64CD8+1854680]
+	Ordinal0 [0x00C64DC5+1854917]
+	Ordinal0 [0x00C6ED64+1895780]
+	BaseThreadInitThunk [0x75A1FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77607BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77607B8E+238]
+
+=========================================
+=========================================
+WEB
+Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CC1ED3+2236115]
+	Ordinal0 [0x00C592F1+1807089]
+	Ordinal0 [0x00B666FD+812797]
+	Ordinal0 [0x00B59449+758857]
+	Ordinal0 [0x00B592C1+758465]
+	Ordinal0 [0x00B58113+753939]
+	Ordinal0 [0x00B58748+755528]
+	Ordinal0 [0x00B615D2+792018]
+	Ordinal0 [0x00B6CB15+838421]
+	Ordinal0 [0x00B6FEB0+851632]
+	Ordinal0 [0x00B58ADC+756444]
+	Ordinal0 [0x00B6C94F+837967]
+	Ordinal0 [0x00BC590A+1202442]
+	Ordinal0 [0x00BB18A6+1120422]
+	Ordinal0 [0x00B8A73D+960317]
+	Ordinal0 [0x00B8B71F+964383]
+	GetHandleVerifier [0x00F6E7E2+2743074]
+	GetHandleVerifier [0x00F608D4+2685972]
+	GetHandleVerifier [0x00D52BAA+532202]
+	GetHandleVerifier [0x00D51990+527568]
+	Ordinal0 [0x00C6080C+1837068]
+	Ordinal0 [0x00C64CD8+1854680]
+	Ordinal0 [0x00C64DC5+1854917]
+	Ordinal0 [0x00C6ED64+1895780]
+	BaseThreadInitThunk [0x75A1FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77607BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77607B8E+238]
+
+=========================================
+=========================================
+Titter Acc - EXEPTION:
+Topic quota exceeded.
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 348, in send
+    resp = self._client.body(
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\_http_client.py", line 131, in body
+    resp = self.request(method, url, **kwargs)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\_http_client.py", line 119, in request
+    resp.raise_for_status()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://fcm.googleapis.com/v1/projects/fir-f7caf/messages:send
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 250, in on_status
+    fcm.sendPush_twitter("Tweet from " + status.user.screen_name, text,
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Firebase_manager.py", line 31, in sendPush_twitter
+    response = messaging.send(message)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 116, in send
+    return _get_messaging_service(app).send(message, dry_run)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 355, in send
+    raise self._handle_fcm_error(error)
+firebase_admin._messaging_utils.QuotaExceededError: Topic quota exceeded.
+
+=========================================
+=========================================
+WEB
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/section[1]/div[2]/div[3]/article[1]/div/div"}
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CC1ED3+2236115]
+	Ordinal0 [0x00C592F1+1807089]
+	Ordinal0 [0x00B666FD+812797]
+	Ordinal0 [0x00B955DF+1005023]
+	Ordinal0 [0x00B957CB+1005515]
+	Ordinal0 [0x00BC7632+1209906]
+	Ordinal0 [0x00BB1AD4+1120980]
+	Ordinal0 [0x00BC59E2+1202658]
+	Ordinal0 [0x00BB18A6+1120422]
+	Ordinal0 [0x00B8A73D+960317]
+	Ordinal0 [0x00B8B71F+964383]
+	GetHandleVerifier [0x00F6E7E2+2743074]
+	GetHandleVerifier [0x00F608D4+2685972]
+	GetHandleVerifier [0x00D52BAA+532202]
+	GetHandleVerifier [0x00D51990+527568]
+	Ordinal0 [0x00C6080C+1837068]
+	Ordinal0 [0x00C64CD8+1854680]
+	Ordinal0 [0x00C64DC5+1854917]
+	Ordinal0 [0x00C6ED64+1895780]
+	BaseThreadInitThunk [0x75A1FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77607BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77607B8E+238]
+
+=========================================
+=========================================
+WEB
+Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CC1ED3+2236115]
+	Ordinal0 [0x00C592F1+1807089]
+	Ordinal0 [0x00B665C0+812480]
+	Ordinal0 [0x00B5A370+762736]
+	Ordinal0 [0x00B59E33+761395]
+	Ordinal0 [0x00B59350+758608]
+	Ordinal0 [0x00B592C1+758465]
+	Ordinal0 [0x00B58113+753939]
+	Ordinal0 [0x00B58748+755528]
+	Ordinal0 [0x00B615D2+792018]
+	Ordinal0 [0x00B6CB15+838421]
+	Ordinal0 [0x00B6FEB0+851632]
+	Ordinal0 [0x00B58ADC+756444]
+	Ordinal0 [0x00B6C79D+837533]
+	Ordinal0 [0x00BC5D71+1203569]
+	Ordinal0 [0x00BB18A6+1120422]
+	Ordinal0 [0x00B8A73D+960317]
+	Ordinal0 [0x00B8B71F+964383]
+	GetHandleVerifier [0x00F6E7E2+2743074]
+	GetHandleVerifier [0x00F608D4+2685972]
+	GetHandleVerifier [0x00D52BAA+532202]
+	GetHandleVerifier [0x00D51990+527568]
+	Ordinal0 [0x00C6080C+1837068]
+	Ordinal0 [0x00C64CD8+1854680]
+	Ordinal0 [0x00C64DC5+1854917]
+	Ordinal0 [0x00C6ED64+1895780]
+	BaseThreadInitThunk [0x75A1FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77607BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77607B8E+238]
+
+=========================================
+=========================================
+WEB
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/section[1]/div[2]/div[3]/article[1]/div/div"}
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00851ED3+2236115]
+	Ordinal0 [0x007E92F1+1807089]
+	Ordinal0 [0x006F66FD+812797]
+	Ordinal0 [0x007255DF+1005023]
+	Ordinal0 [0x007257CB+1005515]
+	Ordinal0 [0x00757632+1209906]
+	Ordinal0 [0x00741AD4+1120980]
+	Ordinal0 [0x007559E2+1202658]
+	Ordinal0 [0x007418A6+1120422]
+	Ordinal0 [0x0071A73D+960317]
+	Ordinal0 [0x0071B71F+964383]
+	GetHandleVerifier [0x00AFE7E2+2743074]
+	GetHandleVerifier [0x00AF08D4+2685972]
+	GetHandleVerifier [0x008E2BAA+532202]
+	GetHandleVerifier [0x008E1990+527568]
+	Ordinal0 [0x007F080C+1837068]
+	Ordinal0 [0x007F4CD8+1854680]
+	Ordinal0 [0x007F4DC5+1854917]
+	Ordinal0 [0x007FED64+1895780]
+	BaseThreadInitThunk [0x7566FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77327BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77327B8E+238]
+
+=========================================
+=========================================
+WEB
+Alert Text: 
+An AJAX HTTP error occurred.
+HTTP Result Code: 504
+Debugging information follows.
+Path: /views/ajax
+StatusText: error
+ResponseText: 
+www.dailynews.lk | 504: Gateway time-out
+Gateway time-out
+Error code 504
+Visit cloudflare.com for more information.
+2022-10-23 23:06:49 UTC
+You
+Browser
+Working
+Sofia
+Cloudflare
+Working
+www.dailynews.lk
+Host
+Error
+What happened?
+The web server reported a gateway time-out error.
+What can I do?
+Please try again in a few minutes.
+Cloudflare Ray ID: 75ee1ea39ca51c23
+&bull;
+Your IP:
+Click to reveal
+78.130.207.110
+&bull;
+Performance &amp; security by Cloudflare
+(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();
+
+Message: unexpected alert open: {Alert text : 
+An AJAX HTTP error occurred.
+HTTP Result Code: 504
+Debugging information follows.
+Path: /views/ajax
+StatusText: error
+ResponseText: 
+www.dailynews.lk | 504: Gateway time-out
+Gateway time-out
+Error code 504
+Visit cloudflare.com for more information.
+2022-10-23 23:06:49 UTC
+You
+Browser
+Working
+Sofia
+Cloudflare
+Working
+www.dailynews.lk
+Host
+Error
+What happened?
+The web server reported a gateway time-out error.
+What can I do?
+Please try again in a few minutes.
+Cloudflare Ray ID: 75ee1ea39ca51c23
+&bull;
+Your IP:
+Click to reveal
+78.130.207.110
+&bull;
+Performance &amp; security by Cloudflare
+(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();
+}
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x01001ED3+2236115]
+	Ordinal0 [0x00F992F1+1807089]
+	Ordinal0 [0x00EA66FD+812797]
+	Ordinal0 [0x00F0584E+1202254]
+	Ordinal0 [0x00EF18A6+1120422]
+	Ordinal0 [0x00ECA73D+960317]
+	Ordinal0 [0x00ECB71F+964383]
+	GetHandleVerifier [0x012AE7E2+2743074]
+	GetHandleVerifier [0x012A08D4+2685972]
+	GetHandleVerifier [0x01092BAA+532202]
+	GetHandleVerifier [0x01091990+527568]
+	Ordinal0 [0x00FA080C+1837068]
+	Ordinal0 [0x00FA4CD8+1854680]
+	Ordinal0 [0x00FA4DC5+1854917]
+	Ordinal0 [0x00FAED64+1895780]
+	BaseThreadInitThunk [0x7566FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77327BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77327B8E+238]
+
+=========================================
+=========================================
+WEB
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/section[1]/div[2]/div[3]/article[1]/div/div"}
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x01001ED3+2236115]
+	Ordinal0 [0x00F992F1+1807089]
+	Ordinal0 [0x00EA66FD+812797]
+	Ordinal0 [0x00ED55DF+1005023]
+	Ordinal0 [0x00ED57CB+1005515]
+	Ordinal0 [0x00F07632+1209906]
+	Ordinal0 [0x00EF1AD4+1120980]
+	Ordinal0 [0x00F059E2+1202658]
+	Ordinal0 [0x00EF18A6+1120422]
+	Ordinal0 [0x00ECA73D+960317]
+	Ordinal0 [0x00ECB71F+964383]
+	GetHandleVerifier [0x012AE7E2+2743074]
+	GetHandleVerifier [0x012A08D4+2685972]
+	GetHandleVerifier [0x01092BAA+532202]
+	GetHandleVerifier [0x01091990+527568]
+	Ordinal0 [0x00FA080C+1837068]
+	Ordinal0 [0x00FA4CD8+1854680]
+	Ordinal0 [0x00FA4DC5+1854917]
+	Ordinal0 [0x00FAED64+1895780]
+	BaseThreadInitThunk [0x7566FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77327BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77327B8E+238]
+
+=========================================

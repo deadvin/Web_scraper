@@ -13,10 +13,10 @@ import requests
 
 client = pymongo.MongoClient(keys.mongo_url, ssl=True)
 db = client.SentencesDatabase
-counter = 14
 
 client_tweepy = tweepy.Client(bearer_token=keys.bear_token, consumer_key=keys.consumer_key,
-consumer_secret=keys.consumer_secret,access_token=keys.access_token,access_token_secret=keys.access_token_secret)
+                              consumer_secret=keys.consumer_secret, access_token=keys.access_token,
+                              access_token_secret=keys.access_token_secret)
 
 api_url = keys.api_url
 db_track = db["track"]
@@ -24,10 +24,11 @@ db_track_a = db["track_a"]
 db_average = db["track_average"]
 db_filter = db["track_filter"]
 db_sym = db["sym"]
+db_words_trend = db["words_trend"]
+db_words_trend_a = db["words_trend_а"]
 
 
 def delete():
-
     try:
         db_ = db["1"]
         db_size = db_.estimated_document_count()
@@ -138,14 +139,14 @@ def delete():
             myfile.write('\n' + str(traceback.format_exc()))
             myfile.write('\n' + "=========================================")
 
-def update():
 
-    global counter
+def update():
+    counter = 14
 
     while True:
 
         time.sleep(30)
-        counter +=1
+        counter += 1
 
         # ================  UPDATE ALL TWEETS
 
@@ -177,7 +178,8 @@ def update():
                 for tweet in tweets.data:
                     db_track.update_one({'link': "https://twitter.com/twitter/statuses/" + str(tweet["id"])},
                                         {'$push': {'likes': tweet["public_metrics"].get("like_count"),
-                                                   'retweet':  tweet["public_metrics"].get("retweet_count"), 'time': tim}})
+                                                   'retweet': tweet["public_metrics"].get("retweet_count"),
+                                                   'time': tim}})
 
         except Exception as e:
 
@@ -240,8 +242,8 @@ def update():
                 myfile.write('\n' + str(traceback.format_exc()))
                 myfile.write('\n' + "=========================================")
 
-def update_tweets(db_name):
 
+def update_tweets(db_name):
     try:
 
         db_ = db[db_name]
@@ -267,84 +269,53 @@ def update_tweets(db_name):
             myfile.write('\n' + str(traceback.format_exc()))
             myfile.write('\n' + "=========================================")
 
-def leave_last_200_in_trends_array():
 
-    db_ = db["trend"]
-    db_trend_a = db["trend_a"]
-    cursor_a = db_.find_one({"name": "ada"}).get("trend")
-    lenght = len(cursor_a)
+def words_trend_last_200():
+
+    lenght = len(db_words_trend.find_one({"name": "ada"}).get("trend"))
     num = 50
 
     if lenght > 200:
 
-        cursor = db_.find()
+        cursor = db_words_trend.find()
 
         for c in cursor:
-
             trend = c.get("trend")
-            trend_end = trend[-(lenght -num):]
-            db_.update_one({'name': c.get("name")}, {'$set': {'trend': trend_end}})
-            trend_start = trend[:(num)]
-            arch_trend = db_trend_a.find_one({"name":c.get("name")}).get("trend")
-            db_trend_a.update_one({'name': c.get("name")}, {'$set': {'trend':arch_trend + trend_start}})
-
-            trend = c.get("trend_vol")
-            trend_end = trend[-(lenght -num):]
-            db_.update_one({'name': c.get("name")}, {'$set': {'trend_vol': trend_end}})
-            trend_start = trend[:(num)]
-            arch_trend = db_trend_a.find_one({"name":c.get("name")}).get("trend_vol")
-            db_trend_a.update_one({'name': c.get("name")}, {'$set': {'trend_vol': arch_trend + trend_start}})
+            trend_end = trend[-(lenght - num):]
+            trend_start = trend[:num]
+            db_words_trend.update_one({'name': c.get("name")}, {'$set': {'trend': trend_end}})
+            arch_trend = db_words_trend_a.find_one({"name": c.get("name")}).get("trend")
+            db_words_trend_a.update_one({'name': c.get("name")}, {'$set': {'trend': arch_trend + trend_start}})
 
             trend = c.get("time")
             trend_end = trend[-(lenght - num):]
-            db_.update_one({'name': c.get("name")}, {'$set': {'time': trend_end}})
-            trend_start = trend[:(num)]
-            arch_trend = db_trend_a.find_one({"name":c.get("name")}).get("time")
-            db_trend_a.update_one({'name': c.get("name")}, {'$set': {'time': arch_trend + trend_start}})
-
-def update_trend_av_del_above_500_trend_a():
-
-    db_trend_a = db["trend_a"]
-    cursor_a = db_trend_a.find_one({"name": "ada"}).get("trend")
-    lenght = len(
+            trend_start = trend[:num]
+            db_words_trend.update_one({'name': c.get("name")}, {'$set': {'time': trend_end}})
+            arch_trend = db_words_trend_a.find_one({"name": c.get("name")}).get("time")
+            db_words_trend_a.update_one({'name': c.get("name")}, {'$set': {'time': arch_trend + trend_start}})
 
 
+def words_trend_a_600():
 
-    )
+    lenght = len(db_words_trend_a.find_one({"name": "ada"}).get("trend"))
 
     if lenght > 600:
 
-        db_trend = db["trend"]
-        cursor = db_trend.find()
+        cursor = db_words_trend_a.find()
 
         for c in cursor:
             try:
-                trend_only = db_trend_a.find_one({"name": c.get("name")}).get("trend")
-                trend = trend_only + c.get("trend")
-                trend_vol_only = db_trend_a.find_one({"name": c.get("name")}).get("trend_vol")
-                trend_vol = trend_vol_only + c.get("trend_vol")
+                trend = c.get("trend")
+                db_words_trend.update_one({'name': c.get("name")}, {'$set': {'trend_av': int(sum(trend) / len(trend))}})
 
-                db_trend.update_one({'name': c.get("name")}, {'$set': {'trend_av': int(sum(trend) / len(trend))}})
-                db_trend.update_one({'name': c.get("name")},
-                                    {'$set': {'trend_vol_av': int(sum(trend_vol) / len(trend_vol))}})
+                db_words_trend_a.update_one({'name': c.get("name")}, {'$set': {'trend': trend[-500:]}})
+                db_words_trend_a.update_one({'name': c.get("name")}, {'$set': {'time': c.get("time")[-500:]}})
 
-                db_trend_a.update_one({'name': c.get("name")}, {'$set': {'trend': trend_only[-500:]}})
-                db_trend_a.update_one({'name': c.get("name")}, {'$set': {'trend_vol': trend_vol_only[-500:]}})
             except Exception as e:
+                exeption(e, traceback.format_exc(), "words_trend_a" + c.get('name'))
 
-                print("=============================pinned_tweets")
-                print(c.get("name"))
-                print('exception', e)
-                print("=========================================")
-                with open("logs/manage.txt", "a") as myfile:
-                    myfile.write('\n' + "=========================================")
-                    myfile.write('\n' + "Manage DB PINNED TWEETS - EXEPTION:")
-                    myfile.write('\n' + str(e) + c.get("name"))
-                    myfile.write('\n' + str(traceback.format_exc()))
-                    myfile.write('\n' + "=========================================")
 
 def check_for_trending_tweets():
-
     bnb_accs = {'BNBCHAIN', 'binance', 'cz_binance'}
 
     try:
@@ -356,15 +327,17 @@ def check_for_trending_tweets():
             try:
                 lenght = len(c.get("likes"))
                 if lenght < 60:
-                    score = int(c.get("likes")[lenght-1]) + int(c.get("retweet")[lenght-1])
+                    score = int(c.get("likes")[lenght - 1]) + int(c.get("retweet")[lenght - 1])
                     for av in cursor_average:
                         if av.get("name") == c.get("source"):
 
                             db_sym.update_one({'link': c.get('link')},
-                                                   {'$set': {'eng_score': str(score/av.get("list")[lenght-1])[:4]}},upsert=True)
+                                              {'$set': {'eng_score': str(score / av.get("list")[lenght - 1])[:4]}},
+                                              upsert=True)
 
-                            if score > int(av.get("list")[lenght-1] * 1.3) and score > (lenght-1) * 10 and av.get("name") not in bnb_accs \
-                                    or score > int(av.get("list")[lenght-1] * 2):
+                            if score > int(av.get("list")[lenght - 1] * 1.3) and score > (lenght - 1) * 10 and av.get(
+                                    "name") not in bnb_accs \
+                                    or score > int(av.get("list")[lenght - 1] * 2):
 
                                 exists = db_filter.find_one({'link': c.get("link")})
                                 if not exists:
@@ -375,9 +348,9 @@ def check_for_trending_tweets():
                                         myfile.write('\n' + av.get("name") + " NEW ")
                                         myfile.write('\n' + "text" + c.get("text"))
                                         myfile.write('\n' + "score" + str(score) + " len: " + str(lenght - 1))
-                                        myfile.write('\n' + "score_average" + str(int(av.get("list")[lenght-1] * 2)))
+                                        myfile.write('\n' + "score_average" + str(int(av.get("list")[lenght - 1] * 2)))
                                         myfile.write('\n' + "array" + str(av.get("list")))
-                                        myfile.write('\n' + "above_protect" + str((lenght-1) * 10))
+                                        myfile.write('\n' + "above_protect" + str((lenght - 1) * 10))
                                         myfile.write('\n' + "=======================================")
                 cursor_average.rewind()
 
@@ -388,8 +361,6 @@ def check_for_trending_tweets():
                     myfile.write('\n' + str(e))
                     myfile.write('\n' + str(traceback.format_exc()))
                     myfile.write('\n' + "=========================================")
-
-
 
         requests.get(api_url + "ren_sym", verify=False)
 
@@ -405,8 +376,8 @@ def check_for_trending_tweets():
             myfile.write('\n' + str(traceback.format_exc()))
             myfile.write('\n' + "=========================================")
 
-def pinned_tweets():
 
+def pinned_tweets():
     try:
 
         alt_list = []
@@ -417,7 +388,7 @@ def pinned_tweets():
             for i in c.get("list"):
                 alt_list.append(i)
 
-        users = client_tweepy.get_users(ids=alt_list, user_fields=['pinned_tweet_id','public_metrics'])
+        users = client_tweepy.get_users(ids=alt_list, user_fields=['pinned_tweet_id', 'public_metrics'])
 
         for c in cursor:
             for user in users.data:
@@ -425,7 +396,7 @@ def pinned_tweets():
                     if user.pinned_tweet_id is not None and user.pinned_tweet_id != c.get('pinned_tweet_id'):
 
                         db_average.update_one({'name': user.username},
-                                            {'$set': {'pinned_tweet_id': user.pinned_tweet_id}})
+                                              {'$set': {'pinned_tweet_id': user.pinned_tweet_id}})
 
                         tweet = client_tweepy.get_tweets(ids=user.pinned_tweet_id, tweet_fields=["public_metrics"])
 
@@ -433,11 +404,12 @@ def pinned_tweets():
 
                         time2 = Utils.fix_time()
 
-                        exists = db_sym_f.find_one({'link': "https://twitter.com/twitter/statuses/" + str(user.pinned_tweet_id)})
+                        exists = db_sym_f.find_one(
+                            {'link': "https://twitter.com/twitter/statuses/" + str(user.pinned_tweet_id)})
                         if not exists:
-
                             fcm.sendPush_twitter("Pinned tweet from " + user.username, text,
-                                                 "https://twitter.com/twitter/statuses/" + str(user.pinned_tweet_id), "alts")
+                                                 "https://twitter.com/twitter/statuses/" + str(user.pinned_tweet_id),
+                                                 "alts")
 
                             db_sym_f.insert_one({
                                 "link": "https://twitter.com/twitter/statuses/" + str(user.pinned_tweet_id),
@@ -463,8 +435,22 @@ def pinned_tweets():
             myfile.write('\n' + str(traceback.format_exc()))
             myfile.write('\n' + "=========================================")
 
-def run():
 
+def exeption(e,trace,source):
+
+    print("==============" + source + "=============")
+    print('exception: ', e)
+    print("=========================================")
+    with open("logs/manage.txt", "a") as myfile:
+        myfile.write('\n' + "=========================================")
+        myfile.write('\n' + "MANAGE DB " + source + " : ")
+        myfile.write('\n' + str(e))
+        myfile.write('\n' + str(trace))
+        myfile.write('\n' + "=========================================")
+
+
+
+def run():
     print("ONLINE MANAGE DB")
 
     t1 = threading.Thread(target=update)
@@ -477,9 +463,9 @@ def run():
             time.sleep(60)
             delete()
             time.sleep(60)
-            leave_last_200_in_trends_array()
+            words_trend_last_200()
             time.sleep(60)
-            update_trend_av_del_above_500_trend_a()
+            words_trend_a_600()
             time.sleep(60)
             pinned_tweets()
             time.sleep(60)

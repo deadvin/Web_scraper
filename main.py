@@ -1,14 +1,14 @@
 import Twitter_stream_acc as Twitter_stream_acc
-import twitter_stream_all_v1 as twitter_stream_all_v1
+import twitter_stream_all as twitter_stream_all
 import Scraper_videos as Scraper_videos
 import Manage_DB as Manage_DB
-import Binance_script as Binance_script
+import Binance_prices as Binance_script
 import Scraper_news_events as Scraper_news_events
 import threading
 
 
 def twitter_all():
-    twitter_stream_all_v1.main()
+    twitter_stream_all.main()
 
 def twitter_acc():
     Twitter_stream_acc.main()

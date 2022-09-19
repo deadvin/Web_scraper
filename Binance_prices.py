@@ -97,7 +97,7 @@ def run():
     while True:
 
         try:
-            # start_time = time.time()
+
             time.sleep(1)
             counter += 1
 
@@ -126,6 +126,7 @@ def run():
                 db_candles = db_price["candles_1m"]
                 endpoint = "_1m"
                 petiod = "250 minutes ago UTC"
+
 
             klines = client.get_historical_klines("BTCUSDT", time_frame, petiod)
             df_btc = pd.DataFrame(klines)
@@ -199,7 +200,6 @@ def run():
             requests.get(api_url + "ren_div", verify=False)
             requests.get(api_url + "ren_div" + endpoint, verify=False)
 
-            # print("--- %s seconds ---" % (time.time() - start_time))
 
         except Exception as e:
 
