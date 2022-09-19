@@ -38,8 +38,116 @@ cur_time_stamp = 0
 
 # endregion
 
+# region WORDS LIST
+
+sym_list = []
+search_q = []
+
+sym_list.append({'name': 'ADA', "list":["ada", "cardano"]})
+sym_list.append({'name': 'SOL', "list":["solana", "sol"]})
+sym_list.append({'name': 'DOGE', "list":["doge", "dogecoin", "doge coin"]})
+sym_list.append({'name': 'MATIC', "list":["matic", "polygon"]})
+sym_list.append({'name': 'SLP', "list":["slp", "small love potion"]})
+sym_list.append({'name': 'LUNA', "list":["luna", "terra"]})
+sym_list.append({'name': 'DOT', "list":["polkadot", "dot"]})
+sym_list.append({'name': 'INJ', "list":["inj", "injective protocol"]})
+sym_list.append({'name': 'AVAX', "list":["avax", "avalanche"]})
+sym_list.append({'name': 'EOS', "list":["eos", "eosio", "block one"]})
+sym_list.append({'name': 'THETA', "list":["theta"]})
+sym_list.append({'name': 'IOTA', "list":["iota", "miota"]})
+sym_list.append({'name': 'CHZ', "list":["chz", "chiliz"]})
+sym_list.append({'name': 'ONE', "list":[ "harmony"]})
+sym_list.append({'name': 'KSM', "list":["ksm", "kusama"]})
+sym_list.append({'name': 'NEAR', "list":[ "nearprotocol","near protocol"]})
+sym_list.append({'name': 'XTZ', "list":["xtz", "tezos"]})
+sym_list.append({'name': 'ALGO', "list":["algo", "algorand"]})
+sym_list.append({'name': 'EGLD', "list":["egld", "elrond"]})
+sym_list.append({'name': 'AR', "list":["arweave", "ar"]})
+sym_list.append({'name': 'AXS', "list":["axs", "axieinfinity","axie infinity"]})
+sym_list.append({'name': 'XRP', "list":["xrp", "ripple"]})
+sym_list.append({'name': 'FIL', "list":["filecoin", "file coin", "fil"]})
+sym_list.append({'name': 'VET', "list":["vechain", "ve chain", "vet"]})
+sym_list.append({'name': 'UNI', "list":["uniswap", "uni swap", "uni"]})
+sym_list.append({'name': 'CAKE', "list":["pancakeSwap"]})
+sym_list.append({'name': 'ICP', "list":["icp", "internet computer"]})
+sym_list.append({'name': 'ETC', "list":["etc", "ethereum classic"]})
+sym_list.append({'name': 'ZIL', "list":["zil", "zilliqa"]})
+sym_list.append({'name': 'XLM', "list":["xlm", "stellar"]})
+sym_list.append({'name': 'XMR', "list":["xmr", "monero"]})
+sym_list.append({'name': 'SAND', "list":["sand", "sandbox", "The Sandbox Game"]})
+sym_list.append({'name': 'RVN', "list":["rvn", "ravencoin"]})
+sym_list.append({'name': 'MANA', "list":["decentraland", "mana"]})
+sym_list.append({'name': 'LTC', "list":["ltc", "litecoin"]})
+sym_list.append({'name': 'GALA', "list":["gala", "galagames"]})
+sym_list.append({'name': 'BNB', "list":["bnb", "binance coin"]})
+sym_list.append({'name': 'AAVE', "list":["aave"]})
+sym_list.append({'name': 'ANKR ', "list":["ankr"]})
+sym_list.append({'name': '1INCH', "list":["1inch", "one inch"]})
+sym_list.append({'name': 'COTI', "list":["coti"]})
+sym_list.append({'name': 'ENJ', "list":["enjin", "enj"]})
+sym_list.append({'name': 'ATOM', "list":["atom", "cosmos"]})
+sym_list.append({'name': 'ETH', "list":["eth", "etherium"]})
+sym_list.append({'name': 'FTM', "list":["ftm", "fantom"]})
+
+acc_list_words = []
+acc_list_words.append({'name': 'btc', "list": ["btc", "bitcoin", "crypto", "cryptocurrencies", "cryptocurrency"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'ada', "list": ["ada", "cardano", "adausdt"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'luna', "list": ["#luna", "terra", "lunausdt","terra luna","terraluna"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'eth', "list": ["ethetium", "eth", "ethusdt"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'near', "list": ["NEARProtocol", "nearusdt", "#near","NEAR Protocol"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'atom', "list": ["cosmos", "atomusdt", "#atom"], 'num': 0, 'num_vol': 0})  # - 1
+acc_list_words.append({'name': 'avax', "list": ["avax", "avaxusdt"], 'num': 0, 'num_vol': 0})  # - 1
+acc_list_words.append({'name': 'ftm', "list": ["ftm", "#fantom", "ftmusdt"], 'num': 0, 'num_vol': 0}) # - 1
+acc_list_words.append({'name': 'one', "list": ["harmonyone", "oneusdt","harmony one"], 'num': 0, 'num_vol': 0}) # - 1
+acc_list_words.append({'name': 'ksm', "list": ["ksm", "kusama", "ksmusdt"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'matic', "list": ["polygon", "matic", "maticusdt"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'sol', "list": ["sol", "solana", "solusdt"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'inj', "list": ["inj", "injectiveprotocol", "injusdt", "injective protocol"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'vet', "list": ["vet", "vechain", "vetusdt"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'iota', "list": ["iota", "miota", "iotaust"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'theta', "list": ["theta", "thetausdt"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'enj', "list": ["enj", "enjin", "enjusdt"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'dot', "list": ["polkadot", "dotusdt"], 'num': 0, 'num_vol': 0}) # - 1
+acc_list_words.append({'name': 'coti', "list": ["coti", "cotiusdt"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': '1inch', "list": ["1inch", "1inchusdt", "#oneinch"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'axs', "list": ["axs", "axsusdt", "AxieInfinity", "Axie Infinity"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'ankr', "list": ["ankr", "ankrusdt"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'algo', "list": ["#algo", "algousdt", "algorand"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'aave', "list": ["aave", "aaveusdt"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'ar', "list": ["arusdt", "arweave"], 'num': 0, 'num_vol': 0}) # - 1
+acc_list_words.append({'name': 'bnb', "list": ["bnb", "bnbusdt", "binance"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'chz', "list": ["chz", "chzusdt", "chiliz"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'eos', "list": ["eos", "eosusdt", "EOSIO"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'etc', "list": ["etc", "etcusdt", "ethereumclassic","ethereum classic"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'egld', "list": ["elrond", "egld", "egldusdt"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'fil', "list": ["file coin", "filusdt", "filecoin"], 'num': 0, 'num_vol': 0}) # - 1
+acc_list_words.append({'name': 'gala', "list": ["gala coin","gala games", "galausdt", "galagames"], 'num': 0, 'num_vol': 0}) # - 1
+acc_list_words.append({'name': 'icp', "list": ["icp", "icpusdt", "dfinity"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'ltc', "list": ["ltc", "ltcusdt", "litecoin", "lite coin"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'mana', "list": ["mana coin", "manausdt", "decentraland"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'rvn', "list": ["#rvn", "rvnusdt", "ravencoin"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'sand', "list": ["#sandbox", "sandusdt", "sand crypto"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'uni', "list": ["uniusdt", "uniswap"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'xrp', "list": ["xrp", "xrpusdt", "ripple"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'xmr', "list": ["xmr", "xmrusdt", "monero"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'xlm', "list": ["#stellar", "xlm", "xlmusdt"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'zil', "list": ["#zil", "zilusdt", "zilliqa"], 'num': 0, 'num_vol': 0})
+acc_list_words.append({'name': 'ape', "list": ["apeusdt", "apecoin", "bored ape","ape coin"], 'num': 0, 'num_vol': 0}) # - 1
+
+alt_word_list = []
+
+for c in acc_list_words:
+    for i in c.get("list"):
+        alt_word_list.append(i)
+
+for c in sym_list:
+    for i in c.get("list"):
+        search_q.append(i)
 
 
+crypto_word_list = ["btc", "bitcoin", "crypto", "cryptocurrencies", "cryptocurrency"]
+search_q = alt_word_list + crypto_word_list
+# endregionF
 
 class StreamListener(tweepy.Stream):
 
@@ -330,6 +438,7 @@ def send_key_trend():
                 #     trend = c.get("time")
                 #     trend = trend[-size:]
                 #     db_word_trend.update_one({'name': c.get("name")}, {'$set': {'time': trend}})
+
 
 def process_statuses():
 

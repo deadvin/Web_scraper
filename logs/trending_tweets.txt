@@ -9482,3 +9482,1459 @@ score_average60
 array[0, 30, 87, 124, 152, 176, 197, 216, 232, 248, 262, 276, 288, 300, 311, 322, 332, 342, 352, 361, 369, 378, 386, 394, 402, 410, 417, 424, 431, 438, 445, 452, 458, 465, 471, 477, 483, 489, 495, 501, 506, 512, 517, 523, 528, 533, 538, 543, 548, 553, 558, 562, 567, 571, 576, 580, 585, 590, 594, 599]
 above_protect10
 =======================================
+=======================================
+cz_binance NEW 
+textif the weather affects your mood, come to dubai. it's always sunny here.
+score3176 len: 35
+score_average3174
+array[0, 85, 253, 368, 461, 540, 610, 673, 729, 782, 831, 877, 920, 960, 1001, 1038, 1074, 1108, 1142, 1174, 1205, 1235, 1265, 1293, 1321, 1349, 1375, 1401, 1426, 1450, 1473, 1497, 1520, 1543, 1566, 1587, 1608, 1630, 1650, 1670, 1690, 1709, 1728, 1747, 1766, 1784, 1803, 1821, 1839, 1857, 1874, 1891, 1908, 1924, 1941, 1957, 1973, 1989, 2006, 2022]
+above_protect350
+=======================================
+=======================================
+Filecoin NEW 
+textfilecoin ecosystem events always have great swag! thanks for sharing yuliia!
+score22 len: 6
+score_average20
+array[0, 2, 4, 6, 8, 9, 10, 11, 12, 13, 14, 15, 15, 16, 17, 17, 18, 18, 19, 20, 20, 20, 21, 21, 22, 22, 23, 23, 23, 24, 24, 25, 25, 25, 26, 26, 26, 27, 27, 27, 27, 28, 28, 29, 29, 29, 30, 30, 30, 31, 31, 31, 31, 32, 32, 32, 32, 33, 33, 33]
+above_protect60
+=======================================
+=======================================
+NEARProtocol NEW 
+textdevelopers receive 30% of the gas fees which are incurred when interacting with a smart contract on #near this can solve the funding problems around open source public goods 
+score11 len: 1
+score_average10
+array[0, 5, 11, 16, 19, 22, 24, 26, 30, 31, 33, 35, 36, 38, 39, 40, 41, 42, 43, 44, 45, 47, 48, 49, 50, 51, 51, 52, 53, 54, 55, 56, 56, 57, 58, 58, 59, 60, 61, 61, 62, 63, 63, 64, 65, 65, 66, 66, 67, 67, 68, 68, 69, 70, 70, 71, 71, 71, 72, 72]
+above_protect10
+=======================================
+=======================================
+Cardano NEW 
+textthe 1st cardano wedding cake? 🤔#blockchain #cardano #cardanocommunity #bakingoncardano
+score30 len: 2
+score_average36
+array[0, 8, 18, 25, 31, 36, 40, 44, 47, 50, 53, 56, 59, 61, 63, 65, 67, 69, 71, 72, 74, 76, 77, 79, 80, 81, 82, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 106, 108, 108, 109, 110, 110, 111, 112, 113]
+above_protect20
+=======================================
+=======================================
+BNBCHAIN NEW 
+textthis is happening right now! +5k attendees excited to learn how to build web3 with #bnb chain! check the ht #bnbcolombia  
+score19 len: 1
+score_average12
+array[0, 6, 14, 20, 24, 28, 31, 34, 37, 39, 41, 44, 46, 47, 49, 51, 53, 55, 56, 57, 59, 60, 62, 63, 64, 65, 67, 68, 69, 70, 71, 72, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 94, 96, 96, 97, 98, 99, 100, 101, 102]
+above_protect10
+=======================================
+=======================================
+cz_binance NEW 
+text#binanceattheburj. 
+score623 len: 2
+score_average506
+array[0, 85, 253, 368, 461, 540, 610, 673, 729, 782, 831, 877, 920, 960, 1001, 1038, 1074, 1108, 1142, 1174, 1205, 1235, 1265, 1293, 1321, 1349, 1375, 1401, 1426, 1450, 1473, 1497, 1520, 1543, 1566, 1587, 1608, 1630, 1650, 1670, 1690, 1709, 1728, 1747, 1766, 1784, 1803, 1821, 1839, 1857, 1874, 1891, 1908, 1924, 1941, 1957, 1973, 1989, 2006, 2022]
+above_protect20
+=======================================
+=======================================
+binance NEW 
+text#binance lights up the burj khalifa!  the light show is a physical representation of our commitment to the region as we celebrate the new mvp license binance received, following the issuance of our provisional license in dubai early this year.
+score95 len: 1
+score_average60
+array[0, 30, 87, 124, 152, 176, 197, 216, 232, 248, 262, 276, 288, 300, 311, 322, 332, 342, 352, 361, 369, 378, 386, 394, 402, 410, 417, 424, 431, 438, 445, 452, 458, 465, 471, 477, 483, 489, 495, 501, 506, 512, 517, 523, 528, 533, 538, 543, 548, 553, 558, 562, 567, 571, 576, 580, 585, 590, 594, 599]
+above_protect10
+=======================================
+=======================================
+binance NEW 
+text#binance lights up the burj khalifa!  the light show is a physical representation of our commitment to the region as we celebrate the new mvp license binance received, following the issuance of our provisional license in dubai early this year. 
+score111 len: 1
+score_average60
+array[0, 30, 87, 124, 152, 176, 197, 216, 232, 248, 262, 276, 288, 300, 311, 322, 332, 342, 352, 361, 369, 378, 386, 394, 402, 410, 417, 424, 431, 438, 445, 452, 458, 465, 471, 477, 483, 489, 495, 501, 506, 512, 517, 523, 528, 533, 538, 543, 548, 553, 558, 562, 567, 571, 576, 580, 585, 590, 594, 599]
+above_protect10
+=======================================
+=======================================
+cz_binance NEW 
+text#binance in dubai 
+score194 len: 1
+score_average170
+array[0, 85, 253, 368, 461, 540, 610, 673, 729, 782, 831, 877, 920, 960, 1001, 1038, 1074, 1108, 1142, 1174, 1205, 1235, 1265, 1293, 1321, 1349, 1375, 1401, 1426, 1450, 1473, 1497, 1520, 1543, 1566, 1587, 1608, 1630, 1650, 1670, 1690, 1709, 1728, 1747, 1766, 1784, 1803, 1821, 1839, 1857, 1874, 1891, 1908, 1924, 1941, 1957, 1973, 1989, 2006, 2022]
+above_protect10
+=======================================
+=======================================
+binance NEW 
+textcongratulations on your 3-year anniversary @binanceus!
+score73 len: 1
+score_average60
+array[0, 30, 87, 124, 152, 176, 197, 216, 232, 248, 262, 276, 288, 300, 311, 322, 332, 342, 352, 361, 369, 378, 386, 394, 402, 410, 417, 424, 431, 438, 445, 452, 458, 465, 471, 477, 483, 489, 495, 501, 506, 512, 517, 523, 528, 533, 538, 543, 548, 553, 558, 562, 567, 571, 576, 580, 585, 590, 594, 599]
+above_protect10
+=======================================
+=======================================
+cosmos NEW 
+textas we prepare for the next phase of @cosmos, we'd like to take a moment to reflect on the origin of the project up until the launch of the @cosmoshub. behold: cosmos history - part 1 - inception to pre-launch
+score74 len: 8
+score_average72
+array[0, 4, 12, 19, 23, 27, 30, 34, 36, 38, 40, 42, 43, 45, 47, 49, 51, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 63, 64, 64, 66, 66, 67, 69, 69, 70, 71, 72, 74, 74, 75, 75, 76, 77, 77, 77, 78, 78, 79, 79, 79, 80, 81, 81, 82, 83, 83, 84, 84, 85]
+above_protect80
+=======================================
+=======================================
+AlgoFoundation NEW 
+textwe always want to support people pushing the #algorandnft community. thankyou for all the work you have done@ozery will be contact! a big thank-you for being so instruemental and to all the others who have stepped forward to help  #algofam you're the best
+score5 len: 1
+score_average2
+array[0, 1, 4, 6, 8, 10, 11, 12, 13, 14, 15, 16, 16, 17, 18, 18, 19, 19, 20, 20, 21, 21, 22, 22, 23, 23, 24, 24, 24, 25, 25, 25, 26, 26, 27, 27, 27, 28, 28, 28, 28, 29, 29, 29, 30, 30, 30, 31, 31, 31, 31, 32, 32, 32, 33, 33, 33, 33, 34, 34]
+above_protect10
+=======================================
+=======================================
+AlgoFoundation NEW 
+textwe always want to support people pushing the #algorandnft community. thankyou for all the work you have done@ozery will be contact! a big thank-you for being so instrumental and to all the others who have stepped forward to help  #algofam you're the best
+score8 len: 1
+score_average2
+array[0, 1, 4, 6, 8, 10, 11, 12, 13, 14, 15, 16, 16, 17, 18, 18, 19, 19, 20, 20, 21, 21, 22, 22, 23, 23, 24, 24, 24, 25, 25, 25, 26, 26, 27, 27, 27, 28, 28, 28, 28, 29, 29, 29, 30, 30, 30, 31, 31, 31, 31, 32, 32, 32, 33, 33, 33, 33, 34, 34]
+above_protect10
+=======================================
+=======================================
+litecoin NEW 
+textthe average #litecoin transaction fee is less than a penny! 
+score25 len: 2
+score_average22
+array[0, 4, 11, 15, 19, 22, 25, 27, 30, 32, 34, 36, 38, 40, 41, 43, 44, 46, 47, 48, 50, 51, 52, 53, 55, 56, 57, 58, 58, 59, 60, 61, 62, 63, 64, 65, 65, 66, 67, 68, 69, 69, 70, 71, 72, 73, 73, 74, 75, 75, 76, 77, 77, 78, 78, 79, 79, 80, 81, 81]
+above_protect20
+=======================================
+=======================================
+BNBCHAIN NEW 
+textlearn and earn with #bnb boost today!our educational campaign on @coinmarketcap only has a few days left. you can still pick up your liquid staking veteran #nft and earn your share of a hefty prize pool.find out how 
+score16 len: 1
+score_average12
+array[0, 6, 14, 20, 24, 28, 31, 34, 37, 39, 41, 44, 46, 47, 49, 51, 53, 55, 56, 57, 59, 60, 62, 63, 64, 65, 67, 68, 69, 70, 71, 72, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 94, 96, 96, 97, 98, 99, 100, 101, 102]
+above_protect10
+=======================================
+=======================================
+binance NEW 
+text#binanceattheburj icymi, the light show will be back tonight at 8:25 pm gst. see you there! 
+score76 len: 1
+score_average60
+array[0, 30, 87, 124, 152, 176, 197, 216, 232, 248, 262, 276, 288, 300, 311, 322, 332, 342, 352, 361, 369, 378, 386, 394, 402, 410, 417, 424, 431, 438, 445, 452, 458, 465, 471, 477, 483, 489, 495, 501, 506, 512, 517, 523, 528, 533, 538, 543, 548, 553, 558, 562, 567, 571, 576, 580, 585, 590, 594, 599]
+above_protect10
+=======================================
+=======================================
+AxieInfinity NEW 
+textour third esports grant is live with 160,000 axs in total funding!axie esports is evolving quickly and is now a crucial pillar of our movement to empower gamers with freedom and digital property rights. let's keep pushing |  
+score12 len: 1
+score_average12
+array[0, 6, 15, 22, 27, 32, 36, 39, 43, 46, 49, 51, 54, 56, 58, 60, 62, 64, 66, 68, 70, 71, 73, 74, 76, 77, 78, 80, 81, 82, 84, 85, 86, 87, 88, 89, 91, 92, 93, 94, 95, 96, 97, 98, 98, 99, 100, 101, 102, 103, 104, 104, 105, 106, 107, 108, 109, 110, 110, 111]
+above_protect10
+=======================================
+=======================================
+BNBCHAIN NEW 
+textseamless process using your #bnb on @okse_io
+score149 len: 27
+score_average136
+array[0, 6, 14, 20, 24, 28, 31, 34, 37, 39, 41, 44, 46, 47, 49, 51, 53, 55, 56, 57, 59, 60, 62, 63, 64, 65, 67, 68, 69, 70, 71, 72, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 94, 96, 96, 97, 98, 99, 100, 101, 102]
+above_protect270
+=======================================
+=======================================
+WinkLink_Oracle NEW 
+textlisting news‼ $win is now live on @fmfw_io🧐trading pairs: $win/ $btc   $win/ $usdt
+score6 len: 1
+score_average2
+array[0, 1, 4, 7, 8, 9, 11, 12, 13, 14, 15, 15, 16, 16, 17, 18, 18, 19, 19, 19, 20, 20, 21, 21, 22, 22, 23, 23, 24, 24, 25, 25, 26, 26, 26, 27, 27, 27, 28, 28, 28, 29, 29, 29, 30, 30, 30, 31, 31, 31, 31, 32, 32, 32, 33, 33, 33, 33, 34, 34]
+above_protect10
+=======================================
+=======================================
+TheSandboxGame NEW 
+textdrop a  in the comments if you've joined the fun, @steveaoki avatar holders! 
+score11 len: 1
+score_average16
+array[0, 8, 22, 32, 39, 45, 50, 55, 60, 64, 68, 71, 74, 77, 80, 83, 86, 88, 91, 93, 95, 98, 100, 102, 104, 106, 108, 110, 112, 114, 115, 117, 119, 120, 122, 124, 125, 127, 128, 130, 132, 134, 135, 137, 138, 140, 141, 142, 144, 145, 146, 148, 154, 156, 157, 158, 159, 160, 162, 163]
+above_protect10
+=======================================
+=======================================
+BNBCHAIN NEW 
+text#bab benefits on #soquest?find out more below 
+score17 len: 1
+score_average12
+array[0, 6, 14, 20, 24, 28, 31, 34, 37, 39, 41, 44, 46, 47, 49, 51, 53, 55, 56, 57, 59, 60, 62, 63, 64, 65, 67, 68, 69, 70, 71, 72, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 94, 96, 96, 97, 98, 99, 100, 101, 102]
+above_protect10
+=======================================
+=======================================
+binance NEW 
+text#binance will implement a burn mechanism to burn all trading fees on $lunc spot and margin trading pairs. 
+score238 len: 2
+score_average174
+array[0, 30, 87, 124, 152, 176, 197, 216, 232, 248, 262, 276, 288, 300, 311, 322, 332, 342, 352, 361, 369, 378, 386, 394, 402, 410, 417, 424, 431, 438, 445, 452, 458, 465, 471, 477, 483, 489, 495, 501, 506, 512, 517, 523, 528, 533, 538, 543, 548, 553, 558, 562, 567, 571, 576, 580, 585, 590, 594, 599]
+above_protect20
+=======================================
+=======================================
+cz_binance NEW 
+text» binance to implement terra classic (lunc) burn mechanismquick thread on what we’re doing and why below.
+score214 len: 1
+score_average170
+array[0, 85, 253, 368, 461, 540, 610, 673, 729, 782, 831, 877, 920, 960, 1001, 1038, 1074, 1108, 1142, 1174, 1205, 1235, 1265, 1293, 1321, 1349, 1375, 1401, 1426, 1450, 1473, 1497, 1520, 1543, 1566, 1587, 1608, 1630, 1650, 1670, 1690, 1709, 1728, 1747, 1766, 1784, 1803, 1821, 1839, 1857, 1874, 1891, 1908, 1924, 1941, 1957, 1973, 1989, 2006, 2022]
+above_protect10
+=======================================
+=======================================
+AlgoFoundation NEW 
+textwe're delighted to partner with @v2blabs. this partnership will open up more exclusive events for the #algofam in vietnam, connecting @algorand with vietnam's years of experienced #developers! #greencrypto #shapethefuture
+score34 len: 10
+score_average30
+array[0, 1, 4, 6, 8, 10, 11, 12, 13, 14, 15, 16, 16, 17, 18, 18, 19, 19, 20, 20, 21, 21, 22, 22, 23, 23, 24, 24, 24, 25, 25, 25, 26, 26, 27, 27, 27, 28, 28, 28, 28, 29, 29, 29, 30, 30, 30, 31, 31, 31, 31, 32, 32, 32, 33, 33, 33, 33, 34, 34]
+above_protect100
+=======================================
+=======================================
+zilliqa NEW 
+text announcement adrien gheur has joined zilliqa as director of investments!his deep relationships with private equity, sovereign wealth, and family office investors across apac will help zilliqa achieve strategic and technological growth.read here: 
+score22 len: 2
+score_average32
+array[0, 6, 16, 23, 30, 35, 39, 43, 47, 51, 54, 58, 61, 64, 66, 69, 71, 73, 76, 78, 80, 83, 85, 87, 89, 90, 92, 94, 96, 98, 99, 101, 102, 104, 106, 107, 109, 111, 112, 114, 115, 116, 118, 119, 120, 122, 123, 125, 126, 127, 128, 129, 131, 132, 133, 134, 135, 137, 138, 139]
+above_protect20
+=======================================
+=======================================
+AlgoFoundation NEW 
+text#algo announcement!proud to share ori shem-tov, @fabricebh &amp; @halevishai have designed &amp; launched our new randomness beacon on the algo blockchain. using the same vrf used by our consensus protocol to generate verifiable pseudo-random values read more:
+score3 len: 1
+score_average2
+array[0, 1, 4, 6, 8, 10, 11, 12, 13, 14, 15, 16, 16, 17, 18, 18, 19, 19, 20, 20, 21, 21, 22, 22, 23, 23, 24, 24, 24, 25, 25, 25, 26, 26, 27, 27, 27, 28, 28, 28, 28, 29, 29, 29, 30, 30, 30, 31, 31, 31, 31, 32, 32, 32, 33, 33, 33, 33, 34, 34]
+above_protect10
+=======================================
+=======================================
+NEARProtocol NEW 
+textit's 5 o'clock somewhere check out one of our wonderful #nearcon interviews with @dbrewco and learn why they're building on #near!
+score11 len: 1
+score_average10
+array[0, 5, 11, 16, 19, 22, 24, 26, 30, 31, 33, 35, 36, 38, 39, 40, 41, 42, 43, 44, 45, 47, 48, 49, 50, 51, 51, 52, 53, 54, 55, 56, 56, 57, 58, 58, 59, 60, 61, 61, 62, 63, 63, 64, 65, 65, 66, 66, 67, 67, 68, 68, 69, 70, 70, 71, 71, 71, 72, 72]
+above_protect10
+=======================================
+=======================================
+Filecoin NEW 
+text#filsingapore is off to a great start!  "decentralized filesharing protocol filecoin saw a nearly sevenfold growth of data suppliers since the start of 2022, ahead of plans for a major upgrade in early 2023." read more 
+score18 len: 3
+score_average12
+array[0, 2, 4, 6, 8, 9, 10, 11, 12, 13, 14, 15, 15, 16, 17, 17, 18, 18, 19, 20, 20, 20, 21, 21, 22, 22, 23, 23, 23, 24, 24, 25, 25, 25, 26, 26, 26, 27, 27, 27, 27, 28, 28, 29, 29, 29, 30, 30, 30, 31, 31, 31, 31, 32, 32, 32, 32, 33, 33, 33]
+above_protect30
+=======================================
+=======================================
+ankr NEW 
+textwith ankr’s advanced apis, you can check your account balance across multiple blockchains 🤩learn how in a tutorial made by @kayprasla 
+score5 len: 1
+score_average4
+array[0, 2, 5, 7, 8, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 21, 22, 23, 24, 25, 25, 26, 27, 28, 29, 30, 31, 31, 32, 32, 33, 34, 34, 35, 36, 36, 37, 37, 38, 38, 39, 40, 40, 41, 41, 42, 42, 43, 44, 44, 45, 45, 46, 46, 47, 48, 48, 49, 49, 50]
+above_protect10
+=======================================
+=======================================
+cosmos NEW 
+text #cosmoverse is on! cosmonauts, join us now live for the @cosmoversehq kick off event in medellin! 1500+ people have gathered in person for the largest @cosmos event in history!  view the agenda    
+score15 len: 1
+score_average8
+array[0, 4, 12, 19, 23, 27, 30, 34, 36, 38, 40, 42, 43, 45, 47, 49, 51, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 63, 64, 64, 66, 66, 67, 69, 69, 70, 71, 72, 74, 74, 75, 75, 76, 77, 77, 77, 78, 78, 79, 79, 79, 80, 81, 81, 82, 83, 83, 84, 84, 85]
+above_protect10
+=======================================
+=======================================
+Polkadot NEW 
+text1/ keep in the loop of what's happening in the polkadot ecosystem: check out this #polkadotroundup to learn about the new features, milestones, and the latest announcements from the parachain teams, ecosystem projects, and infrastructure providers.read the 🧵 below 
+score16 len: 1
+score_average18
+array[0, 9, 19, 27, 33, 38, 43, 46, 49, 52, 56, 59, 61, 64, 66, 69, 71, 73, 75, 77, 79, 81, 83, 85, 87, 88, 90, 92, 93, 95, 96, 98, 99, 100, 102, 103, 104, 106, 107, 108, 110, 111, 112, 113, 114, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130]
+above_protect10
+=======================================
+=======================================
+dfinity NEW 
+textthe man, the innovator, the legend - @dominic_w will take you on an #internetcomputer journey. you don’t want to miss this epic keynote speech at @token2049. 29th september 2022 h.16.00 (gmt+8). 
+score16 len: 1
+score_average10
+array[0, 5, 13, 18, 22, 26, 29, 31, 34, 36, 38, 40, 41, 43, 44, 46, 48, 49, 51, 52, 53, 54, 56, 56, 57, 58, 60, 61, 62, 63, 64, 65, 66, 67, 67, 68, 69, 70, 70, 71, 72, 73, 74, 74, 75, 75, 76, 77, 77, 78, 79, 79, 80, 81, 81, 81, 82, 83, 83, 84]
+above_protect10
+=======================================
+=======================================
+Polkadot NEW 
+textinterested in building in the polkadot ecosystem? apply for the second intake of the #polkadotdevcamp to learn how to build blockchains using @substrate_io, dive into polkadot and parachain development, and hear from polkadot experts.places are limited, apply now 
+score12 len: 1
+score_average18
+array[0, 9, 19, 27, 33, 38, 43, 46, 49, 52, 56, 59, 61, 64, 66, 69, 71, 73, 75, 77, 79, 81, 83, 85, 87, 88, 90, 92, 93, 95, 96, 98, 99, 100, 102, 103, 104, 106, 107, 108, 110, 111, 112, 113, 114, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130]
+above_protect10
+=======================================
+=======================================
+vechainofficial NEW 
+textthe all-stakeholder vote to implement vip-220, aka 'finality with one bit', the third and final phase of poa 2.0, on the #vechainthor mainnet has been set for october 20th, 2022!it will be accompanied by the launch of our new decentralized voting platform, vevote! #vechain $vet 
+score26 len: 1
+score_average22
+array[0, 11, 29, 42, 53, 61, 70, 77, 84, 91, 96, 101, 106, 111, 116, 120, 124, 128, 131, 135, 138, 142, 145, 148, 152, 155, 158, 161, 164, 167, 169, 172, 174, 177, 179, 181, 184, 186, 188, 191, 193, 195, 197, 199, 201, 203, 205, 207, 210, 212, 214, 216, 218, 219, 221, 223, 225, 227, 229, 231]
+above_protect10
+=======================================
+=======================================
+Chiliz NEW 
+text we are delighted to announce that @livelikeinc is the first company to be on-boarded to chiliz chain 2.0!more info   ... 🤫 $chz
+score26 len: 2
+score_average38
+array[0, 6, 19, 27, 34, 39, 44, 48, 52, 55, 58, 61, 63, 66, 68, 70, 71, 73, 76, 78, 80, 81, 83, 84, 86, 87, 89, 91, 92, 94, 96, 97, 99, 100, 102, 103, 104, 106, 107, 108, 110, 111, 112, 114, 115, 116, 117, 118, 119, 120, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131]
+above_protect20
+=======================================
+=======================================
+cz_binance NEW 
+textif you blame others for your misfortunes, you won't be rich. take ownership of yourself.
+score939 len: 3
+score_average736
+array[0, 85, 253, 368, 461, 540, 610, 673, 729, 782, 831, 877, 920, 960, 1001, 1038, 1074, 1108, 1142, 1174, 1205, 1235, 1265, 1293, 1321, 1349, 1375, 1401, 1426, 1450, 1473, 1497, 1520, 1543, 1566, 1587, 1608, 1630, 1650, 1670, 1690, 1709, 1728, 1747, 1766, 1784, 1803, 1821, 1839, 1857, 1874, 1891, 1908, 1924, 1941, 1957, 1973, 1989, 2006, 2022]
+above_protect30
+=======================================
+=======================================
+FantomFDN NEW 
+text🥈 congrats @pifitti on your p2 placement this weekend at the @europeanlms in belgium!   
+score14 len: 1
+score_average16
+array[0, 8, 20, 27, 34, 40, 44, 49, 53, 56, 59, 62, 65, 68, 71, 73, 75, 77, 79, 81, 83, 85, 87, 88, 90, 92, 93, 94, 96, 98, 99, 100, 102, 104, 105, 107, 108, 109, 110, 111, 112, 113, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 129, 130, 131]
+above_protect10
+=======================================
+=======================================
+litecoin NEW 
+textfun fact: 12,745,307 #ltc left to be mined.
+score80 len: 10
+score_average68
+array[0, 4, 11, 15, 19, 22, 25, 27, 30, 32, 34, 36, 38, 40, 41, 43, 44, 46, 47, 48, 50, 51, 52, 53, 55, 56, 57, 58, 58, 59, 60, 61, 62, 63, 64, 65, 65, 66, 67, 68, 69, 69, 70, 71, 72, 73, 73, 74, 75, 75, 76, 77, 77, 78, 78, 79, 79, 80, 81, 81]
+above_protect100
+=======================================
+=======================================
+ankr NEW 
+textthe bnb smart chain application sidechain (bas) ecosystem has many advantages 🤩learn more about how the ankr and bnb smart chain team are innovating the application-specific blockchain industry  
+score19 len: 4
+score_average16
+array[0, 2, 5, 7, 8, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 21, 22, 23, 24, 25, 25, 26, 27, 28, 29, 30, 31, 31, 32, 32, 33, 34, 34, 35, 36, 36, 37, 37, 38, 38, 39, 40, 40, 41, 41, 42, 42, 43, 44, 44, 45, 45, 46, 46, 47, 48, 48, 49, 49, 50]
+above_protect40
+=======================================
+=======================================
+RippleXDev NEW 
+textthe weekend may be over, but it's never too late to upgrade your servers 
+score22 len: 2
+score_average24
+array[0, 5, 12, 18, 22, 27, 31, 34, 38, 41, 44, 47, 50, 53, 55, 57, 59, 61, 63, 65, 67, 68, 70, 71, 73, 74, 75, 76, 77, 79, 81, 82, 83, 84, 86, 87, 89, 90, 91, 93, 94, 95, 97, 98, 99, 100, 101, 102, 103, 105, 107, 108, 109, 111, 112, 113, 114, 115, 116, 117]
+above_protect20
+=======================================
+=======================================
+GoGalaGames NEW 
+textwhether you are new to #web3 or not, it's important to be vigilant.enjoy the empowerment of true ownership, but also understand and accept the responsibilities. the power is with you, the players  
+score58 len: 4
+score_average82
+array[0, 10, 23, 33, 41, 47, 52, 57, 61, 65, 69, 73, 76, 79, 81, 84, 86, 88, 91, 93, 95, 97, 99, 100, 102, 105, 107, 108, 110, 111, 113, 115, 116, 118, 119, 120, 122, 123, 125, 127, 128, 129, 131, 132, 133, 135, 136, 137, 139, 140, 141, 143, 144, 145, 147, 148, 149, 150, 152, 153]
+above_protect40
+=======================================
+=======================================
+Ripple NEW 
+textfollowing last week’s #ubriconnect, we’re thrilled to see 17 of our #ubri partners celebrated on this year’s @coindesk best universities for blockchain.congratulations to all on this well-deserved recognition!  
+score168 len: 1
+score_average62
+array[0, 31, 82, 113, 138, 159, 177, 194, 211, 225, 238, 249, 260, 271, 282, 293, 302, 312, 321, 329, 337, 345, 353, 359, 366, 373, 381, 387, 393, 399, 405, 411, 417, 422, 427, 433, 437, 443, 448, 453, 458, 462, 467, 471, 476, 480, 485, 489, 493, 497, 501, 504, 509, 512, 516, 520, 524, 528, 532, 535]
+above_protect10
+=======================================
+=======================================
+Ripple NEW 
+textceo @bgarlinghouse joined @cnbc crypto world to recap the latest in the sec v. ripple lawsuit, recent u.s. regulatory action and what’s next for ripple’s growth plans. check out the full interview here: 
+score166 len: 2
+score_average164
+array[0, 31, 82, 113, 138, 159, 177, 194, 211, 225, 238, 249, 260, 271, 282, 293, 302, 312, 321, 329, 337, 345, 353, 359, 366, 373, 381, 387, 393, 399, 405, 411, 417, 422, 427, 433, 437, 443, 448, 453, 458, 462, 467, 471, 476, 480, 485, 489, 493, 497, 501, 504, 509, 512, 516, 520, 524, 528, 532, 535]
+above_protect20
+=======================================
+=======================================
+CardanoStiftung NEW 
+text🤩event season continues. we are excited to be joining at:@cnftconoctober 8-9 las vegas @w3bxoctober 10-13 las vegas@rarebloom october 14-15 gaylord rockies, coloradosee you there #cardanocommunity!
+score69 len: 1
+score_average20
+array[0, 10, 21, 30, 38, 44, 49, 54, 59, 62, 65, 70, 73, 77, 80, 84, 87, 90, 93, 95, 98, 99, 102, 104, 105, 107, 109, 110, 112, 114, 116, 117, 119, 120, 121, 122, 124, 125, 126, 128, 129, 130, 131, 133, 134, 135, 136, 137, 138, 139, 141, 142, 143, 144, 145, 146, 148, 148, 149, 151]
+above_protect10
+=======================================
+=======================================
+binance NEW 
+textintroducing #binance id, a secure and frictionless login feature! binance id works similarly to google, facebook and other logins. once the user clicks ‘sign in with binance,’ they’ll be redirected to log in on binance. find out more 
+score188 len: 1
+score_average60
+array[0, 30, 87, 124, 152, 176, 197, 216, 232, 248, 262, 276, 288, 300, 311, 322, 332, 342, 352, 361, 369, 378, 386, 394, 402, 410, 417, 424, 431, 438, 445, 452, 458, 465, 471, 477, 483, 489, 495, 501, 506, 512, 517, 523, 528, 533, 538, 543, 548, 553, 558, 562, 567, 571, 576, 580, 585, 590, 594, 599]
+above_protect10
+=======================================
+=======================================
+binance NEW 
+textwho should we follow, and why?
+score358 len: 5
+score_average352
+array[0, 30, 87, 124, 152, 176, 197, 216, 232, 248, 262, 276, 288, 300, 311, 322, 332, 342, 352, 361, 369, 378, 386, 394, 402, 410, 417, 424, 431, 438, 445, 452, 458, 465, 471, 477, 483, 489, 495, 501, 506, 512, 517, 523, 528, 533, 538, 543, 548, 553, 558, 562, 567, 571, 576, 580, 585, 590, 594, 599]
+above_protect50
+=======================================
+=======================================
+BNBCHAIN NEW 
+textbnb chain türkiye twitter space serisi, ikinci hafta programıyla karşınızda! bu hafta, 5 farklı konuğumuz ile beraber bizi nft alanında gelecekte neler beklediğini tartışacağız. hatırlatıcılarınızı kurmayı unutmayın! 27 eylül salı, 21:00bnb chain twitter 
+score49 len: 3
+score_average40
+array[0, 6, 14, 20, 24, 28, 31, 34, 37, 39, 41, 44, 46, 47, 49, 51, 53, 55, 56, 57, 59, 60, 62, 63, 64, 65, 67, 68, 69, 70, 71, 72, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 94, 96, 96, 97, 98, 99, 100, 101, 102]
+above_protect30
+=======================================
+=======================================
+TheSandboxGame NEW 
+texta friendly little reminder to participate to earn $sand and win alpha passes &amp; @people0fcrypto avatars! join the fun!  #sandboxalphas3giveaway 
+score71 len: 2
+score_average44
+array[0, 8, 22, 32, 39, 45, 50, 55, 60, 64, 68, 71, 74, 77, 80, 83, 86, 88, 91, 93, 95, 98, 100, 102, 104, 106, 108, 110, 112, 114, 115, 117, 119, 120, 122, 124, 125, 127, 128, 130, 132, 134, 135, 137, 138, 140, 141, 142, 144, 145, 146, 148, 154, 156, 157, 158, 159, 160, 162, 163]
+above_protect20
+=======================================
+=======================================
+binance NEW 
+textwho fancies a game? 
+score499 len: 2
+score_average174
+array[0, 30, 87, 124, 152, 176, 197, 216, 232, 248, 262, 276, 288, 300, 311, 322, 332, 342, 352, 361, 369, 378, 386, 394, 402, 410, 417, 424, 431, 438, 445, 452, 458, 465, 471, 477, 483, 489, 495, 501, 506, 512, 517, 523, 528, 533, 538, 543, 548, 553, 558, 562, 567, 571, 576, 580, 585, 590, 594, 599]
+above_protect20
+=======================================
+=======================================
+litecoin NEW 
+textwhat is #mweb, what does it do, and why you should care.
+score117 len: 14
+score_average82
+array[0, 4, 11, 15, 19, 22, 25, 27, 30, 32, 34, 36, 38, 40, 41, 43, 44, 46, 47, 48, 50, 51, 52, 53, 55, 56, 57, 58, 58, 59, 60, 61, 62, 63, 64, 65, 65, 66, 67, 68, 69, 69, 70, 71, 72, 73, 73, 74, 75, 75, 76, 77, 77, 78, 78, 79, 79, 80, 81, 81]
+above_protect140
+=======================================
+=======================================
+binance NEW 
+textupdate on deposit and withdrawal fees for $lunc and $ustc on terra classic #lunc network (2022-09-27).
+score219 len: 2
+score_average174
+array[0, 30, 87, 124, 152, 176, 197, 216, 232, 248, 262, 276, 288, 300, 311, 322, 332, 342, 352, 361, 369, 378, 386, 394, 402, 410, 417, 424, 431, 438, 445, 452, 458, 465, 471, 477, 483, 489, 495, 501, 506, 512, 517, 523, 528, 533, 538, 543, 548, 553, 558, 562, 567, 571, 576, 580, 585, 590, 594, 599]
+above_protect20
+=======================================
+=======================================
+BNBCHAIN NEW 
+textbuilding in #web3 has never been easier. check out how you can utilize support from @wombatexchange in the process 
+score21 len: 1
+score_average12
+array[0, 6, 14, 20, 24, 28, 31, 34, 37, 39, 41, 44, 46, 47, 49, 51, 53, 55, 56, 57, 59, 60, 62, 63, 64, 65, 67, 68, 69, 70, 71, 72, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 94, 96, 96, 97, 98, 99, 100, 101, 102]
+above_protect10
+=======================================
+=======================================
+binance NEW 
+textno fiat, no problem! at least, that's the theory. for #worldtourismday, we’re challenging two travel influencers to take a trip where they can only pay in crypto.follow along with their trips and experience on instagram, and prepare for a big surprise  
+score62 len: 1
+score_average60
+array[0, 30, 87, 124, 152, 176, 197, 216, 232, 248, 262, 276, 288, 300, 311, 322, 332, 342, 352, 361, 369, 378, 386, 394, 402, 410, 417, 424, 431, 438, 445, 452, 458, 465, 471, 477, 483, 489, 495, 501, 506, 512, 517, 523, 528, 533, 538, 543, 548, 553, 558, 562, 567, 571, 576, 580, 585, 590, 594, 599]
+above_protect10
+=======================================
+=======================================
+BNBCHAIN NEW 
+textbnb chain x gameta: bringing 20 million daily consumers to web3 
+score13 len: 1
+score_average12
+array[0, 6, 14, 20, 24, 28, 31, 34, 37, 39, 41, 44, 46, 47, 49, 51, 53, 55, 56, 57, 59, 60, 62, 63, 64, 65, 67, 68, 69, 70, 71, 72, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 94, 96, 96, 97, 98, 99, 100, 101, 102]
+above_protect10
+=======================================
+=======================================
+Ravencoin NEW 
+textthe five year anniversary of ravencoin approaches.the project has delivered on its goals.the developers delivered on the white paper.the miners delivered security and proof of truth. the project is open source, all volunteer and owned by the users.  the users have delivered.
+score16 len: 3
+score_average14
+array[0, 2, 5, 7, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 23, 24, 25, 26, 27, 28, 28, 28, 29, 30, 30, 30, 31, 31, 32, 33, 33, 34, 34, 35, 35, 35, 35, 36, 36, 37, 37, 38, 38, 38, 39, 39, 40, 40, 40, 40, 40, 41, 41, 41, 42, 42, 43]
+above_protect30
+=======================================
+=======================================
+0xPolygon NEW 
+textguess who’s in the hood! 🪶@robinhoodapp’s web3 wallet beta is now live exclusively #onpolygon. with this launch, #polygon &amp; robinhood are bringing millions of customers to on-chain #defi via low gas infrastructure. 
+score122 len: 8
+score_average186
+array[0, 13, 33, 47, 58, 68, 77, 86, 93, 99, 106, 112, 118, 123, 128, 133, 138, 143, 147, 151, 155, 159, 163, 167, 170, 174, 177, 180, 184, 187, 190, 193, 196, 198, 201, 229, 232, 234, 237, 239, 242, 244, 246, 248, 250, 253, 255, 257, 259, 261, 263, 266, 267, 269, 271, 273, 275, 277, 279, 282]
+above_protect80
+=======================================
+=======================================
+CardanoStiftung NEW 
+text10 gold passes up for grabs to @web3expo in las vegas - october 10-12!!   like + retweet + 🤝follow @cardanostiftung for your chance to win 1 of 10 passes!competition ends 29 sept at 12pm (gmt)winners will be announced 29 sept at 5pm (gmt)#cardanocommunity
+score15 len: 1
+score_average20
+array[0, 10, 21, 30, 38, 44, 49, 54, 59, 62, 65, 70, 73, 77, 80, 84, 87, 90, 93, 95, 98, 99, 102, 104, 105, 107, 109, 110, 112, 114, 116, 117, 119, 120, 121, 122, 124, 125, 126, 128, 129, 130, 131, 133, 134, 135, 136, 137, 138, 139, 141, 142, 143, 144, 145, 146, 148, 148, 149, 151]
+above_protect10
+=======================================
+=======================================
+iota NEW 
+textit´s tomorrow! are you ready for the #shimmer network launch? 
+score21 len: 1
+score_average12
+array[0, 6, 16, 23, 28, 34, 38, 43, 47, 51, 54, 58, 61, 64, 66, 69, 71, 74, 76, 79, 81, 84, 86, 88, 90, 92, 93, 95, 97, 99, 101, 103, 105, 106, 108, 110, 112, 114, 115, 117, 118, 120, 122, 123, 124, 126, 128, 129, 131, 132, 133, 135, 136, 137, 138, 140, 141, 142, 144, 145]
+above_protect10
+=======================================
+=======================================
+binance NEW 
+text.@cz_binance is live on @yahoofinance!watch   
+score66 len: 1
+score_average60
+array[0, 30, 87, 124, 152, 176, 197, 216, 232, 248, 262, 276, 288, 300, 311, 322, 332, 342, 352, 361, 369, 378, 386, 394, 402, 410, 417, 424, 431, 438, 445, 452, 458, 465, 471, 477, 483, 489, 495, 501, 506, 512, 517, 523, 528, 533, 538, 543, 548, 553, 558, 562, 567, 571, 576, 580, 585, 590, 594, 599]
+above_protect10
+=======================================
+=======================================
+terra_money NEW 
+text1/ with the re-launch of @kado_money, #lunatics can now on-ramp directly to $axlusdc using fiat! options include: credit card, ach bank transfer, or wire transfer 
+score202 len: 10
+score_average306
+array[0, 21, 56, 75, 92, 105, 115, 127, 136, 144, 153, 160, 167, 172, 178, 184, 190, 195, 201, 204, 209, 213, 218, 222, 225, 229, 232, 234, 237, 241, 244, 247, 250, 253, 256, 258, 261, 264, 266, 270, 273, 276, 279, 282, 284, 285, 288, 290, 292, 294, 296, 299, 301, 303, 305, 307, 310, 313, 315, 317]
+above_protect100
+=======================================
+=======================================
+binance NEW 
+text#binance launches the global law enforcement training program, the industry's first global effort to help law enforcement and prosecutors detect illicit activity.topics: blockchain concepts  binance's aml  investigation methodsread more   
+score64 len: 1
+score_average60
+array[0, 30, 87, 124, 152, 176, 197, 216, 232, 248, 262, 276, 288, 300, 311, 322, 332, 342, 352, 361, 369, 378, 386, 394, 402, 410, 417, 424, 431, 438, 445, 452, 458, 465, 471, 477, 483, 489, 495, 501, 506, 512, 517, 523, 528, 533, 538, 543, 548, 553, 558, 562, 567, 571, 576, 580, 585, 590, 594, 599]
+above_protect10
+=======================================
+=======================================
+cz_binance NEW 
+text#bitcoin never had a ceo.
+score180 len: 1
+score_average170
+array[0, 85, 253, 368, 461, 540, 610, 673, 729, 782, 831, 877, 920, 960, 1001, 1038, 1074, 1108, 1142, 1174, 1205, 1235, 1265, 1293, 1321, 1349, 1375, 1401, 1426, 1450, 1473, 1497, 1520, 1543, 1566, 1587, 1608, 1630, 1650, 1670, 1690, 1709, 1728, 1747, 1766, 1784, 1803, 1821, 1839, 1857, 1874, 1891, 1908, 1924, 1941, 1957, 1973, 1989, 2006, 2022]
+above_protect10
+=======================================
+=======================================
+CardanoStiftung NEW 
+texttoday we celebrate another special milestone -  happy 5th anniversary #cardano! to celebrate let's take a look at the five eras of the cardano roadmap, from byron to voltaire &amp; what we've achieved &amp; intend to achieve as we build a #blockchain for the future. 
+score36 len: 2
+score_average42
+array[0, 10, 21, 30, 38, 44, 49, 54, 59, 62, 65, 70, 73, 77, 80, 84, 87, 90, 93, 95, 98, 99, 102, 104, 105, 107, 109, 110, 112, 114, 116, 117, 119, 120, 121, 122, 124, 125, 126, 128, 129, 130, 131, 133, 134, 135, 136, 137, 138, 139, 141, 142, 143, 144, 145, 146, 148, 148, 149, 151]
+above_protect20
+=======================================
+=======================================
+NEARProtocol NEW 
+textwe're developing a mobile phone!jk, we did just get this message through, though. 
+score293 len: 24
+score_average100
+array[0, 5, 11, 16, 19, 22, 24, 26, 30, 31, 33, 35, 36, 38, 39, 40, 41, 42, 43, 44, 45, 47, 48, 49, 50, 51, 51, 52, 53, 54, 55, 56, 56, 57, 58, 58, 59, 60, 61, 61, 62, 63, 63, 64, 65, 65, 66, 66, 67, 67, 68, 68, 69, 70, 70, 71, 71, 71, 72, 72]
+above_protect240
+=======================================
+=======================================
+dfinity NEW 
+textnever fail a vibe check again with the #vibes swag shop! #c1tyscape is a limited edition t-shirt to commemorate the #internetcomputer genesis launch event, and now it could be yours for free (+ shipping).grab yours  
+score311 len: 10
+score_average76
+array[0, 5, 13, 18, 22, 26, 29, 31, 34, 36, 38, 40, 41, 43, 44, 46, 48, 49, 51, 52, 53, 54, 56, 56, 57, 58, 60, 61, 62, 63, 64, 65, 66, 67, 67, 68, 69, 70, 70, 71, 72, 73, 74, 74, 75, 75, 76, 77, 77, 78, 79, 79, 80, 81, 81, 81, 82, 83, 83, 84]
+above_protect100
+=======================================
+=======================================
+litecoin NEW 
+textwhat: #litecoinsummit2022where: #lasvegaswhen: #october 21-22why:  
+score59 len: 4
+score_average38
+array[0, 4, 11, 15, 19, 22, 25, 27, 30, 32, 34, 36, 38, 40, 41, 43, 44, 46, 47, 48, 50, 51, 52, 53, 55, 56, 57, 58, 58, 59, 60, 61, 62, 63, 64, 65, 65, 66, 67, 68, 69, 69, 70, 71, 72, 73, 73, 74, 75, 75, 76, 77, 77, 78, 78, 79, 79, 80, 81, 81]
+above_protect40
+=======================================
+=======================================
+0xPolygon NEW 
+text alert #gbs2 speaker announcementpolygon will be joined by oceef, a world class ocean conservation ngo, in light of their new @0xpolygon announcement! 
+score346 len: 4
+score_average116
+array[0, 13, 33, 47, 58, 68, 77, 86, 93, 99, 106, 112, 118, 123, 128, 133, 138, 143, 147, 151, 155, 159, 163, 167, 170, 174, 177, 180, 184, 187, 190, 193, 196, 198, 201, 229, 232, 234, 237, 239, 242, 244, 246, 248, 250, 253, 255, 257, 259, 261, 263, 266, 267, 269, 271, 273, 275, 277, 279, 282]
+above_protect40
+=======================================
+=======================================
+TheSandboxGame NEW 
+textwe have partnered with @axa hong kong, who will become the first hk-based insurer to enter #thesandbox! stay tuned for innovative &amp; interactive spaces for their customers, where they will create the future of insurance in the #metaverse! 
+score13 len: 1
+score_average16
+array[0, 8, 22, 32, 39, 45, 50, 55, 60, 64, 68, 71, 74, 77, 80, 83, 86, 88, 91, 93, 95, 98, 100, 102, 104, 106, 108, 110, 112, 114, 115, 117, 119, 120, 122, 124, 125, 127, 128, 130, 132, 134, 135, 137, 138, 140, 141, 142, 144, 145, 146, 148, 154, 156, 157, 158, 159, 160, 162, 163]
+above_protect10
+=======================================
+=======================================
+iota NEW 
+textthanks @bitboy_crypto for researching us! hope to see you at the @shimmernet launch party later 🥳.
+score16 len: 1
+score_average12
+array[0, 6, 16, 23, 28, 34, 38, 43, 47, 51, 54, 58, 61, 64, 66, 69, 71, 74, 76, 79, 81, 84, 86, 88, 90, 92, 93, 95, 97, 99, 101, 103, 105, 106, 108, 110, 112, 114, 115, 117, 118, 120, 122, 123, 124, 126, 128, 129, 131, 132, 133, 135, 136, 137, 138, 140, 141, 142, 144, 145]
+above_protect10
+=======================================
+=======================================
+Polkadot NEW 
+texton september 28-29, polkadot is at #token2049!take your chance to meet with the polkadot ecosystem teams, and learn from the builders shaping the multichain future.swing by the booth #p70 level 5 to learn all things polkadot, and pick up some swag   
+score16 len: 1
+score_average18
+array[0, 9, 19, 27, 33, 38, 43, 46, 49, 52, 56, 59, 61, 64, 66, 69, 71, 73, 75, 77, 79, 81, 83, 85, 87, 88, 90, 92, 93, 95, 96, 98, 99, 100, 102, 103, 104, 106, 107, 108, 110, 111, 112, 113, 114, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130]
+above_protect10
+=======================================
+=======================================
+zilliqa NEW 
+textwe are excited to announce web3war's first public test event!
+score12 len: 1
+score_average12
+array[0, 6, 16, 23, 30, 35, 39, 43, 47, 51, 54, 58, 61, 64, 66, 69, 71, 73, 76, 78, 80, 83, 85, 87, 89, 90, 92, 94, 96, 98, 99, 101, 102, 104, 106, 107, 109, 111, 112, 114, 115, 116, 118, 119, 120, 122, 123, 125, 126, 127, 128, 129, 131, 132, 133, 134, 135, 137, 138, 139]
+above_protect10
+=======================================
+=======================================
+binance NEW 
+text#binance adds $ustc and 4 new pairs on cross margin and isolated margin.
+score402 len: 6
+score_average394
+array[0, 30, 87, 124, 152, 176, 197, 216, 232, 248, 262, 276, 288, 300, 311, 322, 332, 342, 352, 361, 369, 378, 386, 394, 402, 410, 417, 424, 431, 438, 445, 452, 458, 465, 471, 477, 483, 489, 495, 501, 506, 512, 517, 523, 528, 533, 538, 543, 548, 553, 558, 562, 567, 571, 576, 580, 585, 590, 594, 599]
+above_protect60
+=======================================
+=======================================
+BNBCHAIN NEW 
+textjoin our vietnamese community as we host @stader_bnb for our latest innovation talks tomorrow join us to get the latest on the project's recent innovations.⏰20:30 pm (ict)sep. 29th 
+score15 len: 1
+score_average12
+array[0, 6, 14, 20, 24, 28, 31, 34, 37, 39, 41, 44, 46, 47, 49, 51, 53, 55, 56, 57, 59, 60, 62, 63, 64, 65, 67, 68, 69, 70, 71, 72, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 94, 96, 96, 97, 98, 99, 100, 101, 102]
+above_protect10
+=======================================
+=======================================
+TheSandboxGame NEW 
+text @hsbc_sport will be staging a virtual stadium in #thesandbox from 24 october! don’t miss your chance to participate in action-packed challenges, engaging mini games and educational quizzes.  as well as your chance to win tickets to the hong kong #rugby7s!#hk7s 
+score18 len: 1
+score_average16
+array[0, 8, 22, 32, 39, 45, 50, 55, 60, 64, 68, 71, 74, 77, 80, 83, 86, 88, 91, 93, 95, 98, 100, 102, 104, 106, 108, 110, 112, 114, 115, 117, 119, 120, 122, 124, 125, 127, 128, 130, 132, 134, 135, 137, 138, 140, 141, 142, 144, 145, 146, 148, 154, 156, 157, 158, 159, 160, 162, 163]
+above_protect10
+=======================================
+=======================================
+ankr NEW 
+text🤝 @bnbchain's relay hub is a smart contract aimed to provide seamless interchain communication between all bnb application sidechains for enhanced interoperability read more about it  
+score6 len: 1
+score_average4
+array[0, 2, 5, 7, 8, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 21, 22, 23, 24, 25, 25, 26, 27, 28, 29, 30, 31, 31, 32, 32, 33, 34, 34, 35, 36, 36, 37, 37, 38, 38, 39, 40, 40, 41, 41, 42, 42, 43, 44, 44, 45, 45, 46, 46, 47, 48, 48, 49, 49, 50]
+above_protect10
+=======================================
+=======================================
+cz_binance NEW 
+texttwo books you should read now.  
+score206 len: 1
+score_average170
+array[0, 85, 253, 368, 461, 540, 610, 673, 729, 782, 831, 877, 920, 960, 1001, 1038, 1074, 1108, 1142, 1174, 1205, 1235, 1265, 1293, 1321, 1349, 1375, 1401, 1426, 1450, 1473, 1497, 1520, 1543, 1566, 1587, 1608, 1630, 1650, 1670, 1690, 1709, 1728, 1747, 1766, 1784, 1803, 1821, 1839, 1857, 1874, 1891, 1908, 1924, 1941, 1957, 1973, 1989, 2006, 2022]
+above_protect10
+=======================================
+=======================================
+FantomFDN NEW 
+textpleased to welcome @etherspot, an sdk offering a non-custodial, smart wallet framework on #fantom.developers gain an advantage with:• txn batching w/o switching rpcs• p2p payment channels• smart contract based accounts• multichain liquidity
+score19 len: 1
+score_average16
+array[0, 8, 20, 27, 34, 40, 44, 49, 53, 56, 59, 62, 65, 68, 71, 73, 75, 77, 79, 81, 83, 85, 87, 88, 90, 92, 93, 94, 96, 98, 99, 100, 102, 104, 105, 107, 108, 109, 110, 111, 112, 113, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 129, 130, 131]
+above_protect10
+=======================================
+=======================================
+AragonProject NEW 
+textwhere could you take your dao with a vetted, skilled expert by your side? we’ve compiled info on our dao experts’ services so you can get started even faster. simply click on the expert’s profile to discover more about them  out the highlights 🧵
+score3 len: 3
+score_average2
+array[0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7]
+above_protect30
+=======================================
+=======================================
+TheSandboxGame NEW 
+text#sandboxalphas3giveaway week#6get a shot of your avatar atop the high diving board in @steveaoki's playhouse before jumping! for your chance to win an alpha pass - enter here  
+score12 len: 1
+score_average16
+array[0, 8, 22, 32, 39, 45, 50, 55, 60, 64, 68, 71, 74, 77, 80, 83, 86, 88, 91, 93, 95, 98, 100, 102, 104, 106, 108, 110, 112, 114, 115, 117, 119, 120, 122, 124, 125, 127, 128, 130, 132, 134, 135, 137, 138, 140, 141, 142, 144, 145, 146, 148, 154, 156, 157, 158, 159, 160, 162, 163]
+above_protect10
+=======================================
+=======================================
+Chiliz NEW 
+text  |   .. ⏳ bridge your testchz from scoville to goerli testnet#chilizscoville  $chz 
+score53 len: 4
+score_average68
+array[0, 6, 19, 27, 34, 39, 44, 48, 52, 55, 58, 61, 63, 66, 68, 70, 71, 73, 76, 78, 80, 81, 83, 84, 86, 87, 89, 91, 92, 94, 96, 97, 99, 100, 102, 103, 104, 106, 107, 108, 110, 111, 112, 114, 115, 116, 117, 118, 119, 120, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131]
+above_protect40
+=======================================
+=======================================
+BNBCHAIN NEW 
+textwe're looking forward to welcoming you to #smartcon at sunset, with an exclusive rooftop afterparty awaiting attendees!take in the new york sunset as you bask in all the innovative excitement at #smartcon2022 powered by @chainlink #bnbchainus 
+score18 len: 1
+score_average12
+array[0, 6, 14, 20, 24, 28, 31, 34, 37, 39, 41, 44, 46, 47, 49, 51, 53, 55, 56, 57, 59, 60, 62, 63, 64, 65, 67, 68, 69, 70, 71, 72, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 94, 96, 96, 97, 98, 99, 100, 101, 102]
+above_protect10
+=======================================
+=======================================
+Filecoin NEW 
+text1/ fresh updates from #filsingapore 🧵the amount of client data onboarded to filecoin ytd is up 7.5x and growing 20% mom. 
+score37 len: 17
+score_average36
+array[0, 2, 4, 6, 8, 9, 10, 11, 12, 13, 14, 15, 15, 16, 17, 17, 18, 18, 19, 20, 20, 20, 21, 21, 22, 22, 23, 23, 23, 24, 24, 25, 25, 25, 26, 26, 26, 27, 27, 27, 27, 28, 28, 29, 29, 29, 30, 30, 30, 31, 31, 31, 31, 32, 32, 32, 32, 33, 33, 33]
+above_protect170
+=======================================
+=======================================
+TheSandboxGame NEW 
+textspeed‍run‍challengewin a @steveaoki avatar!⏱ collect all steve green coins in under 4 minutes to be in the running!enter &amp; validate here   
+score14 len: 1
+score_average16
+array[0, 8, 22, 32, 39, 45, 50, 55, 60, 64, 68, 71, 74, 77, 80, 83, 86, 88, 91, 93, 95, 98, 100, 102, 104, 106, 108, 110, 112, 114, 115, 117, 119, 120, 122, 124, 125, 127, 128, 130, 132, 134, 135, 137, 138, 140, 141, 142, 144, 145, 146, 148, 154, 156, 157, 158, 159, 160, 162, 163]
+above_protect10
+=======================================
+=======================================
+ankr NEW 
+text our appchains allow you to launch your own blockchainthey have many different use cases, here are a few learn more on our website  
+score5 len: 1
+score_average4
+array[0, 2, 5, 7, 8, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 21, 22, 23, 24, 25, 25, 26, 27, 28, 29, 30, 31, 31, 32, 32, 33, 34, 34, 35, 36, 36, 37, 37, 38, 38, 39, 40, 40, 41, 41, 42, 42, 43, 44, 44, 45, 45, 46, 46, 47, 48, 48, 49, 49, 50]
+above_protect10
+=======================================
+=======================================
+StellarOrg NEW 
+textlook up, stellar's at #convergesf22 
+score12 len: 1
+score_average12
+array[0, 6, 14, 20, 25, 29, 32, 35, 38, 40, 43, 45, 48, 52, 54, 56, 57, 59, 60, 62, 63, 64, 66, 67, 69, 70, 71, 72, 73, 74, 76, 76, 77, 78, 80, 80, 81, 82, 83, 83, 84, 85, 85, 86, 87, 88, 89, 89, 90, 91, 92, 92, 93, 94, 94, 95, 96, 96, 97, 97]
+above_protect10
+=======================================
+=======================================
+0xPolygon NEW 
+texttomorrow. tomorrow. tomorrow. tomorrow. tomorrow. tomorrow. #greenblockchainsummit2 building solutions for a better planet. bigger. better. greener.  
+score18 len: 1
+score_average26
+array[0, 13, 33, 47, 58, 68, 77, 86, 93, 99, 106, 112, 118, 123, 128, 133, 138, 143, 147, 151, 155, 159, 163, 167, 170, 174, 177, 180, 184, 187, 190, 193, 196, 198, 201, 229, 232, 234, 237, 239, 242, 244, 246, 248, 250, 253, 255, 257, 259, 261, 263, 266, 267, 269, 271, 273, 275, 277, 279, 282]
+above_protect10
+=======================================
+=======================================
+BNBCHAIN NEW 
+texta step-by-step guide to get your staking journey started on @stader_bnb #bnb
+score16 len: 1
+score_average12
+array[0, 6, 14, 20, 24, 28, 31, 34, 37, 39, 41, 44, 46, 47, 49, 51, 53, 55, 56, 57, 59, 60, 62, 63, 64, 65, 67, 68, 69, 70, 71, 72, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 94, 96, 96, 97, 98, 99, 100, 101, 102]
+above_protect10
+=======================================
+=======================================
+TheSandboxGame NEW 
+text alpha pass giveaway   complete all quests in the tower of light follow @deadmau5be sure to enter &amp; validate here   
+score70 len: 6
+score_average100
+array[0, 8, 22, 32, 39, 45, 50, 55, 60, 64, 68, 71, 74, 77, 80, 83, 86, 88, 91, 93, 95, 98, 100, 102, 104, 106, 108, 110, 112, 114, 115, 117, 119, 120, 122, 124, 125, 127, 128, 130, 132, 134, 135, 137, 138, 140, 141, 142, 144, 145, 146, 148, 154, 156, 157, 158, 159, 160, 162, 163]
+above_protect60
+=======================================
+=======================================
+terra_money NEW 
+text1/ it’s hard to keep this under wraps, but @gravidao_’s lunar assistant is back and better than ever before! over the last few months, @gravidao_ has been quietly redesigning its flagship product into a truly future-proof application 🧵
+score37 len: 1
+score_average42
+array[0, 21, 56, 75, 92, 105, 115, 127, 136, 144, 153, 160, 167, 172, 178, 184, 190, 195, 201, 204, 209, 213, 218, 222, 225, 229, 232, 234, 237, 241, 244, 247, 250, 253, 256, 258, 261, 264, 266, 270, 273, 276, 279, 282, 284, 285, 288, 290, 292, 294, 296, 299, 301, 303, 305, 307, 310, 313, 315, 317]
+above_protect10
+=======================================
+=======================================
+NEARProtocol NEW 
+textnear is primed to take a lead role in the #web3 gaming ecosystem sit back, enjoy your mountain dew™ &amp; cheetos™, and listen to our interview with @aliaksandrh from @humanguild about all things web3 gaming
+score21 len: 2
+score_average22
+array[0, 5, 11, 16, 19, 22, 24, 26, 30, 31, 33, 35, 36, 38, 39, 40, 41, 42, 43, 44, 45, 47, 48, 49, 50, 51, 51, 52, 53, 54, 55, 56, 56, 57, 58, 58, 59, 60, 61, 61, 62, 63, 63, 64, 65, 65, 66, 66, 67, 67, 68, 68, 69, 70, 70, 71, 71, 71, 72, 72]
+above_protect20
+=======================================
+=======================================
+NEARProtocol NEW 
+textnear has partnered with @circlepay to bring $usdc to the near community. now the world’s fastest-growing stablecoin will be available natively on nearread more about what this means for the future of #web3 in our announcement blog 
+score49 len: 6
+score_average48
+array[0, 5, 11, 16, 19, 22, 24, 26, 30, 31, 33, 35, 36, 38, 39, 40, 41, 42, 43, 44, 45, 47, 48, 49, 50, 51, 51, 52, 53, 54, 55, 56, 56, 57, 58, 58, 59, 60, 61, 61, 62, 63, 63, 64, 65, 65, 66, 66, 67, 67, 68, 68, 69, 70, 70, 71, 71, 71, 72, 72]
+above_protect60
+=======================================
+=======================================
+GoGalaGames NEW 
+textweb3 🤝 community
+score14 len: 1
+score_average20
+array[0, 10, 23, 33, 41, 47, 52, 57, 61, 65, 69, 73, 76, 79, 81, 84, 86, 88, 91, 93, 95, 97, 99, 100, 102, 105, 107, 108, 110, 111, 113, 115, 116, 118, 119, 120, 122, 123, 125, 127, 128, 129, 131, 132, 133, 135, 136, 137, 139, 140, 141, 143, 144, 145, 147, 148, 149, 150, 152, 153]
+above_protect10
+=======================================
+=======================================
+AlgoFoundation NEW 
+textno 🧢 no forks #greencrypto
+score23 len: 5
+score_average20
+array[0, 1, 4, 6, 8, 10, 11, 12, 13, 14, 15, 16, 16, 17, 18, 18, 19, 19, 20, 20, 21, 21, 22, 22, 23, 23, 24, 24, 24, 25, 25, 25, 26, 26, 27, 27, 27, 28, 28, 28, 28, 29, 29, 29, 30, 30, 30, 31, 31, 31, 31, 32, 32, 32, 33, 33, 33, 33, 34, 34]
+above_protect50
+=======================================
+=======================================
+AxieInfinity NEW 
+textlast month, the @googlecloud team visited the @skymavishq office to learn more about our mission to bring property rights to all users of the internet, starting with gamers we're proud to welcome @googlecloud as a @ronin_network validator! 
+score42 len: 4
+score_average54
+array[0, 6, 15, 22, 27, 32, 36, 39, 43, 46, 49, 51, 54, 56, 58, 60, 62, 64, 66, 68, 70, 71, 73, 74, 76, 77, 78, 80, 81, 82, 84, 85, 86, 87, 88, 89, 91, 92, 93, 94, 95, 96, 97, 98, 98, 99, 100, 101, 102, 103, 104, 104, 105, 106, 107, 108, 109, 110, 110, 111]
+above_protect40
+=======================================
+=======================================
+enjin NEW 
+textbeam services are code complete, and quality assurance is testing the features right now  after implementation, wallet v2 will be at feature parity with wallet 1.0, plus support for extra coins and #nfts. but we won’t stop there!  
+score11 len: 1
+score_average14
+array[0, 7, 19, 28, 34, 38, 44, 48, 52, 56, 58, 60, 63, 66, 70, 71, 74, 76, 78, 80, 82, 83, 85, 86, 88, 90, 91, 92, 94, 94, 95, 96, 98, 99, 100, 101, 102, 104, 105, 106, 106, 107, 108, 109, 110, 111, 111, 112, 113, 114, 115, 116, 117, 117, 118, 119, 121, 121, 122, 123]
+above_protect10
+=======================================
+=======================================
+dfinity NEW 
+textwe are thrilled to announce the  outcalls feature on the #internetcomputer! # outcalls replace #blockchain oracles. #ic 
+score20 len: 1
+score_average10
+array[0, 5, 13, 18, 22, 26, 29, 31, 34, 36, 38, 40, 41, 43, 44, 46, 48, 49, 51, 52, 53, 54, 56, 56, 57, 58, 60, 61, 62, 63, 64, 65, 66, 67, 67, 68, 69, 70, 70, 71, 72, 73, 74, 74, 75, 75, 76, 77, 77, 78, 79, 79, 80, 81, 81, 81, 82, 83, 83, 84]
+above_protect10
+=======================================
+=======================================
+Chiliz NEW 
+text chiliz exchange will suspend the deposit and withdrawal services of chiliz chain fan tokens at 12:00 cest today due to an on-going node upgrade.more info   $chz 
+score29 len: 2
+score_average38
+array[0, 6, 19, 27, 34, 39, 44, 48, 52, 55, 58, 61, 63, 66, 68, 70, 71, 73, 76, 78, 80, 81, 83, 84, 86, 87, 89, 91, 92, 94, 96, 97, 99, 100, 102, 103, 104, 106, 107, 108, 110, 111, 112, 114, 115, 116, 117, 118, 119, 120, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131]
+above_protect20
+=======================================
+=======================================
+Chiliz NEW 
+text    - serrano is live! introducing chiliz bridge ↔ chain swap#chilizscoville  $chz 
+score25 len: 1
+score_average12
+array[0, 6, 19, 27, 34, 39, 44, 48, 52, 55, 58, 61, 63, 66, 68, 70, 71, 73, 76, 78, 80, 81, 83, 84, 86, 87, 89, 91, 92, 94, 96, 97, 99, 100, 102, 103, 104, 106, 107, 108, 110, 111, 112, 114, 115, 116, 117, 118, 119, 120, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131]
+above_protect10
+=======================================
+=======================================
+0xPolygon NEW 
+texthow to fix the ui/ux in #web3?presenting e04 of #polygonpod, our official podcast where we discuss important web3 topics. speakers:@0xjoflow, sr. product designer at polygon@5aitec, cope studio co-founderhost:@pashakun, content lead at polygoncheck out the episode 
+score17 len: 1
+score_average26
+array[0, 13, 33, 47, 58, 68, 77, 86, 93, 99, 106, 112, 118, 123, 128, 133, 138, 143, 147, 151, 155, 159, 163, 167, 170, 174, 177, 180, 184, 187, 190, 193, 196, 198, 201, 229, 232, 234, 237, 239, 242, 244, 246, 248, 250, 253, 255, 257, 259, 261, 263, 266, 267, 269, 271, 273, 275, 277, 279, 282]
+above_protect10
+=======================================
+=======================================
+BNBCHAIN NEW 
+text12 hours left ⌛for you to learn and earn through #bnbboost on @coinmarketcap complete the lessons on liquid staking and earn your prize alongside an exclusive #nftmake these final hours count  
+score30 len: 2
+score_average28
+array[0, 6, 14, 20, 24, 28, 31, 34, 37, 39, 41, 44, 46, 47, 49, 51, 53, 55, 56, 57, 59, 60, 62, 63, 64, 65, 67, 68, 69, 70, 71, 72, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 94, 96, 96, 97, 98, 99, 100, 101, 102]
+above_protect20
+=======================================
+=======================================
+binance NEW 
+textgoooooot afdernooooon cyrpto wurd 🫡
+score107 len: 1
+score_average60
+array[0, 30, 87, 124, 152, 176, 197, 216, 232, 248, 262, 276, 288, 300, 311, 322, 332, 342, 352, 361, 369, 378, 386, 394, 402, 410, 417, 424, 431, 438, 445, 452, 458, 465, 471, 477, 483, 489, 495, 501, 506, 512, 517, 523, 528, 533, 538, 543, 548, 553, 558, 562, 567, 571, 576, 580, 585, 590, 594, 599]
+above_protect10
+=======================================
+=======================================
+COTInetwork NEW 
+textsince our last update, the @inputoutputhk and coti development teams have been working relentlessly and we are pleased to keep you informed on djed’s progress and recent developments.read about the latest djed updates here:  $djed 
+score28 len: 1
+score_average32
+array[0, 16, 36, 51, 62, 72, 82, 90, 98, 105, 112, 120, 125, 131, 136, 141, 146, 151, 156, 160, 165, 169, 173, 177, 181, 184, 188, 191, 195, 198, 201, 205, 208, 211, 215, 218, 222, 224, 227, 230, 232, 235, 238, 241, 244, 247, 249, 252, 254, 257, 260, 262, 264, 266, 268, 271, 273, 275, 277, 279]
+above_protect10
+=======================================
+=======================================
+litecoin NEW 
+textdid you know: 60 million venmo users can receive cash back rewards in #litecoin through the new “cash back to #crypto” option, on the @venmo app. with up to 3% back on their top eligible spending category! #sundayvibes 
+score9 len: 1
+score_average8
+array[0, 4, 11, 15, 19, 22, 25, 27, 30, 32, 34, 36, 38, 40, 41, 43, 44, 46, 47, 48, 50, 51, 52, 53, 55, 56, 57, 58, 58, 59, 60, 61, 62, 63, 64, 65, 65, 66, 67, 68, 69, 69, 70, 71, 72, 73, 73, 74, 75, 75, 76, 77, 77, 78, 78, 79, 79, 80, 81, 81]
+above_protect10
+=======================================
+=======================================
+cz_binance NEW 
+texti am not smart.i am not good-looking.i don’t have (fiat) money.i am not good at most things.i bond people together, even though i am bad at socializing too.thank you for your support and follow!  
+score611 len: 2
+score_average506
+array[0, 85, 253, 368, 461, 540, 610, 673, 729, 782, 831, 877, 920, 960, 1001, 1038, 1074, 1108, 1142, 1174, 1205, 1235, 1265, 1293, 1321, 1349, 1375, 1401, 1426, 1450, 1473, 1497, 1520, 1543, 1566, 1587, 1608, 1630, 1650, 1670, 1690, 1709, 1728, 1747, 1766, 1784, 1803, 1821, 1839, 1857, 1874, 1891, 1908, 1924, 1941, 1957, 1973, 1989, 2006, 2022]
+above_protect20
+=======================================
+=======================================
+Filecoin NEW 
+textcurious to learn more about #sbslatam? check out this sneak peek and join us in bogotá for our next deep dive into #greener #blockchain solutions.
+score11 len: 1
+score_average4
+array[0, 2, 4, 6, 8, 9, 10, 11, 12, 13, 14, 15, 15, 16, 17, 17, 18, 18, 19, 20, 20, 20, 21, 21, 22, 22, 23, 23, 23, 24, 24, 25, 25, 25, 26, 26, 26, 27, 27, 27, 27, 28, 28, 29, 29, 29, 30, 30, 30, 31, 31, 31, 31, 32, 32, 32, 32, 33, 33, 33]
+above_protect10
+=======================================
+=======================================
+cz_binance NEW 
+textwent far into the mountains. this is not a performance for us. it’s just their normal match making rituals. different type of matching engine.  
+score3176 len: 35
+score_average3174
+array[0, 85, 253, 368, 461, 540, 610, 673, 729, 782, 831, 877, 920, 960, 1001, 1038, 1074, 1108, 1142, 1174, 1205, 1235, 1265, 1293, 1321, 1349, 1375, 1401, 1426, 1450, 1473, 1497, 1520, 1543, 1566, 1587, 1608, 1630, 1650, 1670, 1690, 1709, 1728, 1747, 1766, 1784, 1803, 1821, 1839, 1857, 1874, 1891, 1908, 1924, 1941, 1957, 1973, 1989, 2006, 2022]
+above_protect350
+=======================================
+=======================================
+binance NEW 
+textwhich cryptos are you watching this week?
+score77 len: 1
+score_average60
+array[0, 30, 87, 124, 152, 176, 197, 216, 232, 248, 262, 276, 288, 300, 311, 322, 332, 342, 352, 361, 369, 378, 386, 394, 402, 410, 417, 424, 431, 438, 445, 452, 458, 465, 471, 477, 483, 489, 495, 501, 506, 512, 517, 523, 528, 533, 538, 543, 548, 553, 558, 562, 567, 571, 576, 580, 585, 590, 594, 599]
+above_protect10
+=======================================
+=======================================
+cz_binance NEW 
+textthere are no banks here, but there is crypto now. 
+score1475 len: 8
+score_average1458
+array[0, 85, 253, 368, 461, 540, 610, 673, 729, 782, 831, 877, 920, 960, 1001, 1038, 1074, 1108, 1142, 1174, 1205, 1235, 1265, 1293, 1321, 1349, 1375, 1401, 1426, 1450, 1473, 1497, 1520, 1543, 1566, 1587, 1608, 1630, 1650, 1670, 1690, 1709, 1728, 1747, 1766, 1784, 1803, 1821, 1839, 1857, 1874, 1891, 1908, 1924, 1941, 1957, 1973, 1989, 2006, 2022]
+above_protect80
+=======================================
+=======================================
+NEARProtocol NEW 
+text- .... . / .... .- - -.-. .... .. -. --. / .. ... / -. . .- .-. .-.-.-
+score22 len: 2
+score_average22
+array[0, 5, 11, 16, 19, 22, 24, 26, 30, 31, 33, 35, 36, 38, 39, 40, 41, 42, 43, 44, 45, 47, 48, 49, 50, 51, 51, 52, 53, 54, 55, 56, 56, 57, 58, 58, 59, 60, 61, 61, 62, 63, 63, 64, 65, 65, 66, 66, 67, 67, 68, 68, 69, 70, 70, 71, 71, 71, 72, 72]
+above_protect20
+=======================================
+=======================================
+COTInetwork NEW 
+textwe are happy to announce a new djed partnership, this time with @empowa_io, a realfi project built on the cardano blockchain, to explore using djed as a means of transferring funds to african building partners.read more:  $coti 
+score147 len: 10
+score_average224
+array[0, 16, 36, 51, 62, 72, 82, 90, 98, 105, 112, 120, 125, 131, 136, 141, 146, 151, 156, 160, 165, 169, 173, 177, 181, 184, 188, 191, 195, 198, 201, 205, 208, 211, 215, 218, 222, 224, 227, 230, 232, 235, 238, 241, 244, 247, 249, 252, 254, 257, 260, 262, 264, 266, 268, 271, 273, 275, 277, 279]
+above_protect100
+=======================================
+=======================================
+NEARProtocol NEW 
+textour friends ovet ar @meta_pool are about to kick off their first twitter spaces on #near's road to #devcon 2022 in 10 minutes🥳heading to  next week? don't miss it!
+score11 len: 1
+score_average10
+array[0, 5, 11, 16, 19, 22, 24, 26, 30, 31, 33, 35, 36, 38, 39, 40, 41, 42, 43, 44, 45, 47, 48, 49, 50, 51, 51, 52, 53, 54, 55, 56, 56, 57, 58, 58, 59, 60, 61, 61, 62, 63, 63, 64, 65, 65, 66, 66, 67, 67, 68, 68, 69, 70, 70, 71, 71, 71, 72, 72]
+above_protect10
+=======================================
+=======================================
+binance NEW 
+text#binance completes the first $lunc burn, burning all trading fees collected from lunc spot and margin trading pairs.for more details about the first burn and all future burns, please check the announcement linked below for weekly updates moving forward.
+score264 len: 1
+score_average60
+array[0, 30, 87, 124, 152, 176, 197, 216, 232, 248, 262, 276, 288, 300, 311, 322, 332, 342, 352, 361, 369, 378, 386, 394, 402, 410, 417, 424, 431, 438, 445, 452, 458, 465, 471, 477, 483, 489, 495, 501, 506, 512, 517, 523, 528, 533, 538, 543, 548, 553, 558, 562, 567, 571, 576, 580, 585, 590, 594, 599]
+above_protect10
+=======================================
+=======================================
+dfinity NEW 
+textcanisters on the #internetcomputer can now directly make  outcalls to any data source without using oracles.read all about it: 
+score29 len: 2
+score_average26
+array[0, 5, 13, 18, 22, 26, 29, 31, 34, 36, 38, 40, 41, 43, 44, 46, 48, 49, 51, 52, 53, 54, 56, 56, 57, 58, 60, 61, 62, 63, 64, 65, 66, 67, 67, 68, 69, 70, 70, 71, 72, 73, 74, 74, 75, 75, 76, 77, 77, 78, 79, 79, 80, 81, 81, 81, 82, 83, 83, 84]
+above_protect20
+=======================================
+=======================================
+AxieInfinity NEW 
+textthis week, let's embrace the hard things 🪓 
+score41 len: 4
+score_average54
+array[0, 6, 15, 22, 27, 32, 36, 39, 43, 46, 49, 51, 54, 56, 58, 60, 62, 64, 66, 68, 70, 71, 73, 74, 76, 77, 78, 80, 81, 82, 84, 85, 86, 87, 88, 89, 91, 92, 93, 94, 95, 96, 97, 98, 98, 99, 100, 101, 102, 103, 104, 104, 105, 106, 107, 108, 109, 110, 110, 111]
+above_protect40
+=======================================
+=======================================
+binance NEW 
+textasked @cz_binance to sign my hoodie and came away with something better. enjoy   
+score73 len: 1
+score_average60
+array[0, 30, 87, 124, 152, 176, 197, 216, 232, 248, 262, 276, 288, 300, 311, 322, 332, 342, 352, 361, 369, 378, 386, 394, 402, 410, 417, 424, 431, 438, 445, 452, 458, 465, 471, 477, 483, 489, 495, 501, 506, 512, 517, 523, 528, 533, 538, 543, 548, 553, 558, 562, 567, 571, 576, 580, 585, 590, 594, 599]
+above_protect10
+=======================================
+=======================================
+Ripple NEW 
+textthe modernization of global payments is here. economies, consumers and businesses are either reaping the benefits of these improved financial services or falling behind the innovation curve.read our findings on 2022 trends in regional payments.  
+score164 len: 2
+score_average164
+array[0, 31, 82, 113, 138, 159, 177, 194, 211, 225, 238, 249, 260, 271, 282, 293, 302, 312, 321, 329, 337, 345, 353, 359, 366, 373, 381, 387, 393, 399, 405, 411, 417, 422, 427, 433, 437, 443, 448, 453, 458, 462, 467, 471, 476, 480, 485, 489, 493, 497, 501, 504, 509, 512, 516, 520, 524, 528, 532, 535]
+above_protect20
+=======================================
+=======================================
+AragonProject NEW 
+textfrom product design, development to web3 bizdev--@d_d_agency_web3 can bend to fit your project's needs. join us on wed, 3:30pm utc for a discussion with @gordo_design on the work they do, the future of the ecosystem &amp; more! set a reminder here:  
+score3 len: 3
+score_average2
+array[0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7]
+above_protect30
+=======================================
+=======================================
+binance NEW 
+text#binance opens two offices in brazil in a move to expand in the country &amp; to grow crypto adoption in latin america.the offices were announced by @cz_binance, who visited the country in march this year. since then, we have more than doubled the team dedicated to brazil.
+score65 len: 1
+score_average60
+array[0, 30, 87, 124, 152, 176, 197, 216, 232, 248, 262, 276, 288, 300, 311, 322, 332, 342, 352, 361, 369, 378, 386, 394, 402, 410, 417, 424, 431, 438, 445, 452, 458, 465, 471, 477, 483, 489, 495, 501, 506, 512, 517, 523, 528, 533, 538, 543, 548, 553, 558, 562, 567, 571, 576, 580, 585, 590, 594, 599]
+above_protect10
+=======================================
+=======================================
+cz_binance NEW 
+textfirst lunc burn, $1.8 million ish. 
+score388 len: 1
+score_average170
+array[0, 85, 253, 368, 461, 540, 610, 673, 729, 782, 831, 877, 920, 960, 1001, 1038, 1074, 1108, 1142, 1174, 1205, 1235, 1265, 1293, 1321, 1349, 1375, 1401, 1426, 1450, 1473, 1497, 1520, 1543, 1566, 1587, 1608, 1630, 1650, 1670, 1690, 1709, 1728, 1747, 1766, 1784, 1803, 1821, 1839, 1857, 1874, 1891, 1908, 1924, 1941, 1957, 1973, 1989, 2006, 2022]
+above_protect10
+=======================================
+=======================================
+cz_binance NEW 
+textlast 48 hrs or so:cz (me) in some mountain in africa, preaching crypto#binance opens 2 offices in brazil #binance signs mou with kazakhstan #binance burns $1.8m worth of lunc from binance's income.
+score1129 len: 5
+score_average1080
+array[0, 85, 253, 368, 461, 540, 610, 673, 729, 782, 831, 877, 920, 960, 1001, 1038, 1074, 1108, 1142, 1174, 1205, 1235, 1265, 1293, 1321, 1349, 1375, 1401, 1426, 1450, 1473, 1497, 1520, 1543, 1566, 1587, 1608, 1630, 1650, 1670, 1690, 1709, 1728, 1747, 1766, 1784, 1803, 1821, 1839, 1857, 1874, 1891, 1908, 1924, 1941, 1957, 1973, 1989, 2006, 2022]
+above_protect50
+=======================================
+=======================================
+Polkadot NEW 
+textpolkadot still has the largest active developer ecosystem outside ethereum, with almost 3x more weekly commits than the next largest ecosystem according to @messaricrypto. shout out to the devs that actively contribute to making polkadot's multichain vision for web3 a reality. 
+score30 len: 2
+score_average38
+array[0, 9, 19, 27, 33, 38, 43, 46, 49, 52, 56, 59, 61, 64, 66, 69, 71, 73, 75, 77, 79, 81, 83, 85, 87, 88, 90, 92, 93, 95, 96, 98, 99, 100, 102, 103, 104, 106, 107, 108, 110, 111, 112, 113, 114, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130]
+above_protect20
+=======================================
+=======================================
+Uniswap NEW 
+texthappy october 3rd 🤭 
+score12 len: 1
+score_average12
+array[0, 6, 16, 24, 31, 36, 42, 47, 51, 55, 59, 62, 67, 72, 75, 80, 83, 86, 89, 93, 96, 98, 100, 103, 105, 108, 111, 114, 117, 119, 122, 125, 128, 132, 134, 136, 138, 139, 141, 143, 144, 145, 147, 149, 151, 153, 154, 156, 158, 159, 160, 162, 164, 165, 167, 168, 170, 171, 172, 173]
+above_protect10
+=======================================
+=======================================
+NEARProtocol NEW 
+textlisten to the weekly update podcast on all things #near! @ready_layer_one cover a whole host of topics including 20m wallets, nightshade phase one and much more 
+score132 len: 45
+score_average130
+array[0, 5, 11, 16, 19, 22, 24, 26, 30, 31, 33, 35, 36, 38, 39, 40, 41, 42, 43, 44, 45, 47, 48, 49, 50, 51, 51, 52, 53, 54, 55, 56, 56, 57, 58, 58, 59, 60, 61, 61, 62, 63, 63, 64, 65, 65, 66, 66, 67, 67, 68, 68, 69, 70, 70, 71, 71, 71, 72, 72]
+above_protect450
+=======================================
+=======================================
+Chiliz NEW 
+texthappy world animal day say hi to our office doggos, named timon &amp; grace  $chz 
+score17 len: 1
+score_average12
+array[0, 6, 19, 27, 34, 39, 44, 48, 52, 55, 58, 61, 63, 66, 68, 70, 71, 73, 76, 78, 80, 81, 83, 84, 86, 87, 89, 91, 92, 94, 96, 97, 99, 100, 102, 103, 104, 106, 107, 108, 110, 111, 112, 114, 115, 116, 117, 118, 119, 120, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131]
+above_protect10
+=======================================
+=======================================
+binance NEW 
+textmy boss asked to me to post something about #nationaltacoday. so here's a #binance taco. 
+score84 len: 1
+score_average60
+array[0, 30, 87, 124, 152, 176, 197, 216, 232, 248, 262, 276, 288, 300, 311, 322, 332, 342, 352, 361, 369, 378, 386, 394, 402, 410, 417, 424, 431, 438, 445, 452, 458, 465, 471, 477, 483, 489, 495, 501, 506, 512, 517, 523, 528, 533, 538, 543, 548, 553, 558, 562, 567, 571, 576, 580, 585, 590, 594, 599]
+above_protect10
+=======================================
+=======================================
+ElrondNetwork NEW 
+textshared vision. strong ties. a lasting legacy.step by step, we’re revealing the strong foundation behind x day paris.we welcome @ledger as one of our strategic partners.  
+score58 len: 1
+score_average60
+array[0, 30, 70, 95, 115, 136, 154, 170, 185, 198, 211, 222, 233, 243, 253, 264, 274, 282, 290, 299, 305, 312, 319, 325, 332, 338, 344, 350, 355, 360, 366, 370, 375, 381, 385, 390, 395, 399, 403, 406, 411, 415, 419, 423, 427, 430, 434, 438, 441, 445, 448, 452, 455, 458, 461, 464, 466, 469, 472, 475]
+above_protect10
+=======================================
+=======================================
+vechainofficial NEW 
+textthe next era of #vechainthor begins with #vefam.on oct. 20th, we'll launch our upgraded vevote platform alongside the poa2.0 mainnet vote. if approved, poa2.0 will be implemented by early nov. read how poa2.0 makes $vet the perfect #blockchain:  #crypto 
+score31 len: 1
+score_average22
+array[0, 11, 29, 42, 53, 61, 70, 77, 84, 91, 96, 101, 106, 111, 116, 120, 124, 128, 131, 135, 138, 142, 145, 148, 152, 155, 158, 161, 164, 167, 169, 172, 174, 177, 179, 181, 184, 186, 188, 191, 193, 195, 197, 199, 201, 203, 205, 207, 210, 212, 214, 216, 218, 219, 221, 223, 225, 227, 229, 231]
+above_protect10
+=======================================
+=======================================
+NEARProtocol NEW 
+text#near community, the egg has hatched! the #near emoji is born!to celebrate this, we’re giving you and a friend the chance to win a trip to vietnam to visit our new regional hub included: flights, a 7-night stay in a 4* hotel, and $2000 in nearenter below  
+score25 len: 1
+score_average10
+array[0, 5, 11, 16, 19, 22, 24, 26, 30, 31, 33, 35, 36, 38, 39, 40, 41, 42, 43, 44, 45, 47, 48, 49, 50, 51, 51, 52, 53, 54, 55, 56, 56, 57, 58, 58, 59, 60, 61, 61, 62, 63, 63, 64, 65, 65, 66, 66, 67, 67, 68, 68, 69, 70, 70, 71, 71, 71, 72, 72]
+above_protect10
+=======================================
+=======================================
+AlgoFoundation NEW 
+textwe're delighted to share that ten algorand centres of excellence (ace) programme universities have been recognized in coindesk’s best universities for blockchain 2022. read more:  #shapethefuture 
+score4 len: 1
+score_average2
+array[0, 1, 4, 6, 8, 10, 11, 12, 13, 14, 15, 16, 16, 17, 18, 18, 19, 19, 20, 20, 21, 21, 22, 22, 23, 23, 24, 24, 24, 25, 25, 25, 26, 26, 27, 27, 27, 28, 28, 28, 28, 29, 29, 29, 30, 30, 30, 31, 31, 31, 31, 32, 32, 32, 33, 33, 33, 33, 34, 34]
+above_protect10
+=======================================
+=======================================
+terra_money NEW 
+text1/  per the oct. 4th end date outlined in the original agora post, the terra phoenix airdrop has now concluded to reference the full details of the phoenix airdrop, please visit agora 
+score40 len: 1
+score_average42
+array[0, 21, 56, 75, 92, 105, 115, 127, 136, 144, 153, 160, 167, 172, 178, 184, 190, 195, 201, 204, 209, 213, 218, 222, 225, 229, 232, 234, 237, 241, 244, 247, 250, 253, 256, 258, 261, 264, 266, 270, 273, 276, 279, 282, 284, 285, 288, 290, 292, 294, 296, 299, 301, 303, 305, 307, 310, 313, 315, 317]
+above_protect10
+=======================================
+=======================================
+1inch NEW 
+text1/  meet the most unstoppable announcement of this week!#1inch is excited to announce a partnership with  @unstoppableweb, an #nft domain name provider and digital identity platform. read more:  #crypto #web3
+score75 len: 42
+score_average74
+array[0, 3, 7, 10, 12, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 26, 27, 27, 28, 28, 29, 30, 30, 31, 31, 31, 32, 32, 33, 33, 33, 34, 34, 35, 35, 35, 36, 36, 36, 37, 37, 37, 38, 38, 38, 38, 39, 39, 39, 39, 39, 40, 40, 40, 40, 41, 41, 41]
+above_protect420
+=======================================
+=======================================
+binance NEW 
+textname this project: use case recognition 
+score100 len: 1
+score_average60
+array[0, 30, 87, 124, 152, 176, 197, 216, 232, 248, 262, 276, 288, 300, 311, 322, 332, 342, 352, 361, 369, 378, 386, 394, 402, 410, 417, 424, 431, 438, 445, 452, 458, 465, 471, 477, 483, 489, 495, 501, 506, 512, 517, 523, 528, 533, 538, 543, 548, 553, 558, 562, 567, 571, 576, 580, 585, 590, 594, 599]
+above_protect10
+=======================================
+=======================================
+ankr NEW 
+text speed is one of the most important metrics when it comes to #web3 infrastructurewe are fastest in almost every region across the globe 🤩 
+score9 len: 1
+score_average4
+array[0, 2, 5, 7, 8, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 21, 22, 23, 24, 25, 25, 26, 27, 28, 29, 30, 31, 31, 32, 32, 33, 34, 34, 35, 36, 36, 37, 37, 38, 38, 39, 40, 40, 41, 41, 42, 42, 43, 44, 44, 45, 45, 46, 46, 47, 48, 48, 49, 49, 50]
+above_protect10
+=======================================
+=======================================
+BNBCHAIN NEW 
+texta huge congratulations to the winners of #web3 stars accelerator vietnam 
+score20 len: 1
+score_average12
+array[0, 6, 14, 20, 24, 28, 31, 34, 37, 39, 41, 44, 46, 47, 49, 51, 53, 55, 56, 57, 59, 60, 62, 63, 64, 65, 67, 68, 69, 70, 71, 72, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 94, 96, 96, 97, 98, 99, 100, 101, 102]
+above_protect10
+=======================================
+=======================================
+Filecoin NEW 
+text calling all teams interested in building a new block explorer with a great smart contract introspection experience!  a new filecoin block explorer to support fvm / fevm rfp has been published.  
+score9 len: 2
+score_average8
+array[0, 2, 4, 6, 8, 9, 10, 11, 12, 13, 14, 15, 15, 16, 17, 17, 18, 18, 19, 20, 20, 20, 21, 21, 22, 22, 23, 23, 23, 24, 24, 25, 25, 25, 26, 26, 26, 27, 27, 27, 27, 28, 28, 29, 29, 29, 30, 30, 30, 31, 31, 31, 31, 32, 32, 32, 32, 33, 33, 33]
+above_protect20
+=======================================
+=======================================
+RippleXDev NEW 
+textinterested in applying for the #xrpl grants program but don't know where to start? our last #ama answers all your burning questions on the application process. dive into our recap and don't forget to submit for wave 4 by oct. 14! 
+score11 len: 1
+score_average10
+array[0, 5, 12, 18, 22, 27, 31, 34, 38, 41, 44, 47, 50, 53, 55, 57, 59, 61, 63, 65, 67, 68, 70, 71, 73, 74, 75, 76, 77, 79, 81, 82, 83, 84, 86, 87, 89, 90, 91, 93, 94, 95, 97, 98, 99, 100, 101, 102, 103, 105, 107, 108, 109, 111, 112, 113, 114, 115, 116, 117]
+above_protect10
+=======================================
+=======================================
+terra_money NEW 
+text1/  the team at @riskharbor has been hard at work bringing its leading web3 risk management marketplace back to terra. today it’s confirmed - ozone v2 is here check out their blog post for complete details   reading for an overview 🧵
+score42 len: 1
+score_average42
+array[0, 21, 56, 75, 92, 105, 115, 127, 136, 144, 153, 160, 167, 172, 178, 184, 190, 195, 201, 204, 209, 213, 218, 222, 225, 229, 232, 234, 237, 241, 244, 247, 250, 253, 256, 258, 261, 264, 266, 270, 273, 276, 279, 282, 284, 285, 288, 290, 292, 294, 296, 299, 301, 303, 305, 307, 310, 313, 315, 317]
+above_protect10
+=======================================
+=======================================
+Uniswap NEW 
+textit’s been one year of uniswap v3 on @arbitrum and we just hit an ath of 78.7% market share 🥳 
+score23 len: 2
+score_average32
+array[0, 6, 16, 24, 31, 36, 42, 47, 51, 55, 59, 62, 67, 72, 75, 80, 83, 86, 89, 93, 96, 98, 100, 103, 105, 108, 111, 114, 117, 119, 122, 125, 128, 132, 134, 136, 138, 139, 141, 143, 144, 145, 147, 149, 151, 153, 154, 156, 158, 159, 160, 162, 164, 165, 167, 168, 170, 171, 172, 173]
+above_protect20
+=======================================
+=======================================
+Polkadot NEW 
+textinterested in building in the polkadot ecosystem? take this chance to join the first #polkadothackathon latam to advance your polkadot dev skills, and get a chance to win from a prize pool of over $140,000.to check the guidelines and to apply for this 6-week virtual hackathon:
+score15 len: 1
+score_average18
+array[0, 9, 19, 27, 33, 38, 43, 46, 49, 52, 56, 59, 61, 64, 66, 69, 71, 73, 75, 77, 79, 81, 83, 85, 87, 88, 90, 92, 93, 95, 96, 98, 99, 100, 102, 103, 104, 106, 107, 108, 110, 111, 112, 113, 114, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130]
+above_protect10
+=======================================
+=======================================
+Polkadot NEW 
+text1/ congratulations to @kiltprotocol on making web3 history! kilt has successfully moved from @kusamanetwork to the polkadot relay chain, marking the first time a live blockchain has migrated from one network to another.read on to learn why they did it.
+score37 len: 3
+score_average54
+array[0, 9, 19, 27, 33, 38, 43, 46, 49, 52, 56, 59, 61, 64, 66, 69, 71, 73, 75, 77, 79, 81, 83, 85, 87, 88, 90, 92, 93, 95, 96, 98, 99, 100, 102, 103, 104, 106, 107, 108, 110, 111, 112, 113, 114, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130]
+above_protect30
+=======================================
+=======================================
+litecoin NEW 
+textlitecoin is the longest running crypto with 100% uptime
+score61 len: 8
+score_average60
+array[0, 4, 11, 15, 19, 22, 25, 27, 30, 32, 34, 36, 38, 40, 41, 43, 44, 46, 47, 48, 50, 51, 52, 53, 55, 56, 57, 58, 58, 59, 60, 61, 62, 63, 64, 65, 65, 66, 67, 68, 69, 69, 70, 71, 72, 73, 73, 74, 75, 75, 76, 77, 77, 78, 78, 79, 79, 80, 81, 81]
+above_protect80
+=======================================
+=======================================
+BNBCHAIN NEW 
+textgm #bnb fam, are you ready to get at today?#web3 waits for no one...
+score29 len: 2
+score_average28
+array[0, 6, 14, 20, 24, 28, 31, 34, 37, 39, 41, 44, 46, 47, 49, 51, 53, 55, 56, 57, 59, 60, 62, 63, 64, 65, 67, 68, 69, 70, 71, 72, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 94, 96, 96, 97, 98, 99, 100, 101, 102]
+above_protect20
+=======================================
+=======================================
+iota NEW 
+text have you read the paper on how #iota 2.0 makes use of a nakamoto-style consensus on a directed acyclic graph (dag)? it just got published on @ieeexplore... read it and see how it paves the way to #coordicide.  
+score29 len: 2
+score_average32
+array[0, 6, 16, 23, 28, 34, 38, 43, 47, 51, 54, 58, 61, 64, 66, 69, 71, 74, 76, 79, 81, 84, 86, 88, 90, 92, 93, 95, 97, 99, 101, 103, 105, 106, 108, 110, 112, 114, 115, 117, 118, 120, 122, 123, 124, 126, 128, 129, 131, 132, 133, 135, 136, 137, 138, 140, 141, 142, 144, 145]
+above_protect20
+=======================================
+=======================================
+Filecoin NEW 
+textanother great filecoin event from our orbit community! mwanza city, tanzania
+score65 len: 56
+score_average64
+array[0, 2, 4, 6, 8, 9, 10, 11, 12, 13, 14, 15, 15, 16, 17, 17, 18, 18, 19, 20, 20, 20, 21, 21, 22, 22, 23, 23, 23, 24, 24, 25, 25, 25, 26, 26, 26, 27, 27, 27, 27, 28, 28, 29, 29, 29, 30, 30, 30, 31, 31, 31, 31, 32, 32, 32, 32, 33, 33, 33]
+above_protect560
+=======================================
+=======================================
+NEARProtocol NEW 
+textthe @nearfoundation has partnered with @googlecloud to provide tech support for #near grantees as they build their #web3 dapps the developer experience on near protocol just keeps getting better 
+score23 len: 2
+score_average22
+array[0, 5, 11, 16, 19, 22, 24, 26, 30, 31, 33, 35, 36, 38, 39, 40, 41, 42, 43, 44, 45, 47, 48, 49, 50, 51, 51, 52, 53, 54, 55, 56, 56, 57, 58, 58, 59, 60, 61, 61, 62, 63, 63, 64, 65, 65, 66, 66, 67, 67, 68, 68, 69, 70, 70, 71, 71, 71, 72, 72]
+above_protect20
+=======================================
+=======================================
+TheSandboxGame NEW 
+textthe @worldofwomennft museum experience will become gated to #wow avatar holders from october 8-15  guaranteed $sand rewards await!get ready!!   
+score15 len: 1
+score_average16
+array[0, 8, 22, 32, 39, 45, 50, 55, 60, 64, 68, 71, 74, 77, 80, 83, 86, 88, 91, 93, 95, 98, 100, 102, 104, 106, 108, 110, 112, 114, 115, 117, 119, 120, 122, 124, 125, 127, 128, 130, 132, 134, 135, 137, 138, 140, 141, 142, 144, 145, 146, 148, 154, 156, 157, 158, 159, 160, 162, 163]
+above_protect10
+=======================================
+=======================================
+zilliqa NEW 
+textwelcome to #mgenesis ! an introduction - to - the launch of first theme gamified microverse from @themetapolis
+score12 len: 1
+score_average12
+array[0, 6, 16, 23, 30, 35, 39, 43, 47, 51, 54, 58, 61, 64, 66, 69, 71, 73, 76, 78, 80, 83, 85, 87, 89, 90, 92, 94, 96, 98, 99, 101, 102, 104, 106, 107, 109, 111, 112, 114, 115, 116, 118, 119, 120, 122, 123, 125, 126, 127, 128, 129, 131, 132, 133, 134, 135, 137, 138, 139]
+above_protect10
+=======================================
+=======================================
+ElrondNetwork NEW 
+textx day will be remembered as more than just a conference, it will be a stepping stone for what comes next. creating such an impact wouldn't be possible without joint efforts.we are glad to welcome @morningstar_vc on board as a platinum partner!  
+score126 len: 3
+score_average190
+array[0, 30, 70, 95, 115, 136, 154, 170, 185, 198, 211, 222, 233, 243, 253, 264, 274, 282, 290, 299, 305, 312, 319, 325, 332, 338, 344, 350, 355, 360, 366, 370, 375, 381, 385, 390, 395, 399, 403, 406, 411, 415, 419, 423, 427, 430, 434, 438, 441, 445, 448, 452, 455, 458, 461, 464, 466, 469, 472, 475]
+above_protect30
+=======================================
+=======================================
+TheSandboxGame NEW 
+textwelcome to the metamess!  here the world tears apart, creating breaches of lights through which hostile creatures emerge…they must be stopped! play the big brawl in #sandboxalphas3 now!  
+score11 len: 1
+score_average16
+array[0, 8, 22, 32, 39, 45, 50, 55, 60, 64, 68, 71, 74, 77, 80, 83, 86, 88, 91, 93, 95, 98, 100, 102, 104, 106, 108, 110, 112, 114, 115, 117, 119, 120, 122, 124, 125, 127, 128, 130, 132, 134, 135, 137, 138, 140, 141, 142, 144, 145, 146, 148, 154, 156, 157, 158, 159, 160, 162, 163]
+above_protect10
+=======================================
+=======================================
+Cardano NEW 
+textjoin the #cardanosummit2022 event in delhi, india 
+score15 len: 1
+score_average16
+array[0, 8, 18, 25, 31, 36, 40, 44, 47, 50, 53, 56, 59, 61, 63, 65, 67, 69, 71, 72, 74, 76, 77, 79, 80, 81, 82, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 106, 108, 108, 109, 110, 110, 111, 112, 113]
+above_protect10
+=======================================
+=======================================
+Polkadot NEW 
+text1/ the polkadot staking dashboard has seen some exciting updates since its launch. in the past month, there has been a big focus on nomination pools. learn more about nomination pools from @paritytech engineers @rossbulat and @kianenigma 🧵 
+score22 len: 1
+score_average18
+array[0, 9, 19, 27, 33, 38, 43, 46, 49, 52, 56, 59, 61, 64, 66, 69, 71, 73, 75, 77, 79, 81, 83, 85, 87, 88, 90, 92, 93, 95, 96, 98, 99, 100, 102, 103, 104, 106, 107, 108, 110, 111, 112, 113, 114, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130]
+above_protect10
+=======================================
+=======================================
+binance NEW 
+textcongratulations to the 5 winners of our #binanceweb3 design challenge! check out their amazing metaverse designs here 
+score77 len: 1
+score_average60
+array[0, 30, 87, 124, 152, 176, 197, 216, 232, 248, 262, 276, 288, 300, 311, 322, 332, 342, 352, 361, 369, 378, 386, 394, 402, 410, 417, 424, 431, 438, 445, 452, 458, 465, 471, 477, 483, 489, 495, 501, 506, 512, 517, 523, 528, 533, 538, 543, 548, 553, 558, 562, 567, 571, 576, 580, 585, 590, 594, 599]
+above_protect10
+=======================================
+=======================================
+Theta_Network NEW 
+textmetchain testnet is now live, with the first subchain deployed for @imaginereplay! this is a major step toward the december production release of metachain. read more in the release blog or the metachain section of theta github:
+score14 len: 1
+score_average14
+array[0, 7, 24, 36, 46, 54, 60, 67, 74, 79, 84, 89, 93, 96, 100, 103, 106, 109, 114, 117, 120, 122, 125, 127, 129, 131, 134, 136, 138, 141, 143, 146, 148, 150, 151, 153, 156, 158, 159, 161, 163, 165, 166, 168, 170, 173, 175, 177, 178, 180, 181, 182, 184, 185, 186, 188, 190, 192, 193, 194]
+above_protect10
+=======================================
+=======================================
+Theta_Network NEW 
+textmetachain testnet is now live, with the first subchain deployed for @imaginereplay! this is a major step toward the december production release of metachain. read more in the release blog or the metachain section of theta github: 
+score24 len: 1
+score_average14
+array[0, 7, 24, 36, 46, 54, 60, 67, 74, 79, 84, 89, 93, 96, 100, 103, 106, 109, 114, 117, 120, 122, 125, 127, 129, 131, 134, 136, 138, 141, 143, 146, 148, 150, 151, 153, 156, 158, 159, 161, 163, 165, 166, 168, 170, 173, 175, 177, 178, 180, 181, 182, 184, 185, 186, 188, 190, 192, 193, 194]
+above_protect10
+=======================================
+=======================================
+AragonProject NEW 
+textwe’re excited for our co-founder @izqui9’s new venture @firm. jorge pioneered groundbreaking dao technology and we look forward to his future contributions to digital organizations! 
+score3 len: 5
+score_average2
+array[0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7]
+above_protect50
+=======================================
+=======================================
+BoredApeYC NEW 
+textapes, we wouldn’t be where we are today without our incredible community. we’re excited to announce the first bayc community council made up of 7 long standing proactive community members to work alongside us moving forward. 🧵below
+score104 len: 1
+score_average132
+array[0, 66, 141, 192, 231, 263, 291, 315, 337, 356, 374, 389, 406, 421, 435, 448, 461, 472, 484, 496, 507, 516, 525, 535, 545, 554, 563, 572, 580, 588, 597, 605, 613, 620, 627, 635, 642, 648, 656, 663, 669, 676, 682, 688, 693, 698, 704, 709, 715, 721, 726, 731, 736, 741, 748, 753, 758, 763, 768, 773]
+above_protect10
+=======================================
+=======================================
+Ripple NEW 
+textsuccess happens through change, not chance. that’s why we’re empowering innovative finance leaders to change the way they do finance and drive business advantage with crypto. who’s joining us? #cryptomeansbusiness 
+score123 len: 2
+score_average164
+array[0, 31, 82, 113, 138, 159, 177, 194, 211, 225, 238, 249, 260, 271, 282, 293, 302, 312, 321, 329, 337, 345, 353, 359, 366, 373, 381, 387, 393, 399, 405, 411, 417, 422, 427, 433, 437, 443, 448, 453, 458, 462, 467, 471, 476, 480, 485, 489, 493, 497, 501, 504, 509, 512, 516, 520, 524, 528, 532, 535]
+above_protect20
+=======================================
+=======================================
+BNBCHAIN NEW 
+textjoin us in welcoming the most recent additions to the #bnbchain defi league @wombatexchange, @multichainorg, @biswap_dex, @ellipsisfi and @beefyfinance.the league brings together visionary teams to tackle the most significant challenges in #defi
+score18 len: 1
+score_average12
+array[0, 6, 14, 20, 24, 28, 31, 34, 37, 39, 41, 44, 46, 47, 49, 51, 53, 55, 56, 57, 59, 60, 62, 63, 64, 65, 67, 68, 69, 70, 71, 72, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 94, 96, 96, 97, 98, 99, 100, 101, 102]
+above_protect10
+=======================================
+=======================================
+cz_binance NEW 
+textit's not how much crypto you have; it's how many people you helped.
+score323 len: 1
+score_average170
+array[0, 85, 253, 368, 461, 540, 610, 673, 729, 782, 831, 877, 920, 960, 1001, 1038, 1074, 1108, 1142, 1174, 1205, 1235, 1265, 1293, 1321, 1349, 1375, 1401, 1426, 1450, 1473, 1497, 1520, 1543, 1566, 1587, 1608, 1630, 1650, 1670, 1690, 1709, 1728, 1747, 1766, 1784, 1803, 1821, 1839, 1857, 1874, 1891, 1908, 1924, 1941, 1957, 1973, 1989, 2006, 2022]
+above_protect10
+=======================================
+=======================================
+AxieInfinity NEW 
+text1/ our october development update is here!this is a comprehensive and beefy update as our progress has been extensive.we continue to build relentlessly with our stalwart community in the pursuit of a better internet. |  
+score11 len: 1
+score_average12
+array[0, 6, 15, 22, 27, 32, 36, 39, 43, 46, 49, 51, 54, 56, 58, 60, 62, 64, 66, 68, 70, 71, 73, 74, 76, 77, 78, 80, 81, 82, 84, 85, 86, 87, 88, 89, 91, 92, 93, 94, 95, 96, 97, 98, 98, 99, 100, 101, 102, 103, 104, 104, 105, 106, 107, 108, 109, 110, 110, 111]
+above_protect10
+=======================================
+=======================================
+decentraland NEW 
+textmetaverse music festival in 2021:4 days80+ artists11,204 nfts received51,947 poaps claimednow it's time to get ready for #mvmf22🤘, and it's going to be even bigger and better!more details coming soon… 
+score41 len: 4
+score_average52
+array[0, 5, 15, 21, 26, 30, 34, 37, 41, 44, 46, 48, 50, 52, 54, 56, 57, 59, 61, 63, 64, 65, 66, 68, 69, 71, 72, 73, 74, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 87, 88, 90, 90, 91, 92, 93, 94, 95, 95, 96, 97, 98, 98, 100, 100, 102, 103, 103]
+above_protect40
+=======================================
+=======================================
+AlgoFoundation NEW 
+textour ceo @staciw_dc sat down with @fintechtvglobal’s @patriciawunyc to discuss algorand’s role in developing a more equitable and transparent financial system. watch for her thoughts on the powerful future of crypto: 
+score24 len: 6
+score_average22
+array[0, 1, 4, 6, 8, 10, 11, 12, 13, 14, 15, 16, 16, 17, 18, 18, 19, 19, 20, 20, 21, 21, 22, 22, 23, 23, 24, 24, 24, 25, 25, 25, 26, 26, 27, 27, 27, 28, 28, 28, 28, 29, 29, 29, 30, 30, 30, 31, 31, 31, 31, 32, 32, 32, 33, 33, 33, 33, 34, 34]
+above_protect60
+=======================================
+=======================================
+AlgoFoundation NEW 
+text#algofam! join us for the first race of the 2022-23 @droneraceleague drl algorand world championship on 10/11 at paypal park in san jose, ca. the first 100 people to sign up with their email will receive a free ticket.  
+score4 len: 1
+score_average2
+array[0, 1, 4, 6, 8, 10, 11, 12, 13, 14, 15, 16, 16, 17, 18, 18, 19, 19, 20, 20, 21, 21, 22, 22, 23, 23, 24, 24, 24, 25, 25, 25, 26, 26, 27, 27, 27, 28, 28, 28, 28, 29, 29, 29, 30, 30, 30, 31, 31, 31, 31, 32, 32, 32, 33, 33, 33, 33, 34, 34]
+above_protect10
+=======================================
+=======================================
+ankr NEW 
+textankr is built by devs, for devs 🤝access data across 18+ blockchain networks by using our public rpc endpoints or premium services learn more about rpcs 
+score7 len: 1
+score_average4
+array[0, 2, 5, 7, 8, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 21, 22, 23, 24, 25, 25, 26, 27, 28, 29, 30, 31, 31, 32, 32, 33, 34, 34, 35, 36, 36, 37, 37, 38, 38, 39, 40, 40, 41, 41, 42, 42, 43, 44, 44, 45, 45, 46, 46, 47, 48, 48, 49, 49, 50]
+above_protect10
+=======================================
+=======================================
+Chiliz NEW 
+text we are happy to announce that next week we will list the @gaziantepfk $gfk fan token on the chiliz exchange. thursday, october 13th⏰ 14:00 cestmore info    $chz 
+score11 len: 1
+score_average12
+array[0, 6, 19, 27, 34, 39, 44, 48, 52, 55, 58, 61, 63, 66, 68, 70, 71, 73, 76, 78, 80, 81, 83, 84, 86, 87, 89, 91, 92, 94, 96, 97, 99, 100, 102, 103, 104, 106, 107, 108, 110, 111, 112, 114, 115, 116, 117, 118, 119, 120, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131]
+above_protect10
+=======================================
+=======================================
+ankr NEW 
+textankr receives 7.2b daily api requests 🤯learn more about them below  
+score21 len: 5
+score_average20
+array[0, 2, 5, 7, 8, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 21, 22, 23, 24, 25, 25, 26, 27, 28, 29, 30, 31, 31, 32, 32, 33, 34, 34, 35, 36, 36, 37, 37, 38, 38, 39, 40, 40, 41, 41, 42, 42, 43, 44, 44, 45, 45, 46, 46, 47, 48, 48, 49, 49, 50]
+above_protect50
+=======================================
+=======================================
+1inch NEW 
+text1/  join the #1inch x unstoppable domains massive #giveaway with a  $1,500 prize fund! $500 in ud credits will be given away to 3 randomly chosen winners.to enter: follow @1inch &amp; @unstoppableweb like,  rt,  reply end: oct.14#defi #crypto #giveawayalert 
+score22 len: 3
+score_average20
+array[0, 3, 7, 10, 12, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 26, 27, 27, 28, 28, 29, 30, 30, 31, 31, 31, 32, 32, 33, 33, 33, 34, 34, 35, 35, 35, 36, 36, 36, 37, 37, 37, 38, 38, 38, 38, 39, 39, 39, 39, 39, 40, 40, 40, 40, 41, 41, 41]
+above_protect30
+=======================================
+=======================================
+TheSandboxGame NEW 
+text agüerooooooo delighted to welcome none other than @aguerosergiokun to the sandbox! 🤝 the  will hold football-themed games, dancing and many more surprises!stay tuned for more... 
+score30 len: 2
+score_average44
+array[0, 8, 22, 32, 39, 45, 50, 55, 60, 64, 68, 71, 74, 77, 80, 83, 86, 88, 91, 93, 95, 98, 100, 102, 104, 106, 108, 110, 112, 114, 115, 117, 119, 120, 122, 124, 125, 127, 128, 130, 132, 134, 135, 137, 138, 140, 141, 142, 144, 145, 146, 148, 154, 156, 157, 158, 159, 160, 162, 163]
+above_protect20
+=======================================
+=======================================
+Cardano NEW 
+textjoin @f_gregaard, ceo of the #cardanofoundation along with @padierfind from @nmkr_io  
+score12 len: 1
+score_average16
+array[0, 8, 18, 25, 31, 36, 40, 44, 47, 50, 53, 56, 59, 61, 63, 65, 67, 69, 71, 72, 74, 76, 77, 79, 80, 81, 82, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 106, 108, 108, 109, 110, 110, 111, 112, 113]
+above_protect10
+=======================================
+=======================================
+GoGalaGames NEW 
+texticymi: @bitbenderbrink spoke on @paulbarrontv about the gala games ecosystem and some updates!check it out 
+score20 len: 1
+score_average20
+array[0, 10, 23, 33, 41, 47, 52, 57, 61, 65, 69, 73, 76, 79, 81, 84, 86, 88, 91, 93, 95, 97, 99, 100, 102, 105, 107, 108, 110, 111, 113, 115, 116, 118, 119, 120, 122, 123, 125, 127, 128, 129, 131, 132, 133, 135, 136, 137, 139, 140, 141, 143, 144, 145, 147, 148, 149, 150, 152, 153]
+above_protect10
+=======================================
+=======================================
+Filecoin NEW 
+textjoin us for the filecoin green sbs latam ama2 twitter spaces! we will be live in just a few moments.  
+score5 len: 1
+score_average4
+array[0, 2, 4, 6, 8, 9, 10, 11, 12, 13, 14, 15, 15, 16, 17, 17, 18, 18, 19, 20, 20, 20, 21, 21, 22, 22, 23, 23, 23, 24, 24, 25, 25, 25, 26, 26, 26, 27, 27, 27, 27, 28, 28, 29, 29, 29, 30, 30, 30, 31, 31, 31, 31, 32, 32, 32, 32, 33, 33, 33]
+above_protect10
+=======================================
+=======================================
+BNBCHAIN NEW 
+textmake your predictions and compete for the huge prize on offer from @_p12_ today 
+score14 len: 1
+score_average12
+array[0, 6, 14, 20, 24, 28, 31, 34, 37, 39, 41, 44, 46, 47, 49, 51, 53, 55, 56, 57, 59, 60, 62, 63, 64, 65, 67, 68, 69, 70, 71, 72, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 94, 96, 96, 97, 98, 99, 100, 101, 102]
+above_protect10
+=======================================
+=======================================
+AlgoFoundation NEW 
+texti think you have more than a few moments... maybe 2014 #greencrypto #shapethefuture 
+score12 len: 1
+score_average2
+array[0, 1, 4, 6, 8, 10, 11, 12, 13, 14, 15, 16, 16, 17, 18, 18, 19, 19, 20, 20, 21, 21, 22, 22, 23, 23, 24, 24, 24, 25, 25, 25, 26, 26, 27, 27, 27, 28, 28, 28, 28, 29, 29, 29, 30, 30, 30, 31, 31, 31, 31, 32, 32, 32, 33, 33, 33, 33, 34, 34]
+above_protect10
+=======================================
+=======================================
+BNBCHAIN NEW 
+textdue to irregular activity we're temporarily pausing bsc. we apologize for the inconvenience and will provide further updates here. thank you for your patience and understanding.
+score13 len: 1
+score_average12
+array[0, 6, 14, 20, 24, 28, 31, 34, 37, 39, 41, 44, 46, 47, 49, 51, 53, 55, 56, 57, 59, 60, 62, 63, 64, 65, 67, 68, 69, 70, 71, 72, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 94, 96, 96, 97, 98, 99, 100, 101, 102]
+above_protect10
+=======================================
+=======================================
+binance NEW 
+text.@bnbchain is currently under maintenance. we will suspend all deposits and withdrawals via bnb chain temporarily until there are further updates. we apologise for the inconvenience. thank you for your patience!
+score332 len: 4
+score_average304
+array[0, 30, 87, 124, 152, 176, 197, 216, 232, 248, 262, 276, 288, 300, 311, 322, 332, 342, 352, 361, 369, 378, 386, 394, 402, 410, 417, 424, 431, 438, 445, 452, 458, 465, 471, 477, 483, 489, 495, 501, 506, 512, 517, 523, 528, 533, 538, 543, 548, 553, 558, 562, 567, 571, 576, 580, 585, 590, 594, 599]
+above_protect40
+=======================================
+=======================================
+BNBCHAIN NEW 
+textwe teamed up with the team at @binanceacademy at @penn to engage with the brilliant minds of tomorrow on #web3.another wonderful workshop connecting with student builders who are enthusiastic about the possibilities at hand. #bnbchainus  
+score15 len: 1
+score_average12
+array[0, 6, 14, 20, 24, 28, 31, 34, 37, 39, 41, 44, 46, 47, 49, 51, 53, 55, 56, 57, 59, 60, 62, 63, 64, 65, 67, 68, 69, 70, 71, 72, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 94, 96, 96, 97, 98, 99, 100, 101, 102]
+above_protect10
+=======================================
+=======================================
+BNBCHAIN NEW 
+textinitial estimates for funds taken off bsc are between $70m - $80m. however, thanks to the community and our internal and external security partners, an estimated $7m has already been frozen1/2
+score39 len: 1
+score_average12
+array[0, 6, 14, 20, 24, 28, 31, 34, 37, 39, 41, 44, 46, 47, 49, 51, 53, 55, 56, 57, 59, 60, 62, 63, 64, 65, 67, 68, 69, 70, 71, 72, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 94, 96, 96, 97, 98, 99, 100, 101, 102]
+above_protect10
+=======================================
+=======================================
+cz_binance NEW 
+textan exploit on a cross-chain bridge, bsc token hub, resulted in extra bnb. we have asked all validators to temporarily suspend bsc. the issue is contained now. your funds are safe. we apologize for the inconvenience and will provide further updates accordingly.
+score1246 len: 6
+score_average1220
+array[0, 85, 253, 368, 461, 540, 610, 673, 729, 782, 831, 877, 920, 960, 1001, 1038, 1074, 1108, 1142, 1174, 1205, 1235, 1265, 1293, 1321, 1349, 1375, 1401, 1426, 1450, 1473, 1497, 1520, 1543, 1566, 1587, 1608, 1630, 1650, 1670, 1690, 1709, 1728, 1747, 1766, 1784, 1803, 1821, 1839, 1857, 1874, 1891, 1908, 1924, 1941, 1957, 1973, 1989, 2006, 2022]
+above_protect60
+=======================================
+=======================================
+BNBCHAIN NEW 
+textfurther update here 
+score57 len: 4
+score_average48
+array[0, 6, 14, 20, 24, 28, 31, 34, 37, 39, 41, 44, 46, 47, 49, 51, 53, 55, 56, 57, 59, 60, 62, 63, 64, 65, 67, 68, 69, 70, 71, 72, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 94, 96, 96, 97, 98, 99, 100, 101, 102]
+above_protect40
+=======================================
+=======================================
+BNBCHAIN NEW 
+textwe request bsc validators to get in touch with us within the next few hours so that we can plan a node upgrade.we'd like to thank the community again for their continuous support.
+score13 len: 1
+score_average12
+array[0, 6, 14, 20, 24, 28, 31, 34, 37, 39, 41, 44, 46, 47, 49, 51, 53, 55, 56, 57, 59, 60, 62, 63, 64, 65, 67, 68, 69, 70, 71, 72, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 94, 96, 96, 97, 98, 99, 100, 101, 102]
+above_protect10
+=======================================
+=======================================
+BNBCHAIN NEW 
+textupdate bsc validators are coordinating to bring back bnb smart chain (bsc) in an hour with the latest release  includes:1.stopping hacker accounts from acting1/2
+score23 len: 1
+score_average12
+array[0, 6, 14, 20, 24, 28, 31, 34, 37, 39, 41, 44, 46, 47, 49, 51, 53, 55, 56, 57, 59, 60, 62, 63, 64, 65, 67, 68, 69, 70, 71, 72, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 94, 96, 96, 97, 98, 99, 100, 101, 102]
+above_protect10
+=======================================
+=======================================
+BNBCHAIN NEW 
+textbnb smart chain (bsc) is running ok from 20+ mins ago.the validators are confirming their status and the community infrastructure are upgrading as well.
+score94 len: 1
+score_average12
+array[0, 6, 14, 20, 24, 28, 31, 34, 37, 39, 41, 44, 46, 47, 49, 51, 53, 55, 56, 57, 59, 60, 62, 63, 64, 65, 67, 68, 69, 70, 71, 72, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 94, 96, 96, 97, 98, 99, 100, 101, 102]
+above_protect10
+=======================================

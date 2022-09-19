@@ -306,7 +306,11 @@ def update_trend_av_del_above_500_trend_a():
 
     db_trend_a = db["trend_a"]
     cursor_a = db_trend_a.find_one({"name": "ada"}).get("trend")
-    lenght = len(cursor_a)
+    lenght = len(
+
+
+
+    )
 
     if lenght > 600:
 
