@@ -281,6 +281,7 @@ def words_trend_last_200():
 
         for c in cursor:
             trend = c.get("trend")
+            db_words_trend.update_one({'name': c.get("name")}, {'$set': {'trend_av': int(sum(trend) / len(trend))}})
             trend_end = trend[-(lenght - num):]
             trend_start = trend[:num]
             db_words_trend.update_one({'name': c.get("name")}, {'$set': {'trend': trend_end}})

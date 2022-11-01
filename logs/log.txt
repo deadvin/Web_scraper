@@ -2494,3 +2494,2158 @@ Backtrace:
 	RtlGetAppContainerNamedObjectPath [0x77327B8E+238]
 
 =========================================
+=========================================
+WEB
+Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00431ED3+2236115]
+	Ordinal0 [0x003C92F1+1807089]
+	Ordinal0 [0x002D66FD+812797]
+	Ordinal0 [0x002C9449+758857]
+	Ordinal0 [0x002C92C1+758465]
+	Ordinal0 [0x002C8113+753939]
+	Ordinal0 [0x002C8748+755528]
+	Ordinal0 [0x002D15D2+792018]
+	Ordinal0 [0x002DCB15+838421]
+	Ordinal0 [0x002DFEB0+851632]
+	Ordinal0 [0x002C8ADC+756444]
+	Ordinal0 [0x002DC94F+837967]
+	Ordinal0 [0x0033590A+1202442]
+	Ordinal0 [0x003218A6+1120422]
+	Ordinal0 [0x002FA73D+960317]
+	Ordinal0 [0x002FB71F+964383]
+	GetHandleVerifier [0x006DE7E2+2743074]
+	GetHandleVerifier [0x006D08D4+2685972]
+	GetHandleVerifier [0x004C2BAA+532202]
+	GetHandleVerifier [0x004C1990+527568]
+	Ordinal0 [0x003D080C+1837068]
+	Ordinal0 [0x003D4CD8+1854680]
+	Ordinal0 [0x003D4DC5+1854917]
+	Ordinal0 [0x003DED64+1895780]
+	BaseThreadInitThunk [0x76F0FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77CD7BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77CD7B8E+238]
+
+=========================================
+=========================================
+Titter Acc - EXEPTION:
+Topic quota exceeded.
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 348, in send
+    resp = self._client.body(
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\_http_client.py", line 131, in body
+    resp = self.request(method, url, **kwargs)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\_http_client.py", line 119, in request
+    resp.raise_for_status()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://fcm.googleapis.com/v1/projects/fir-f7caf/messages:send
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 250, in on_status
+    fcm.sendPush_twitter("Tweet from " + status.user.screen_name, text,
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Firebase_manager.py", line 31, in sendPush_twitter
+    response = messaging.send(message)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 116, in send
+    return _get_messaging_service(app).send(message, dry_run)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 355, in send
+    raise self._handle_fcm_error(error)
+firebase_admin._messaging_utils.QuotaExceededError: Topic quota exceeded.
+
+=========================================
+=========================================
+WEB
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/section[1]/div[2]/div[3]/article[1]/div/div"}
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00DA1ED3+2236115]
+	Ordinal0 [0x00D392F1+1807089]
+	Ordinal0 [0x00C466FD+812797]
+	Ordinal0 [0x00C755DF+1005023]
+	Ordinal0 [0x00C757CB+1005515]
+	Ordinal0 [0x00CA7632+1209906]
+	Ordinal0 [0x00C91AD4+1120980]
+	Ordinal0 [0x00CA59E2+1202658]
+	Ordinal0 [0x00C918A6+1120422]
+	Ordinal0 [0x00C6A73D+960317]
+	Ordinal0 [0x00C6B71F+964383]
+	GetHandleVerifier [0x0104E7E2+2743074]
+	GetHandleVerifier [0x010408D4+2685972]
+	GetHandleVerifier [0x00E32BAA+532202]
+	GetHandleVerifier [0x00E31990+527568]
+	Ordinal0 [0x00D4080C+1837068]
+	Ordinal0 [0x00D44CD8+1854680]
+	Ordinal0 [0x00D44DC5+1854917]
+	Ordinal0 [0x00D4ED64+1895780]
+	BaseThreadInitThunk [0x76F0FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77CD7BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77CD7B8E+238]
+
+=========================================
+=========================================
+WEB
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/section[1]/div[2]/div[3]/article[1]/div/div"}
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00DA1ED3+2236115]
+	Ordinal0 [0x00D392F1+1807089]
+	Ordinal0 [0x00C466FD+812797]
+	Ordinal0 [0x00C755DF+1005023]
+	Ordinal0 [0x00C757CB+1005515]
+	Ordinal0 [0x00CA7632+1209906]
+	Ordinal0 [0x00C91AD4+1120980]
+	Ordinal0 [0x00CA59E2+1202658]
+	Ordinal0 [0x00C918A6+1120422]
+	Ordinal0 [0x00C6A73D+960317]
+	Ordinal0 [0x00C6B71F+964383]
+	GetHandleVerifier [0x0104E7E2+2743074]
+	GetHandleVerifier [0x010408D4+2685972]
+	GetHandleVerifier [0x00E32BAA+532202]
+	GetHandleVerifier [0x00E31990+527568]
+	Ordinal0 [0x00D4080C+1837068]
+	Ordinal0 [0x00D44CD8+1854680]
+	Ordinal0 [0x00D44DC5+1854917]
+	Ordinal0 [0x00D4ED64+1895780]
+	BaseThreadInitThunk [0x76F0FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77CD7BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77CD7B8E+238]
+
+=========================================
+=========================================
+WEB
+Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00DA1ED3+2236115]
+	Ordinal0 [0x00D392F1+1807089]
+	Ordinal0 [0x00C466FD+812797]
+	Ordinal0 [0x00C42C42+797762]
+	Ordinal0 [0x00C39C1D+760861]
+	Ordinal0 [0x00C3A9FC+764412]
+	Ordinal0 [0x00C39E5F+761439]
+	Ordinal0 [0x00C39350+758608]
+	Ordinal0 [0x00C392C1+758465]
+	Ordinal0 [0x00C38113+753939]
+	Ordinal0 [0x00C3861D+755229]
+	Ordinal0 [0x00C4800E+819214]
+	Ordinal0 [0x00CA60CD+1204429]
+	Ordinal0 [0x00C91A8C+1120908]
+	Ordinal0 [0x00CA59E2+1202658]
+	Ordinal0 [0x00C918A6+1120422]
+	Ordinal0 [0x00C6A73D+960317]
+	Ordinal0 [0x00C6B71F+964383]
+	GetHandleVerifier [0x0104E7E2+2743074]
+	GetHandleVerifier [0x010408D4+2685972]
+	GetHandleVerifier [0x00E32BAA+532202]
+	GetHandleVerifier [0x00E31990+527568]
+	Ordinal0 [0x00D4080C+1837068]
+	Ordinal0 [0x00D44CD8+1854680]
+	Ordinal0 [0x00D44DC5+1854917]
+	Ordinal0 [0x00D4ED64+1895780]
+	BaseThreadInitThunk [0x76F0FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77CD7BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77CD7B8E+238]
+
+=========================================
+=========================================
+WEB
+Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00DA1ED3+2236115]
+	Ordinal0 [0x00D392F1+1807089]
+	Ordinal0 [0x00C466FD+812797]
+	Ordinal0 [0x00C42C42+797762]
+	Ordinal0 [0x00C39C1D+760861]
+	Ordinal0 [0x00C3A9FC+764412]
+	Ordinal0 [0x00C39E5F+761439]
+	Ordinal0 [0x00C39350+758608]
+	Ordinal0 [0x00C392C1+758465]
+	Ordinal0 [0x00C38113+753939]
+	Ordinal0 [0x00C3861D+755229]
+	Ordinal0 [0x00C4800E+819214]
+	Ordinal0 [0x00CA60CD+1204429]
+	Ordinal0 [0x00C91A8C+1120908]
+	Ordinal0 [0x00CA59E2+1202658]
+	Ordinal0 [0x00C918A6+1120422]
+	Ordinal0 [0x00C6A73D+960317]
+	Ordinal0 [0x00C6B71F+964383]
+	GetHandleVerifier [0x0104E7E2+2743074]
+	GetHandleVerifier [0x010408D4+2685972]
+	GetHandleVerifier [0x00E32BAA+532202]
+	GetHandleVerifier [0x00E31990+527568]
+	Ordinal0 [0x00D4080C+1837068]
+	Ordinal0 [0x00D44CD8+1854680]
+	Ordinal0 [0x00D44DC5+1854917]
+	Ordinal0 [0x00D4ED64+1895780]
+	BaseThreadInitThunk [0x76F0FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77CD7BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77CD7B8E+238]
+
+=========================================
+=========================================
+WEB
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[4]/div[4]/main/div[2]/div/div/div[1]/div[2]/div/a"}
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00DA1ED3+2236115]
+	Ordinal0 [0x00D392F1+1807089]
+	Ordinal0 [0x00C466FD+812797]
+	Ordinal0 [0x00C755DF+1005023]
+	Ordinal0 [0x00C757CB+1005515]
+	Ordinal0 [0x00CA7632+1209906]
+	Ordinal0 [0x00C91AD4+1120980]
+	Ordinal0 [0x00CA59E2+1202658]
+	Ordinal0 [0x00C918A6+1120422]
+	Ordinal0 [0x00C6A73D+960317]
+	Ordinal0 [0x00C6B71F+964383]
+	GetHandleVerifier [0x0104E7E2+2743074]
+	GetHandleVerifier [0x010408D4+2685972]
+	GetHandleVerifier [0x00E32BAA+532202]
+	GetHandleVerifier [0x00E31990+527568]
+	Ordinal0 [0x00D4080C+1837068]
+	Ordinal0 [0x00D44CD8+1854680]
+	Ordinal0 [0x00D44DC5+1854917]
+	Ordinal0 [0x00D4ED64+1895780]
+	BaseThreadInitThunk [0x76F0FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77CD7BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77CD7B8E+238]
+
+=========================================
+=========================================
+WEB
+Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00DA1ED3+2236115]
+	Ordinal0 [0x00D392F1+1807089]
+	Ordinal0 [0x00C466FD+812797]
+	Ordinal0 [0x00C42C42+797762]
+	Ordinal0 [0x00C39C1D+760861]
+	Ordinal0 [0x00C3A9FC+764412]
+	Ordinal0 [0x00C39E5F+761439]
+	Ordinal0 [0x00C39350+758608]
+	Ordinal0 [0x00C392C1+758465]
+	Ordinal0 [0x00C38113+753939]
+	Ordinal0 [0x00C3861D+755229]
+	Ordinal0 [0x00C4800E+819214]
+	Ordinal0 [0x00CA60CD+1204429]
+	Ordinal0 [0x00C91A8C+1120908]
+	Ordinal0 [0x00CA59E2+1202658]
+	Ordinal0 [0x00C918A6+1120422]
+	Ordinal0 [0x00C6A73D+960317]
+	Ordinal0 [0x00C6B71F+964383]
+	GetHandleVerifier [0x0104E7E2+2743074]
+	GetHandleVerifier [0x010408D4+2685972]
+	GetHandleVerifier [0x00E32BAA+532202]
+	GetHandleVerifier [0x00E31990+527568]
+	Ordinal0 [0x00D4080C+1837068]
+	Ordinal0 [0x00D44CD8+1854680]
+	Ordinal0 [0x00D44DC5+1854917]
+	Ordinal0 [0x00D4ED64+1895780]
+	BaseThreadInitThunk [0x76F0FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77CD7BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77CD7B8E+238]
+
+=========================================
+=========================================
+WEB
+Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00DA1ED3+2236115]
+	Ordinal0 [0x00D392F1+1807089]
+	Ordinal0 [0x00C466FD+812797]
+	Ordinal0 [0x00C42C42+797762]
+	Ordinal0 [0x00C39C1D+760861]
+	Ordinal0 [0x00C3A9FC+764412]
+	Ordinal0 [0x00C39E5F+761439]
+	Ordinal0 [0x00C39350+758608]
+	Ordinal0 [0x00C392C1+758465]
+	Ordinal0 [0x00C38113+753939]
+	Ordinal0 [0x00C3861D+755229]
+	Ordinal0 [0x00C4800E+819214]
+	Ordinal0 [0x00CA60CD+1204429]
+	Ordinal0 [0x00C91A8C+1120908]
+	Ordinal0 [0x00CA59E2+1202658]
+	Ordinal0 [0x00C918A6+1120422]
+	Ordinal0 [0x00C6A73D+960317]
+	Ordinal0 [0x00C6B71F+964383]
+	GetHandleVerifier [0x0104E7E2+2743074]
+	GetHandleVerifier [0x010408D4+2685972]
+	GetHandleVerifier [0x00E32BAA+532202]
+	GetHandleVerifier [0x00E31990+527568]
+	Ordinal0 [0x00D4080C+1837068]
+	Ordinal0 [0x00D44CD8+1854680]
+	Ordinal0 [0x00D44DC5+1854917]
+	Ordinal0 [0x00D4ED64+1895780]
+	BaseThreadInitThunk [0x76F0FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77CD7BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77CD7B8E+238]
+
+=========================================
+=========================================
+WEB
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[4]/div[4]/main/div[2]/div/div/div[1]/div[2]/div/a"}
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00DA1ED3+2236115]
+	Ordinal0 [0x00D392F1+1807089]
+	Ordinal0 [0x00C466FD+812797]
+	Ordinal0 [0x00C755DF+1005023]
+	Ordinal0 [0x00C757CB+1005515]
+	Ordinal0 [0x00CA7632+1209906]
+	Ordinal0 [0x00C91AD4+1120980]
+	Ordinal0 [0x00CA59E2+1202658]
+	Ordinal0 [0x00C918A6+1120422]
+	Ordinal0 [0x00C6A73D+960317]
+	Ordinal0 [0x00C6B71F+964383]
+	GetHandleVerifier [0x0104E7E2+2743074]
+	GetHandleVerifier [0x010408D4+2685972]
+	GetHandleVerifier [0x00E32BAA+532202]
+	GetHandleVerifier [0x00E31990+527568]
+	Ordinal0 [0x00D4080C+1837068]
+	Ordinal0 [0x00D44CD8+1854680]
+	Ordinal0 [0x00D44DC5+1854917]
+	Ordinal0 [0x00D4ED64+1895780]
+	BaseThreadInitThunk [0x76F0FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77CD7BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77CD7B8E+238]
+
+=========================================
+=========================================
+WEB
+Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00DA1ED3+2236115]
+	Ordinal0 [0x00D392F1+1807089]
+	Ordinal0 [0x00C466FD+812797]
+	Ordinal0 [0x00C42C42+797762]
+	Ordinal0 [0x00C39C1D+760861]
+	Ordinal0 [0x00C3A9FC+764412]
+	Ordinal0 [0x00C39E5F+761439]
+	Ordinal0 [0x00C39350+758608]
+	Ordinal0 [0x00C392C1+758465]
+	Ordinal0 [0x00C38113+753939]
+	Ordinal0 [0x00C3861D+755229]
+	Ordinal0 [0x00C4800E+819214]
+	Ordinal0 [0x00CA60CD+1204429]
+	Ordinal0 [0x00C91A8C+1120908]
+	Ordinal0 [0x00CA59E2+1202658]
+	Ordinal0 [0x00C918A6+1120422]
+	Ordinal0 [0x00C6A73D+960317]
+	Ordinal0 [0x00C6B71F+964383]
+	GetHandleVerifier [0x0104E7E2+2743074]
+	GetHandleVerifier [0x010408D4+2685972]
+	GetHandleVerifier [0x00E32BAA+532202]
+	GetHandleVerifier [0x00E31990+527568]
+	Ordinal0 [0x00D4080C+1837068]
+	Ordinal0 [0x00D44CD8+1854680]
+	Ordinal0 [0x00D44DC5+1854917]
+	Ordinal0 [0x00D4ED64+1895780]
+	BaseThreadInitThunk [0x76F0FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77CD7BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77CD7B8E+238]
+
+=========================================
+=========================================
+WEB
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/section[1]/div[2]/div[3]/article[1]/div/div"}
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00DA1ED3+2236115]
+	Ordinal0 [0x00D392F1+1807089]
+	Ordinal0 [0x00C466FD+812797]
+	Ordinal0 [0x00C755DF+1005023]
+	Ordinal0 [0x00C757CB+1005515]
+	Ordinal0 [0x00CA7632+1209906]
+	Ordinal0 [0x00C91AD4+1120980]
+	Ordinal0 [0x00CA59E2+1202658]
+	Ordinal0 [0x00C918A6+1120422]
+	Ordinal0 [0x00C6A73D+960317]
+	Ordinal0 [0x00C6B71F+964383]
+	GetHandleVerifier [0x0104E7E2+2743074]
+	GetHandleVerifier [0x010408D4+2685972]
+	GetHandleVerifier [0x00E32BAA+532202]
+	GetHandleVerifier [0x00E31990+527568]
+	Ordinal0 [0x00D4080C+1837068]
+	Ordinal0 [0x00D44CD8+1854680]
+	Ordinal0 [0x00D44DC5+1854917]
+	Ordinal0 [0x00D4ED64+1895780]
+	BaseThreadInitThunk [0x76F0FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77CD7BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77CD7B8E+238]
+
+=========================================
+=========================================
+Titter Acc - EXEPTION:
+2022-10-30 03:00:10.678952
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 348, in send
+    resp = self._client.body(
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\_http_client.py", line 131, in body
+    resp = self.request(method, url, **kwargs)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\_http_client.py", line 119, in request
+    resp.raise_for_status()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://fcm.googleapis.com/v1/projects/fir-f7caf/messages:send
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 250, in on_status
+    fcm.sendPush_twitter("Tweet from " + status.user.screen_name, text,
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Firebase_manager.py", line 31, in sendPush_twitter
+    response = messaging.send(message)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 116, in send
+    return _get_messaging_service(app).send(message, dry_run)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 355, in send
+    raise self._handle_fcm_error(error)
+firebase_admin._messaging_utils.QuotaExceededError: Topic quota exceeded.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 205, in on_status
+    tim = tz.localize(datetime.datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:00:10.678952
+
+=========================================
+=========================================
+WEB
+2022-10-30 03:06:41.709145
+=========================================
+=========================================
+WEB
+2022-10-30 03:07:59.450661
+=========================================
+=========================================
+Titter Acc - EXEPTION:
+2022-10-30 03:08:13.390881
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 348, in send
+    resp = self._client.body(
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\_http_client.py", line 131, in body
+    resp = self.request(method, url, **kwargs)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\_http_client.py", line 119, in request
+    resp.raise_for_status()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://fcm.googleapis.com/v1/projects/fir-f7caf/messages:send
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 250, in on_status
+    fcm.sendPush_twitter("Tweet from " + status.user.screen_name, text,
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Firebase_manager.py", line 31, in sendPush_twitter
+    response = messaging.send(message)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 116, in send
+    return _get_messaging_service(app).send(message, dry_run)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 355, in send
+    raise self._handle_fcm_error(error)
+firebase_admin._messaging_utils.QuotaExceededError: Topic quota exceeded.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 205, in on_status
+    tim = tz.localize(datetime.datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:00:10.678952
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:08:13.390881
+
+=========================================
+=========================================
+WEB
+2022-10-30 03:09:09.443451
+=========================================
+=========================================
+WEB
+2022-10-30 03:10:30.691307
+=========================================
+=========================================
+WEB
+2022-10-30 03:11:23.274307
+=========================================
+=========================================
+WEB
+2022-10-30 03:12:42.296315
+=========================================
+=========================================
+WEB
+2022-10-30 03:13:38.478380
+=========================================
+=========================================
+WEB
+2022-10-30 03:14:39.286813
+=========================================
+=========================================
+WEB
+2022-10-30 03:15:39.393928
+=========================================
+=========================================
+WEB
+2022-10-30 03:16:40.257126
+=========================================
+=========================================
+WEB
+2022-10-30 03:17:46.305720
+=========================================
+=========================================
+WEB
+2022-10-30 03:18:46.955500
+=========================================
+=========================================
+WEB
+2022-10-30 03:20:07.397857
+=========================================
+=========================================
+WEB
+2022-10-30 03:21:28.830802
+=========================================
+=========================================
+WEB
+2022-10-30 03:22:32.326010
+=========================================
+=========================================
+Titter Acc - EXEPTION:
+2022-10-30 03:23:44.349981
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 348, in send
+    resp = self._client.body(
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\_http_client.py", line 131, in body
+    resp = self.request(method, url, **kwargs)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\_http_client.py", line 119, in request
+    resp.raise_for_status()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://fcm.googleapis.com/v1/projects/fir-f7caf/messages:send
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 250, in on_status
+    fcm.sendPush_twitter("Tweet from " + status.user.screen_name, text,
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Firebase_manager.py", line 31, in sendPush_twitter
+    response = messaging.send(message)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 116, in send
+    return _get_messaging_service(app).send(message, dry_run)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 355, in send
+    raise self._handle_fcm_error(error)
+firebase_admin._messaging_utils.QuotaExceededError: Topic quota exceeded.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 205, in on_status
+    tim = tz.localize(datetime.datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:00:10.678952
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:08:13.390881
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:23:44.349981
+
+=========================================
+=========================================
+WEB
+2022-10-30 03:23:52.001997
+=========================================
+=========================================
+WEB
+2022-10-30 03:25:08.851350
+=========================================
+=========================================
+WEB
+2022-10-30 03:26:02.144658
+=========================================
+=========================================
+WEB
+2022-10-30 03:27:13.722565
+=========================================
+=========================================
+WEB
+2022-10-30 03:28:13.379203
+=========================================
+=========================================
+WEB
+2022-10-30 03:29:15.702192
+=========================================
+=========================================
+WEB
+2022-10-30 03:30:33.392729
+=========================================
+=========================================
+WEB
+2022-10-30 03:31:28.855108
+=========================================
+=========================================
+WEB
+2022-10-30 03:32:53.256843
+=========================================
+=========================================
+WEB
+2022-10-30 03:33:54.664574
+=========================================
+=========================================
+WEB
+2022-10-30 03:34:58.595662
+=========================================
+=========================================
+WEB
+2022-10-30 03:35:57.166092
+=========================================
+=========================================
+WEB
+2022-10-30 03:37:05.827086
+=========================================
+=========================================
+WEB
+2022-10-30 03:38:29.259089
+=========================================
+=========================================
+WEB
+2022-10-30 03:39:39.776383
+=========================================
+=========================================
+WEB
+2022-10-30 03:40:51.702878
+=========================================
+=========================================
+WEB
+2022-10-30 03:41:50.530208
+=========================================
+=========================================
+WEB
+2022-10-30 03:43:01.203479
+=========================================
+=========================================
+Titter Acc - EXEPTION:
+2022-10-30 03:43:33.429018
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 348, in send
+    resp = self._client.body(
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\_http_client.py", line 131, in body
+    resp = self.request(method, url, **kwargs)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\_http_client.py", line 119, in request
+    resp.raise_for_status()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://fcm.googleapis.com/v1/projects/fir-f7caf/messages:send
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 250, in on_status
+    fcm.sendPush_twitter("Tweet from " + status.user.screen_name, text,
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Firebase_manager.py", line 31, in sendPush_twitter
+    response = messaging.send(message)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 116, in send
+    return _get_messaging_service(app).send(message, dry_run)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 355, in send
+    raise self._handle_fcm_error(error)
+firebase_admin._messaging_utils.QuotaExceededError: Topic quota exceeded.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 205, in on_status
+    tim = tz.localize(datetime.datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:00:10.678952
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:08:13.390881
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:23:44.349981
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:43:33.429018
+
+=========================================
+=========================================
+WEB
+2022-10-30 03:44:15.833336
+=========================================
+=========================================
+WEB
+2022-10-30 03:45:26.466261
+=========================================
+=========================================
+Titter Acc - EXEPTION:
+2022-10-30 03:46:14.785985
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 348, in send
+    resp = self._client.body(
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\_http_client.py", line 131, in body
+    resp = self.request(method, url, **kwargs)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\_http_client.py", line 119, in request
+    resp.raise_for_status()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://fcm.googleapis.com/v1/projects/fir-f7caf/messages:send
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 250, in on_status
+    fcm.sendPush_twitter("Tweet from " + status.user.screen_name, text,
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Firebase_manager.py", line 31, in sendPush_twitter
+    response = messaging.send(message)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 116, in send
+    return _get_messaging_service(app).send(message, dry_run)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 355, in send
+    raise self._handle_fcm_error(error)
+firebase_admin._messaging_utils.QuotaExceededError: Topic quota exceeded.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 205, in on_status
+    tim = tz.localize(datetime.datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:00:10.678952
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:08:13.390881
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:23:44.349981
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:43:33.429018
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:46:14.785985
+
+=========================================
+=========================================
+WEB
+2022-10-30 03:46:34.477143
+=========================================
+=========================================
+WEB
+2022-10-30 03:47:36.202513
+=========================================
+=========================================
+WEB
+2022-10-30 03:48:36.253703
+=========================================
+=========================================
+WEB
+2022-10-30 03:49:50.988383
+=========================================
+=========================================
+WEB
+2022-10-30 03:51:13.506901
+=========================================
+=========================================
+WEB
+2022-10-30 03:52:23.315070
+=========================================
+=========================================
+WEB
+2022-10-30 03:53:46.556779
+=========================================
+=========================================
+WEB
+2022-10-30 03:54:38.671351
+=========================================
+=========================================
+WEB
+2022-10-30 03:55:32.872802
+=========================================
+=========================================
+WEB
+2022-10-30 03:56:39.368959
+=========================================
+=========================================
+WEB
+2022-10-30 03:57:44.462502
+=========================================
+=========================================
+WEB
+2022-10-30 03:58:58.713295
+=========================================
+=========================================
+Titter Acc - EXEPTION:
+2022-10-30 03:59:12.012263
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 348, in send
+    resp = self._client.body(
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\_http_client.py", line 131, in body
+    resp = self.request(method, url, **kwargs)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\_http_client.py", line 119, in request
+    resp.raise_for_status()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://fcm.googleapis.com/v1/projects/fir-f7caf/messages:send
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 250, in on_status
+    fcm.sendPush_twitter("Tweet from " + status.user.screen_name, text,
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Firebase_manager.py", line 31, in sendPush_twitter
+    response = messaging.send(message)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 116, in send
+    return _get_messaging_service(app).send(message, dry_run)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 355, in send
+    raise self._handle_fcm_error(error)
+firebase_admin._messaging_utils.QuotaExceededError: Topic quota exceeded.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 205, in on_status
+    tim = tz.localize(datetime.datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:00:10.678952
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:08:13.390881
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:23:44.349981
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:43:33.429018
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:46:14.785985
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:59:12.012263
+
+=========================================
+=========================================
+WEB
+2022-10-30 03:00:19.217742
+=========================================
+=========================================
+WEB
+2022-10-30 03:01:41.520832
+=========================================
+=========================================
+WEB
+2022-10-30 03:03:03.252795
+=========================================
+=========================================
+WEB
+2022-10-30 03:04:19.249144
+=========================================
+=========================================
+WEB
+2022-10-30 03:05:38.811950
+=========================================
+=========================================
+WEB
+2022-10-30 03:06:44.026893
+=========================================
+=========================================
+WEB
+2022-10-30 03:07:35.406151
+=========================================
+=========================================
+WEB
+2022-10-30 03:08:44.887791
+=========================================
+=========================================
+WEB
+2022-10-30 03:09:48.836314
+=========================================
+=========================================
+WEB
+2022-10-30 03:10:53.810089
+=========================================
+=========================================
+WEB
+2022-10-30 03:12:11.572349
+=========================================
+=========================================
+WEB
+2022-10-30 03:13:12.972248
+=========================================
+=========================================
+WEB
+2022-10-30 03:14:34.604313
+=========================================
+=========================================
+WEB
+2022-10-30 03:15:31.096721
+=========================================
+=========================================
+WEB
+2022-10-30 03:16:24.404942
+=========================================
+=========================================
+WEB
+2022-10-30 03:17:44.160230
+=========================================
+=========================================
+WEB
+2022-10-30 03:18:49.792052
+=========================================
+=========================================
+WEB
+2022-10-30 03:20:08.452525
+=========================================
+=========================================
+Titter Acc - EXEPTION:
+2022-10-30 03:19:58.476707
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 348, in send
+    resp = self._client.body(
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\_http_client.py", line 131, in body
+    resp = self.request(method, url, **kwargs)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\_http_client.py", line 119, in request
+    resp.raise_for_status()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://fcm.googleapis.com/v1/projects/fir-f7caf/messages:send
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 250, in on_status
+    fcm.sendPush_twitter("Tweet from " + status.user.screen_name, text,
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Firebase_manager.py", line 31, in sendPush_twitter
+    response = messaging.send(message)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 116, in send
+    return _get_messaging_service(app).send(message, dry_run)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 355, in send
+    raise self._handle_fcm_error(error)
+firebase_admin._messaging_utils.QuotaExceededError: Topic quota exceeded.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 205, in on_status
+    tim = tz.localize(datetime.datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:00:10.678952
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:08:13.390881
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:23:44.349981
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:43:33.429018
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:46:14.785985
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:59:12.012263
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:19:58.476707
+
+=========================================
+=========================================
+WEB
+2022-10-30 03:21:11.842915
+=========================================
+=========================================
+Titter Acc - EXEPTION:
+2022-10-30 03:21:09.185075
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 348, in send
+    resp = self._client.body(
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\_http_client.py", line 131, in body
+    resp = self.request(method, url, **kwargs)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\_http_client.py", line 119, in request
+    resp.raise_for_status()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://fcm.googleapis.com/v1/projects/fir-f7caf/messages:send
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 250, in on_status
+    fcm.sendPush_twitter("Tweet from " + status.user.screen_name, text,
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Firebase_manager.py", line 31, in sendPush_twitter
+    response = messaging.send(message)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 116, in send
+    return _get_messaging_service(app).send(message, dry_run)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 355, in send
+    raise self._handle_fcm_error(error)
+firebase_admin._messaging_utils.QuotaExceededError: Topic quota exceeded.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 205, in on_status
+    tim = tz.localize(datetime.datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:00:10.678952
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:08:13.390881
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:23:44.349981
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:43:33.429018
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:46:14.785985
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:59:12.012263
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:19:58.476707
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:21:09.185075
+
+=========================================
+=========================================
+WEB
+2022-10-30 03:22:18.286420
+=========================================
+=========================================
+WEB
+2022-10-30 03:23:11.505399
+=========================================
+=========================================
+WEB
+2022-10-30 03:24:08.528981
+=========================================
+=========================================
+WEB
+2022-10-30 03:25:26.406346
+=========================================
+=========================================
+WEB
+2022-10-30 03:26:36.843436
+=========================================
+=========================================
+WEB
+2022-10-30 03:27:38.470195
+=========================================
+=========================================
+WEB
+2022-10-30 03:28:31.969901
+=========================================
+=========================================
+WEB
+2022-10-30 03:29:34.027851
+=========================================
+=========================================
+WEB
+2022-10-30 03:30:51.436749
+=========================================
+=========================================
+WEB
+2022-10-30 03:31:56.346045
+=========================================
+=========================================
+WEB
+2022-10-30 03:33:05.745616
+=========================================
+=========================================
+WEB
+2022-10-30 03:34:21.261017
+=========================================
+=========================================
+WEB
+2022-10-30 03:35:32.248654
+=========================================
+=========================================
+WEB
+2022-10-30 03:36:36.520530
+=========================================
+=========================================
+WEB
+2022-10-30 03:37:40.254186
+=========================================
+=========================================
+Titter Acc - EXEPTION:
+2022-10-30 03:38:10.421154
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 348, in send
+    resp = self._client.body(
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\_http_client.py", line 131, in body
+    resp = self.request(method, url, **kwargs)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\_http_client.py", line 119, in request
+    resp.raise_for_status()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://fcm.googleapis.com/v1/projects/fir-f7caf/messages:send
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 250, in on_status
+    fcm.sendPush_twitter("Tweet from " + status.user.screen_name, text,
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Firebase_manager.py", line 31, in sendPush_twitter
+    response = messaging.send(message)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 116, in send
+    return _get_messaging_service(app).send(message, dry_run)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 355, in send
+    raise self._handle_fcm_error(error)
+firebase_admin._messaging_utils.QuotaExceededError: Topic quota exceeded.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 205, in on_status
+    tim = tz.localize(datetime.datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:00:10.678952
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:08:13.390881
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:23:44.349981
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:43:33.429018
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:46:14.785985
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:59:12.012263
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:19:58.476707
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:21:09.185075
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:38:10.421154
+
+=========================================
+=========================================
+WEB
+2022-10-30 03:38:39.238978
+=========================================
+=========================================
+WEB
+2022-10-30 03:39:55.038310
+=========================================
+=========================================
+Titter Acc - EXEPTION:
+2022-10-30 03:40:11.373376
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 348, in send
+    resp = self._client.body(
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\_http_client.py", line 131, in body
+    resp = self.request(method, url, **kwargs)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\_http_client.py", line 119, in request
+    resp.raise_for_status()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://fcm.googleapis.com/v1/projects/fir-f7caf/messages:send
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 250, in on_status
+    fcm.sendPush_twitter("Tweet from " + status.user.screen_name, text,
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Firebase_manager.py", line 31, in sendPush_twitter
+    response = messaging.send(message)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 116, in send
+    return _get_messaging_service(app).send(message, dry_run)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 355, in send
+    raise self._handle_fcm_error(error)
+firebase_admin._messaging_utils.QuotaExceededError: Topic quota exceeded.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 205, in on_status
+    tim = tz.localize(datetime.datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:00:10.678952
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:08:13.390881
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:23:44.349981
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:43:33.429018
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:46:14.785985
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:59:12.012263
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:19:58.476707
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:21:09.185075
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:38:10.421154
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:40:11.373376
+
+=========================================
+=========================================
+WEB
+2022-10-30 03:41:02.220690
+=========================================
+=========================================
+WEB
+2022-10-30 03:42:12.875575
+=========================================
+=========================================
+WEB
+2022-10-30 03:43:34.067516
+=========================================
+=========================================
+WEB
+2022-10-30 03:44:52.709713
+=========================================
+=========================================
+WEB
+2022-10-30 03:45:50.281640
+=========================================
+=========================================
+WEB
+2022-10-30 03:47:12.841939
+=========================================
+=========================================
+WEB
+2022-10-30 03:48:14.312219
+=========================================
+=========================================
+WEB
+2022-10-30 03:49:15.252333
+=========================================
+=========================================
+WEB
+2022-10-30 03:50:26.245417
+=========================================
+=========================================
+Titter Acc - EXEPTION:
+2022-10-30 03:51:05.245284
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 348, in send
+    resp = self._client.body(
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\_http_client.py", line 131, in body
+    resp = self.request(method, url, **kwargs)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\_http_client.py", line 119, in request
+    resp.raise_for_status()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://fcm.googleapis.com/v1/projects/fir-f7caf/messages:send
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 250, in on_status
+    fcm.sendPush_twitter("Tweet from " + status.user.screen_name, text,
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Firebase_manager.py", line 31, in sendPush_twitter
+    response = messaging.send(message)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 116, in send
+    return _get_messaging_service(app).send(message, dry_run)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\firebase_admin\messaging.py", line 355, in send
+    raise self._handle_fcm_error(error)
+firebase_admin._messaging_utils.QuotaExceededError: Topic quota exceeded.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 205, in on_status
+    tim = tz.localize(datetime.datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:00:10.678952
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:08:13.390881
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:23:44.349981
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:43:33.429018
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:46:14.785985
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:59:12.012263
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:19:58.476707
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:21:09.185075
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:38:10.421154
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 147, in on_status
+    time2 = Utils.fix_time()
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Utils.py", line 59, in fix_time
+    tim = tz.localize(datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:40:11.373376
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 91, in _connect
+    self.on_data(line)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\tweepy\streaming.py", line 443, in on_data
+    return self.on_status(status)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\Twitter_stream_acc.py", line 205, in on_status
+    tim = tz.localize(datetime.datetime.now(), is_dst=None)
+  File "C:\Users\Deadvin\PycharmProjects\Web_scraper\venv\lib\site-packages\pytz\tzinfo.py", line 363, in localize
+    raise AmbiguousTimeError(dt)
+pytz.exceptions.AmbiguousTimeError: 2022-10-30 03:51:05.245284
+
+=========================================
+=========================================
+WEB
+2022-10-30 03:51:39.279705
+=========================================
+=========================================
+WEB
+2022-10-30 03:52:48.626656
+=========================================
+=========================================
+WEB
+2022-10-30 03:54:01.466871
+=========================================
+=========================================
+WEB
+2022-10-30 03:55:18.232314
+=========================================
+=========================================
+WEB
+2022-10-30 03:56:21.015799
+=========================================
+=========================================
+WEB
+2022-10-30 03:57:24.099739
+=========================================
+=========================================
+WEB
+2022-10-30 03:58:20.701625
+=========================================
+=========================================
+WEB
+2022-10-30 03:59:14.662903
+=========================================
+=========================================
+WEB
+Message: timeout: Timed out receiving message from renderer: -0.007
+  (Session info: headless chrome=106.0.5249.103)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00DA1ED3+2236115]
+	Ordinal0 [0x00D392F1+1807089]
+	Ordinal0 [0x00C466FD+812797]
+	Ordinal0 [0x00C39449+758857]
+	Ordinal0 [0x00C392C1+758465]
+	Ordinal0 [0x00C38113+753939]
+	Ordinal0 [0x00C38748+755528]
+	Ordinal0 [0x00C415D2+792018]
+	Ordinal0 [0x00C4CB15+838421]
+	Ordinal0 [0x00C4FEB0+851632]
+	Ordinal0 [0x00C38ADC+756444]
+	Ordinal0 [0x00C4C94F+837967]
+	Ordinal0 [0x00CA590A+1202442]
+	Ordinal0 [0x00C918A6+1120422]
+	Ordinal0 [0x00C6A73D+960317]
+	Ordinal0 [0x00C6B71F+964383]
+	GetHandleVerifier [0x0104E7E2+2743074]
+	GetHandleVerifier [0x010408D4+2685972]
+	GetHandleVerifier [0x00E32BAA+532202]
+	GetHandleVerifier [0x00E31990+527568]
+	Ordinal0 [0x00D4080C+1837068]
+	Ordinal0 [0x00D44CD8+1854680]
+	Ordinal0 [0x00D44DC5+1854917]
+	Ordinal0 [0x00D4ED64+1895780]
+	BaseThreadInitThunk [0x76F0FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77CD7BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77CD7B8E+238]
+
+=========================================
